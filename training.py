@@ -5,9 +5,10 @@ from sklearn.model_selection import KFold
 from xgboost import XGBRegressor
 from preprocessing import make_lagged_features
 
-N_FINGERS = 5
-CV_FOLDS  = 5
-SUBJECTS  = ['sub1', 'sub2', 'sub3']
+N_FINGERS    = 5
+CV_FOLDS     = 5
+SUBJECTS     = ['sub1', 'sub2', 'sub3']
+EVAL_FINGERS = [0, 1, 2, 4]  # ring finger (index 3) excluded from scoring
 
 all_cv_r = []
 
@@ -43,12 +44,14 @@ for subj in SUBJECTS:
             r, _ = pearsonr(y_train[va, finger], pred)
             cv_scores[fold, finger] = r
 
-        print(f'  fold {fold + 1}: r = {cv_scores[fold].round(4)} → mean {cv_scores[fold].mean():.4f}')
+        eval_r = cv_scores[fold, EVAL_FINGERS]
+        print(f'  fold {fold + 1}: r = {cv_scores[fold].round(4)} → eval mean {eval_r.mean():.4f}')
 
     mean_r = cv_scores.mean(axis=0)
+    eval_mean_r = cv_scores[:, EVAL_FINGERS].mean()
     print(f'  CV mean r per finger : {mean_r.round(4)}')
-    print(f'  CV mean r overall    : {cv_scores.mean():.4f}')
-    all_cv_r.append(cv_scores.mean())
+    print(f'  CV mean r (4 eval fingers) : {eval_mean_r:.4f}')
+    all_cv_r.append(eval_mean_r)
 
     # ── Retrain on full data and predict test ──────────────────────────────
     y_pred = np.zeros((X_test.shape[0], N_FINGERS))
@@ -72,4 +75,4 @@ for subj in SUBJECTS:
     )
     print(f'  saved y_pred_{subj}.npy, predictions_{subj}.csv')
 
-print(f'\n══ Overall mean CV r across subjects: {np.mean(all_cv_r):.4f} ══')
+print(f'\n══ Overall mean CV r across subjects (4 eval fingers): {np.mean(all_cv_r):.4f} ══')
