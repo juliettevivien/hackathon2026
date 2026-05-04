@@ -10,9 +10,11 @@ from pathlib import Path
 
 # ── Constants ──────────────────────────────────────────────────────────────
 DATA_PATH = Path('/Users/tanmoysil/Downloads/BCICIV_4_mat')
-FS = 1000
+FS_RAW = 1000
+FS = 250                          # target sampling rate after decimation
+DECIMATE_Q = FS_RAW // FS         # integer decimation factor (4)
 EPOCH_SEC = 10
-EPOCH_SAMPLES = FS * EPOCH_SEC  # 10,000 samples
+EPOCH_SAMPLES = FS * EPOCH_SEC    # 2,500 samples at 250 Hz
 
 BANDS = {
     'delta': (0.5, 4),
@@ -24,6 +26,12 @@ BANDS = {
 
 SUBJECTS = ['sub1_comp.mat', 'sub2_comp.mat', 'sub3_comp.mat']
 N_WORKERS = multiprocessing.cpu_count()
+
+
+# ── Downsample ─────────────────────────────────────────────────────────────
+def downsample(data: np.ndarray, q: int = DECIMATE_Q) -> np.ndarray:
+    # scipy.signal.decimate applies an anti-aliasing filter before subsampling
+    return scipy.signal.decimate(data, q, axis=0, zero_phase=True)
 
 
 # ── Bandpass filter ─────────────────────────────────────────────────────────
@@ -93,9 +101,9 @@ def extract_all_features(epochs_by_band: dict[str, np.ndarray], fs: int = FS) ->
 # ── Per-subject pipeline ────────────────────────────────────────────────────
 def process_subject(mat_file: str) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarray]:
     mat = scipy.io.loadmat(DATA_PATH / mat_file)
-    train_raw = mat['train_data'].astype(np.float64)
-    test_raw  = mat['test_data'].astype(np.float64)
-    dg        = mat['train_dg']
+    train_raw = downsample(mat['train_data'].astype(np.float64))
+    test_raw  = downsample(mat['test_data'].astype(np.float64))
+    dg        = downsample(mat['train_dg'].astype(np.float64))
 
     y_tr = aggregate_labels(dg)
 
