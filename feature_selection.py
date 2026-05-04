@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from sklearn.feature_selection import RFECV
+from sklearn.feature_selection import RFECV, SelectPercentile, f_regression
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import Ridge
@@ -39,16 +39,32 @@ X_scaled = scaler.fit_transform(X_train)
 estimator = Ridge(alpha=1.0)
 
 
-# ── RFECV per finger → union of selected features ───────────────────────────
-selected_mask = np.zeros(X_scaled.shape[1], dtype=bool)
+# ── Step 1: univariate pre-filter (top 10% of features per finger, union) ───
+print('Pre-filtering with SelectPercentile …')
+pre_mask = np.zeros(X_scaled.shape[1], dtype=bool)
+for finger in range(N_FINGERS):
+    pre = SelectPercentile(f_regression, percentile=10)
+    pre.fit(X_scaled, y_train[:, finger])
+    pre_mask |= pre.get_support()
+
+X_pre = X_scaled[:, pre_mask]
+print(f'  {pre_mask.sum()} features retained after pre-filter')
+
+# ── Step 2: RFECV on the reduced set ────────────────────────────────────────
+selected_mask_pre = np.zeros(X_pre.shape[1], dtype=bool)
 cv = KFold(n_splits=CV_FOLDS, shuffle=False)
 
 for finger in range(N_FINGERS):
     print(f'  RFECV finger {finger + 1}/{N_FINGERS} …')
     selector = RFECV(estimator, step=0.2, cv=cv, scoring='r2', n_jobs=-1)
-    selector.fit(X_scaled, y_train[:, finger])
-    selected_mask |= selector.support_
+    selector.fit(X_pre, y_train[:, finger])
+    selected_mask_pre |= selector.support_
     print(f'    → {selector.support_.sum()} features selected')
+
+# Map back to original feature indices
+pre_indices = np.where(pre_mask)[0]
+selected_mask = np.zeros(X_scaled.shape[1], dtype=bool)
+selected_mask[pre_indices[selected_mask_pre]] = True
 
 print(f'\nTotal features after union: {selected_mask.sum()} / {len(selected_mask)}')
 
