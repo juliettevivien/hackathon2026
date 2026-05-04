@@ -45,7 +45,7 @@ cv = KFold(n_splits=CV_FOLDS, shuffle=False)
 
 for finger in range(N_FINGERS):
     print(f'  RFECV finger {finger + 1}/{N_FINGERS} …')
-    selector = RFECV(estimator, step=0.5, cv=cv, scoring='r2', n_jobs=-1)
+    selector = RFECV(estimator, step=0.2, cv=cv, scoring='r2', n_jobs=-1)
     selector.fit(X_scaled, y_train[:, finger])
     selected_mask |= selector.support_
     print(f'    → {selector.support_.sum()} features selected')

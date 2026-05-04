@@ -52,6 +52,10 @@ def _band_worker(args: tuple) -> tuple[str, pd.DataFrame]:
     """Extract tsfel features for one band's full signal, letting tsfel window it."""
     signal, band_name, fs = args
     cfg = tsfel.get_features_by_domain("spectral")
+    for feat_name in ("MFCC", "LPCC", "Wavelet absolute mean", "Wavelet energy",
+                      "Wavelet entropy", "Wavelet standard deviation", "Wavelet variance"):
+        if feat_name in cfg.get("spectral", {}):
+            cfg["spectral"][feat_name]["use"] = "no"
     n_ch = signal.shape[1]
     signal_df = pd.DataFrame(signal, columns=[f'ch{i}' for i in range(n_ch)])
     feat = tsfel.time_series_features_extractor(
