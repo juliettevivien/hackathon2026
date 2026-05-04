@@ -125,6 +125,13 @@ if __name__ == '__main__':
         test_frames.append(x_te)
         label_frames.append(y_tr)
 
+        # Save per-subject files
+        subj_id = subj.replace('_comp.mat', '')
+        x_tr.to_parquet(f'X_train_{subj_id}.parquet')
+        x_te.to_parquet(f'X_test_{subj_id}.parquet')
+        np.save(f'y_train_{subj_id}.npy', y_tr)
+        print(f'  saved {subj_id}: train {x_tr.shape}, test {x_te.shape}, labels {y_tr.shape}')
+
     x_train = pd.concat(train_frames, ignore_index=True)
     x_test  = pd.concat(test_frames,  ignore_index=True)
     y_train = np.vstack(label_frames)
