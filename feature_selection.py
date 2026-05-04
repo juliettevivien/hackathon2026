@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.feature_selection import RFECV
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import Ridge
 
 N_FINGERS = 5
 CV_FOLDS  = 5
@@ -35,8 +36,7 @@ X_scaled = scaler.fit_transform(X_train)
 #   from sklearn.ensemble import RandomForestRegressor
 #   estimator = RandomForestRegressor(n_estimators=50, n_jobs=-1, random_state=42)
 
-from xgboost import XGBRegressor
-estimator = XGBRegressor(n_estimators=100, tree_method='hist', n_jobs=-1, random_state=42)
+estimator = Ridge(alpha=1.0)
 
 
 # ── RFECV per finger → union of selected features ───────────────────────────
@@ -45,7 +45,7 @@ cv = KFold(n_splits=CV_FOLDS, shuffle=False)
 
 for finger in range(N_FINGERS):
     print(f'  RFECV finger {finger + 1}/{N_FINGERS} …')
-    selector = RFECV(estimator, step=0.2, cv=cv, scoring='r2', n_jobs=-1)
+    selector = RFECV(estimator, step=0.5, cv=cv, scoring='r2', n_jobs=-1)
     selector.fit(X_scaled, y_train[:, finger])
     selected_mask |= selector.support_
     print(f'    → {selector.support_.sum()} features selected')
