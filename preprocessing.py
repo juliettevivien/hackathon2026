@@ -13,8 +13,8 @@ DATA_PATH = Path('/Users/tanmoysil/Downloads/BCICIV_4_mat')
 FS_RAW = 1000
 FS = 250                          # target sampling rate after decimation
 DECIMATE_Q = FS_RAW // FS         # integer decimation factor (4)
-EPOCH_SEC = 10
-EPOCH_SAMPLES = FS * EPOCH_SEC    # 2,500 samples at 250 Hz
+EPOCH_SEC = 2.0
+EPOCH_SAMPLES = int(FS * EPOCH_SEC)  # 500 samples at 250 Hz → 2 s windows
 
 BANDS = {
     'delta': (0.5, 4),
@@ -41,61 +41,33 @@ def bandpass_filter(data: np.ndarray, low: float, high: float, fs: int = FS) -> 
     return scipy.signal.sosfiltfilt(sos, data, axis=0)
 
 
-# ── Epoch ──────────────────────────────────────────────────────────
-def make_epochs(data: np.ndarray, epoch_samples: int = EPOCH_SAMPLES) -> np.ndarray:
-    n_epochs = data.shape[0] // epoch_samples
-    data = data[: n_epochs * epoch_samples]
-    return data.reshape(n_epochs, epoch_samples, data.shape[1])
-
-
-# ── Label aggregation ───────────────────────────────────────────────────────
-def aggregate_labels(dg: np.ndarray, epoch_samples: int = EPOCH_SAMPLES) -> np.ndarray:
+# ── Label alignment ─────────────────────────────────────────────────────────
+def window_labels(dg: np.ndarray, epoch_samples: int = EPOCH_SAMPLES) -> np.ndarray:
     n_epochs = len(dg) // epoch_samples
-    dg = dg[: n_epochs * epoch_samples]
-    return dg.reshape(n_epochs, epoch_samples, -1).mean(axis=1)
+    return dg[: n_epochs * epoch_samples : epoch_samples]
 
 
 # ── Worker (module-level so it is picklable) ────────────────────────────────
-def _epoch_worker(args: tuple) -> tuple[np.ndarray, list[str]]:
-    """Extract tsfel features for one (band, epoch) pair."""
-    epoch_array, band_name, fs = args
+def _band_worker(args: tuple) -> tuple[str, pd.DataFrame]:
+    """Extract tsfel features for one band's full signal, letting tsfel window it."""
+    signal, band_name, fs = args
     cfg = tsfel.get_features_by_domain()
-    n_ch = epoch_array.shape[1]
-    epoch_df = pd.DataFrame(epoch_array, columns=[f'ch{i}' for i in range(n_ch)])
+    n_ch = signal.shape[1]
+    signal_df = pd.DataFrame(signal, columns=[f'ch{i}' for i in range(n_ch)])
     feat = tsfel.time_series_features_extractor(
-        cfg, epoch_df, fs=fs, window_size=len(epoch_df), verbose=0,
+        cfg, signal_df, fs=fs, window_size=EPOCH_SAMPLES, overlap=0, verbose=0,
     )
-    return feat.values.flatten(), list(feat.columns)
+    feat.columns = [f'{band_name}__{c}' for c in feat.columns]
+    return band_name, feat
 
 
-# ── Parallel feature extraction across all bands × epochs ──────────────────
-def extract_all_features(epochs_by_band: dict[str, np.ndarray], fs: int = FS) -> pd.DataFrame:
-    """
-    Flatten all (band, epoch) pairs and extract tsfel features in a single
-    process pool, then reassemble into one DataFrame per band.
-    """
-    # Build a flat ordered task list preserving (band, epoch) order
-    tasks: list[tuple] = []
-    band_epoch_counts: list[tuple[str, int]] = []
-    for band_name, epochs in epochs_by_band.items():
-        n = epochs.shape[0]
-        tasks.extend((epochs[i], band_name, fs) for i in range(n))
-        band_epoch_counts.append((band_name, n))
-
+# ── Parallel feature extraction — one task per band ────────────────────────
+def extract_all_features(filtered: dict[str, np.ndarray], fs: int = FS) -> pd.DataFrame:
+    tasks = [(sig, band, fs) for band, sig in filtered.items()]
     with ProcessPoolExecutor(max_workers=N_WORKERS) as pool:
-        results = list(pool.map(_epoch_worker, tasks))
-
-    # Slice results back into per-band DataFrames and concatenate
-    band_dfs: list[pd.DataFrame] = []
-    cursor = 0
-    for band_name, n in band_epoch_counts:
-        band_results = results[cursor: cursor + n]
-        rows = [r[0] for r in band_results]
-        cols = [f'{band_name}__{c}' for c in band_results[0][1]]
-        band_dfs.append(pd.DataFrame(rows, columns=cols))
-        cursor += n
-
-    return pd.concat(band_dfs, axis=1)
+        results = list(pool.map(_band_worker, tasks))
+    ordered = {band: df for band, df in results}
+    return pd.concat([ordered[b] for b in filtered], axis=1)
 
 
 # ── Per-subject pipeline ────────────────────────────────────────────────────
@@ -103,9 +75,9 @@ def process_subject(mat_file: str) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarr
     mat = scipy.io.loadmat(DATA_PATH / mat_file)
     train_raw = downsample(mat['train_data'].astype(np.float64))
     test_raw  = downsample(mat['test_data'].astype(np.float64))
-    dg        = downsample(mat['train_dg'].astype(np.float64))
+    dg        = mat['train_dg'].astype(np.float64)[::DECIMATE_Q]  # stride — no filter needed for slow finger signal
 
-    y_tr = aggregate_labels(dg)
+    y_tr = window_labels(dg)
 
     # Step 1: filter all bands in parallel (threads — scipy releases the GIL)
     print(f'  [{mat_file}] filtering …')
@@ -125,15 +97,11 @@ def process_subject(mat_file: str) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarr
     train_filtered = {band: sig for band, sig in filter_results[:n_bands]}
     test_filtered  = {band: sig for band, sig in filter_results[n_bands:]}
 
-    # Step 2: epoch each filtered signal
-    train_epochs = {band: make_epochs(sig) for band, sig in train_filtered.items()}
-    test_epochs  = {band: make_epochs(sig) for band, sig in test_filtered.items()}
-
-    # Step 3: extract features — all (band × epoch) pairs in one process pool
+    # Step 2: extract features — one process per band, tsfel handles windowing
     print(f'  [{mat_file}] extracting features (train) …')
-    x_tr = extract_all_features(train_epochs)
+    x_tr = extract_all_features(train_filtered)
     print(f'  [{mat_file}] extracting features (test) …')
-    x_te = extract_all_features(test_epochs)
+    x_te = extract_all_features(test_filtered)
 
     return x_tr, x_te, y_tr
 
