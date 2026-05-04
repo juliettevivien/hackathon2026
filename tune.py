@@ -10,7 +10,7 @@ optuna.logging.set_verbosity(optuna.logging.WARNING)
 TRUE_LABELS_PATH = '/Users/tanmoysil/Downloads/true_labels'
 N_FINGERS  = 5
 CV_FOLDS   = 5
-N_TRIALS   = 50
+N_TRIALS   = 5
 SUBJECTS   = ['sub1', 'sub2', 'sub3']
 DECIMATE_Q = 4
 EPOCH_SAMPLES = 250  # 1s at 250 Hz
