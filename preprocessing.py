@@ -13,8 +13,8 @@ DATA_PATH = Path('/Users/tanmoysil/Downloads/BCICIV_4_mat')
 FS_RAW = 1000
 FS = 250                          # target sampling rate after decimation
 DECIMATE_Q = FS_RAW // FS         # integer decimation factor (4)
-EPOCH_SEC = 2.0
-EPOCH_SAMPLES = int(FS * EPOCH_SEC)  # 500 samples at 250 Hz → 2 s windows
+EPOCH_SEC = 1.0
+EPOCH_SAMPLES = int(FS * EPOCH_SEC)  # 250 samples at 250 Hz → 1 s windows
 
 BANDS = {
     'delta': (0.5, 4),
@@ -52,9 +52,13 @@ def _band_worker(args: tuple) -> tuple[str, pd.DataFrame]:
     """Extract tsfel features for one band's full signal, letting tsfel window it."""
     signal, band_name, fs = args
     cfg = tsfel.get_features_by_domain("spectral")
-    for feat_name in ("MFCC", "LPCC", "Wavelet absolute mean", "Wavelet energy",
-                      "Wavelet entropy", "Wavelet standard deviation", "Wavelet variance"):
-        if feat_name in cfg.get("spectral", {}):
+    keep = {
+        "Spectral centroid", "Spectral entropy", "Spectral roll-off", "Spectral roll-on",
+        "Spectral spread", "Spectral skewness", "Spectral kurtosis", "Spectral slope",
+        "Power bandwidth", "Median frequency", "Max power spectrum",
+    }
+    for feat_name in list(cfg.get("spectral", {})):
+        if feat_name not in keep:
             cfg["spectral"][feat_name]["use"] = "no"
     n_ch = signal.shape[1]
     signal_df = pd.DataFrame(signal, columns=[f'ch{i}' for i in range(n_ch)])

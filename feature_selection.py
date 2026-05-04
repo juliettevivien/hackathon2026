@@ -1,12 +1,13 @@
 import numpy as np
 import pandas as pd
-from sklearn.feature_selection import RFECV, SelectPercentile, f_regression
+from sklearn.feature_selection import RFECV, SelectKBest, f_regression
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import Ridge
 
 N_FINGERS = 5
 CV_FOLDS  = 5
+TOP_K     = 100  # features kept per finger before RFECV (union across fingers)
 
 # ── Load ────────────────────────────────────────────────────────────────────
 X_train = pd.read_parquet('X_train.parquet')
@@ -40,10 +41,10 @@ estimator = Ridge(alpha=1.0)
 
 
 # ── Step 1: univariate pre-filter (top 10% of features per finger, union) ───
-print('Pre-filtering with SelectPercentile …')
+print(f'Pre-filtering with SelectKBest (top {TOP_K} per finger) …')
 pre_mask = np.zeros(X_scaled.shape[1], dtype=bool)
 for finger in range(N_FINGERS):
-    pre = SelectPercentile(f_regression, percentile=10)
+    pre = SelectKBest(f_regression, k=TOP_K)
     pre.fit(X_scaled, y_train[:, finger])
     pre_mask |= pre.get_support()
 
