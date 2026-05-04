@@ -51,7 +51,7 @@ def window_labels(dg: np.ndarray, epoch_samples: int = EPOCH_SAMPLES) -> np.ndar
 def _band_worker(args: tuple) -> tuple[str, pd.DataFrame]:
     """Extract tsfel features for one band's full signal, letting tsfel window it."""
     signal, band_name, fs = args
-    cfg = tsfel.get_features_by_domain()
+    cfg = tsfel.get_features_by_domain("spectral")
     n_ch = signal.shape[1]
     signal_df = pd.DataFrame(signal, columns=[f'ch{i}' for i in range(n_ch)])
     feat = tsfel.time_series_features_extractor(
