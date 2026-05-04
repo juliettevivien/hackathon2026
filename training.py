@@ -3,6 +3,7 @@ import pandas as pd
 from scipy.stats import pearsonr
 from sklearn.model_selection import KFold
 from xgboost import XGBRegressor
+from preprocessing import make_lagged_features
 
 N_FINGERS = 5
 CV_FOLDS  = 5
@@ -12,9 +13,12 @@ all_cv_r = []
 
 for subj in SUBJECTS:
     print(f'\n── {subj} ──────────────────────────────────────')
-    X_train = pd.read_parquet(f'X_train_{subj}_selected.parquet').values
-    X_test  = pd.read_parquet(f'X_test_{subj}_selected.parquet').values
-    y_train = np.load(f'y_train_{subj}.npy')
+    X_train_raw = pd.read_parquet(f'X_train_{subj}_selected.parquet').values
+    X_test_raw  = pd.read_parquet(f'X_test_{subj}_selected.parquet').values
+    y_train_raw = np.load(f'y_train_{subj}.npy')
+
+    X_train, y_train = make_lagged_features(X_train_raw, y_train_raw)
+    X_test           = make_lagged_features(X_test_raw)
 
     print(f'  X_train {X_train.shape}  y_train {y_train.shape}')
 

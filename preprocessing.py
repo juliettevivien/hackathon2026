@@ -114,6 +114,30 @@ def process_subject(mat_file: str) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarr
     return x_tr, x_te, y_tr
 
 
+# ── Lagged feature construction ────────────────────────────────────────────
+# Brain activity precedes finger movement by ~100–300ms; including past epochs
+# as additional features lets the model exploit that causal lead.
+def make_lagged_features(
+    X: np.ndarray,
+    y: np.ndarray | None = None,
+    lags: tuple[int, ...] = (0, 1, 2, 3, 4, 5, 10, 15),
+) -> np.ndarray | tuple[np.ndarray, np.ndarray]:
+    max_lag = max(lags)
+
+    rows = []
+    for t in range(max_lag, len(X)):
+        row = np.concatenate([X[t - lag] for lag in lags])
+        rows.append(row)
+
+    X_lagged = np.asarray(rows)
+
+    if y is None:
+        return X_lagged
+
+    y_lagged = y[max_lag:]
+    return X_lagged, y_lagged
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
     train_frames, test_frames, label_frames = [], [], []
