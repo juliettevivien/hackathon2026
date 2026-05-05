@@ -1,0 +1,6882 @@
+0_Fundamental frequency
+0_Human range energy
+0_LPCC_0
+0_LPCC_1
+0_LPCC_10
+0_LPCC_11
+0_LPCC_2
+0_LPCC_3
+0_LPCC_4
+0_LPCC_5
+0_LPCC_6
+0_LPCC_7
+0_LPCC_8
+0_LPCC_9
+0_MFCC_0
+0_MFCC_1
+0_MFCC_10
+0_MFCC_11
+0_MFCC_2
+0_MFCC_3
+0_MFCC_4
+0_MFCC_5
+0_MFCC_6
+0_MFCC_7
+0_MFCC_8
+0_MFCC_9
+0_Max power spectrum
+0_Maximum frequency
+0_Median frequency
+0_Power bandwidth
+0_Spectral centroid
+0_Spectral decrease
+0_Spectral distance
+0_Spectral entropy
+0_Spectral kurtosis
+0_Spectral positive turning points
+0_Spectral roll-off
+0_Spectral roll-on
+0_Spectral skewness
+0_Spectral slope
+0_Spectral spread
+0_Spectral variation
+0_Spectrogram mean coefficient_0.0Hz
+0_Spectrogram mean coefficient_100.81Hz
+0_Spectrogram mean coefficient_104.84Hz
+0_Spectrogram mean coefficient_108.87Hz
+0_Spectrogram mean coefficient_112.9Hz
+0_Spectrogram mean coefficient_116.94Hz
+0_Spectrogram mean coefficient_12.1Hz
+0_Spectrogram mean coefficient_120.97Hz
+0_Spectrogram mean coefficient_125.0Hz
+0_Spectrogram mean coefficient_16.13Hz
+0_Spectrogram mean coefficient_20.16Hz
+0_Spectrogram mean coefficient_24.19Hz
+0_Spectrogram mean coefficient_28.23Hz
+0_Spectrogram mean coefficient_32.26Hz
+0_Spectrogram mean coefficient_36.29Hz
+0_Spectrogram mean coefficient_4.03Hz
+0_Spectrogram mean coefficient_40.32Hz
+0_Spectrogram mean coefficient_44.35Hz
+0_Spectrogram mean coefficient_48.39Hz
+0_Spectrogram mean coefficient_52.42Hz
+0_Spectrogram mean coefficient_56.45Hz
+0_Spectrogram mean coefficient_60.48Hz
+0_Spectrogram mean coefficient_64.52Hz
+0_Spectrogram mean coefficient_68.55Hz
+0_Spectrogram mean coefficient_72.58Hz
+0_Spectrogram mean coefficient_76.61Hz
+0_Spectrogram mean coefficient_8.06Hz
+0_Spectrogram mean coefficient_80.65Hz
+0_Spectrogram mean coefficient_84.68Hz
+0_Spectrogram mean coefficient_88.71Hz
+0_Spectrogram mean coefficient_92.74Hz
+0_Spectrogram mean coefficient_96.77Hz
+0_Wavelet absolute mean_10.42Hz
+0_Wavelet absolute mean_12.5Hz
+0_Wavelet absolute mean_15.62Hz
+0_Wavelet absolute mean_20.83Hz
+0_Wavelet absolute mean_31.25Hz
+0_Wavelet absolute mean_6.94Hz
+0_Wavelet absolute mean_62.5Hz
+0_Wavelet absolute mean_7.81Hz
+0_Wavelet absolute mean_8.93Hz
+0_Wavelet energy_10.42Hz
+0_Wavelet energy_12.5Hz
+0_Wavelet energy_15.62Hz
+0_Wavelet energy_20.83Hz
+0_Wavelet energy_31.25Hz
+0_Wavelet energy_6.94Hz
+0_Wavelet energy_62.5Hz
+0_Wavelet energy_7.81Hz
+0_Wavelet energy_8.93Hz
+0_Wavelet entropy
+0_Wavelet standard deviation_10.42Hz
+0_Wavelet standard deviation_12.5Hz
+0_Wavelet standard deviation_15.62Hz
+0_Wavelet standard deviation_20.83Hz
+0_Wavelet standard deviation_31.25Hz
+0_Wavelet standard deviation_6.94Hz
+0_Wavelet standard deviation_62.5Hz
+0_Wavelet standard deviation_7.81Hz
+0_Wavelet standard deviation_8.93Hz
+0_Wavelet variance_10.42Hz
+0_Wavelet variance_12.5Hz
+0_Wavelet variance_15.62Hz
+0_Wavelet variance_20.83Hz
+0_Wavelet variance_31.25Hz
+0_Wavelet variance_6.94Hz
+0_Wavelet variance_62.5Hz
+0_Wavelet variance_7.81Hz
+0_Wavelet variance_8.93Hz
+10_Fundamental frequency
+10_Human range energy
+10_LPCC_0
+10_LPCC_1
+10_LPCC_10
+10_LPCC_11
+10_LPCC_2
+10_LPCC_3
+10_LPCC_4
+10_LPCC_5
+10_LPCC_6
+10_LPCC_7
+10_LPCC_8
+10_LPCC_9
+10_MFCC_0
+10_MFCC_1
+10_MFCC_10
+10_MFCC_11
+10_MFCC_2
+10_MFCC_3
+10_MFCC_4
+10_MFCC_5
+10_MFCC_6
+10_MFCC_7
+10_MFCC_8
+10_MFCC_9
+10_Max power spectrum
+10_Maximum frequency
+10_Median frequency
+10_Power bandwidth
+10_Spectral centroid
+10_Spectral decrease
+10_Spectral distance
+10_Spectral entropy
+10_Spectral kurtosis
+10_Spectral positive turning points
+10_Spectral roll-off
+10_Spectral roll-on
+10_Spectral skewness
+10_Spectral slope
+10_Spectral spread
+10_Spectral variation
+10_Spectrogram mean coefficient_0.0Hz
+10_Spectrogram mean coefficient_100.81Hz
+10_Spectrogram mean coefficient_104.84Hz
+10_Spectrogram mean coefficient_108.87Hz
+10_Spectrogram mean coefficient_112.9Hz
+10_Spectrogram mean coefficient_116.94Hz
+10_Spectrogram mean coefficient_12.1Hz
+10_Spectrogram mean coefficient_120.97Hz
+10_Spectrogram mean coefficient_125.0Hz
+10_Spectrogram mean coefficient_16.13Hz
+10_Spectrogram mean coefficient_20.16Hz
+10_Spectrogram mean coefficient_24.19Hz
+10_Spectrogram mean coefficient_28.23Hz
+10_Spectrogram mean coefficient_32.26Hz
+10_Spectrogram mean coefficient_36.29Hz
+10_Spectrogram mean coefficient_4.03Hz
+10_Spectrogram mean coefficient_40.32Hz
+10_Spectrogram mean coefficient_44.35Hz
+10_Spectrogram mean coefficient_48.39Hz
+10_Spectrogram mean coefficient_52.42Hz
+10_Spectrogram mean coefficient_56.45Hz
+10_Spectrogram mean coefficient_60.48Hz
+10_Spectrogram mean coefficient_64.52Hz
+10_Spectrogram mean coefficient_68.55Hz
+10_Spectrogram mean coefficient_72.58Hz
+10_Spectrogram mean coefficient_76.61Hz
+10_Spectrogram mean coefficient_8.06Hz
+10_Spectrogram mean coefficient_80.65Hz
+10_Spectrogram mean coefficient_84.68Hz
+10_Spectrogram mean coefficient_88.71Hz
+10_Spectrogram mean coefficient_92.74Hz
+10_Spectrogram mean coefficient_96.77Hz
+10_Wavelet absolute mean_10.42Hz
+10_Wavelet absolute mean_12.5Hz
+10_Wavelet absolute mean_15.62Hz
+10_Wavelet absolute mean_20.83Hz
+10_Wavelet absolute mean_31.25Hz
+10_Wavelet absolute mean_6.94Hz
+10_Wavelet absolute mean_62.5Hz
+10_Wavelet absolute mean_7.81Hz
+10_Wavelet absolute mean_8.93Hz
+10_Wavelet energy_10.42Hz
+10_Wavelet energy_12.5Hz
+10_Wavelet energy_15.62Hz
+10_Wavelet energy_20.83Hz
+10_Wavelet energy_31.25Hz
+10_Wavelet energy_6.94Hz
+10_Wavelet energy_62.5Hz
+10_Wavelet energy_7.81Hz
+10_Wavelet energy_8.93Hz
+10_Wavelet entropy
+10_Wavelet standard deviation_10.42Hz
+10_Wavelet standard deviation_12.5Hz
+10_Wavelet standard deviation_15.62Hz
+10_Wavelet standard deviation_20.83Hz
+10_Wavelet standard deviation_31.25Hz
+10_Wavelet standard deviation_6.94Hz
+10_Wavelet standard deviation_62.5Hz
+10_Wavelet standard deviation_7.81Hz
+10_Wavelet standard deviation_8.93Hz
+10_Wavelet variance_10.42Hz
+10_Wavelet variance_12.5Hz
+10_Wavelet variance_15.62Hz
+10_Wavelet variance_20.83Hz
+10_Wavelet variance_31.25Hz
+10_Wavelet variance_6.94Hz
+10_Wavelet variance_62.5Hz
+10_Wavelet variance_7.81Hz
+10_Wavelet variance_8.93Hz
+11_Fundamental frequency
+11_Human range energy
+11_LPCC_0
+11_LPCC_1
+11_LPCC_10
+11_LPCC_11
+11_LPCC_2
+11_LPCC_3
+11_LPCC_4
+11_LPCC_5
+11_LPCC_6
+11_LPCC_7
+11_LPCC_8
+11_LPCC_9
+11_MFCC_0
+11_MFCC_1
+11_MFCC_10
+11_MFCC_11
+11_MFCC_2
+11_MFCC_3
+11_MFCC_4
+11_MFCC_5
+11_MFCC_6
+11_MFCC_7
+11_MFCC_8
+11_MFCC_9
+11_Max power spectrum
+11_Maximum frequency
+11_Median frequency
+11_Power bandwidth
+11_Spectral centroid
+11_Spectral decrease
+11_Spectral distance
+11_Spectral entropy
+11_Spectral kurtosis
+11_Spectral positive turning points
+11_Spectral roll-off
+11_Spectral roll-on
+11_Spectral skewness
+11_Spectral slope
+11_Spectral spread
+11_Spectral variation
+11_Spectrogram mean coefficient_0.0Hz
+11_Spectrogram mean coefficient_100.81Hz
+11_Spectrogram mean coefficient_104.84Hz
+11_Spectrogram mean coefficient_108.87Hz
+11_Spectrogram mean coefficient_112.9Hz
+11_Spectrogram mean coefficient_116.94Hz
+11_Spectrogram mean coefficient_12.1Hz
+11_Spectrogram mean coefficient_120.97Hz
+11_Spectrogram mean coefficient_125.0Hz
+11_Spectrogram mean coefficient_16.13Hz
+11_Spectrogram mean coefficient_20.16Hz
+11_Spectrogram mean coefficient_24.19Hz
+11_Spectrogram mean coefficient_28.23Hz
+11_Spectrogram mean coefficient_32.26Hz
+11_Spectrogram mean coefficient_36.29Hz
+11_Spectrogram mean coefficient_4.03Hz
+11_Spectrogram mean coefficient_40.32Hz
+11_Spectrogram mean coefficient_44.35Hz
+11_Spectrogram mean coefficient_48.39Hz
+11_Spectrogram mean coefficient_52.42Hz
+11_Spectrogram mean coefficient_56.45Hz
+11_Spectrogram mean coefficient_60.48Hz
+11_Spectrogram mean coefficient_64.52Hz
+11_Spectrogram mean coefficient_68.55Hz
+11_Spectrogram mean coefficient_72.58Hz
+11_Spectrogram mean coefficient_76.61Hz
+11_Spectrogram mean coefficient_8.06Hz
+11_Spectrogram mean coefficient_80.65Hz
+11_Spectrogram mean coefficient_84.68Hz
+11_Spectrogram mean coefficient_88.71Hz
+11_Spectrogram mean coefficient_92.74Hz
+11_Spectrogram mean coefficient_96.77Hz
+11_Wavelet absolute mean_10.42Hz
+11_Wavelet absolute mean_12.5Hz
+11_Wavelet absolute mean_15.62Hz
+11_Wavelet absolute mean_20.83Hz
+11_Wavelet absolute mean_31.25Hz
+11_Wavelet absolute mean_6.94Hz
+11_Wavelet absolute mean_62.5Hz
+11_Wavelet absolute mean_7.81Hz
+11_Wavelet absolute mean_8.93Hz
+11_Wavelet energy_10.42Hz
+11_Wavelet energy_12.5Hz
+11_Wavelet energy_15.62Hz
+11_Wavelet energy_20.83Hz
+11_Wavelet energy_31.25Hz
+11_Wavelet energy_6.94Hz
+11_Wavelet energy_62.5Hz
+11_Wavelet energy_7.81Hz
+11_Wavelet energy_8.93Hz
+11_Wavelet entropy
+11_Wavelet standard deviation_10.42Hz
+11_Wavelet standard deviation_12.5Hz
+11_Wavelet standard deviation_15.62Hz
+11_Wavelet standard deviation_20.83Hz
+11_Wavelet standard deviation_31.25Hz
+11_Wavelet standard deviation_6.94Hz
+11_Wavelet standard deviation_62.5Hz
+11_Wavelet standard deviation_7.81Hz
+11_Wavelet standard deviation_8.93Hz
+11_Wavelet variance_10.42Hz
+11_Wavelet variance_12.5Hz
+11_Wavelet variance_15.62Hz
+11_Wavelet variance_20.83Hz
+11_Wavelet variance_31.25Hz
+11_Wavelet variance_6.94Hz
+11_Wavelet variance_62.5Hz
+11_Wavelet variance_7.81Hz
+11_Wavelet variance_8.93Hz
+12_Fundamental frequency
+12_Human range energy
+12_LPCC_0
+12_LPCC_1
+12_LPCC_10
+12_LPCC_11
+12_LPCC_2
+12_LPCC_3
+12_LPCC_4
+12_LPCC_5
+12_LPCC_6
+12_LPCC_7
+12_LPCC_8
+12_LPCC_9
+12_MFCC_0
+12_MFCC_1
+12_MFCC_10
+12_MFCC_11
+12_MFCC_2
+12_MFCC_3
+12_MFCC_4
+12_MFCC_5
+12_MFCC_6
+12_MFCC_7
+12_MFCC_8
+12_MFCC_9
+12_Max power spectrum
+12_Maximum frequency
+12_Median frequency
+12_Power bandwidth
+12_Spectral centroid
+12_Spectral decrease
+12_Spectral distance
+12_Spectral entropy
+12_Spectral kurtosis
+12_Spectral positive turning points
+12_Spectral roll-off
+12_Spectral roll-on
+12_Spectral skewness
+12_Spectral slope
+12_Spectral spread
+12_Spectral variation
+12_Spectrogram mean coefficient_0.0Hz
+12_Spectrogram mean coefficient_100.81Hz
+12_Spectrogram mean coefficient_104.84Hz
+12_Spectrogram mean coefficient_108.87Hz
+12_Spectrogram mean coefficient_112.9Hz
+12_Spectrogram mean coefficient_116.94Hz
+12_Spectrogram mean coefficient_12.1Hz
+12_Spectrogram mean coefficient_120.97Hz
+12_Spectrogram mean coefficient_125.0Hz
+12_Spectrogram mean coefficient_16.13Hz
+12_Spectrogram mean coefficient_20.16Hz
+12_Spectrogram mean coefficient_24.19Hz
+12_Spectrogram mean coefficient_28.23Hz
+12_Spectrogram mean coefficient_32.26Hz
+12_Spectrogram mean coefficient_36.29Hz
+12_Spectrogram mean coefficient_4.03Hz
+12_Spectrogram mean coefficient_40.32Hz
+12_Spectrogram mean coefficient_44.35Hz
+12_Spectrogram mean coefficient_48.39Hz
+12_Spectrogram mean coefficient_52.42Hz
+12_Spectrogram mean coefficient_56.45Hz
+12_Spectrogram mean coefficient_60.48Hz
+12_Spectrogram mean coefficient_64.52Hz
+12_Spectrogram mean coefficient_68.55Hz
+12_Spectrogram mean coefficient_72.58Hz
+12_Spectrogram mean coefficient_76.61Hz
+12_Spectrogram mean coefficient_8.06Hz
+12_Spectrogram mean coefficient_80.65Hz
+12_Spectrogram mean coefficient_84.68Hz
+12_Spectrogram mean coefficient_88.71Hz
+12_Spectrogram mean coefficient_92.74Hz
+12_Spectrogram mean coefficient_96.77Hz
+12_Wavelet absolute mean_10.42Hz
+12_Wavelet absolute mean_12.5Hz
+12_Wavelet absolute mean_15.62Hz
+12_Wavelet absolute mean_20.83Hz
+12_Wavelet absolute mean_31.25Hz
+12_Wavelet absolute mean_6.94Hz
+12_Wavelet absolute mean_62.5Hz
+12_Wavelet absolute mean_7.81Hz
+12_Wavelet absolute mean_8.93Hz
+12_Wavelet energy_10.42Hz
+12_Wavelet energy_12.5Hz
+12_Wavelet energy_15.62Hz
+12_Wavelet energy_20.83Hz
+12_Wavelet energy_31.25Hz
+12_Wavelet energy_6.94Hz
+12_Wavelet energy_62.5Hz
+12_Wavelet energy_7.81Hz
+12_Wavelet energy_8.93Hz
+12_Wavelet entropy
+12_Wavelet standard deviation_10.42Hz
+12_Wavelet standard deviation_12.5Hz
+12_Wavelet standard deviation_15.62Hz
+12_Wavelet standard deviation_20.83Hz
+12_Wavelet standard deviation_31.25Hz
+12_Wavelet standard deviation_6.94Hz
+12_Wavelet standard deviation_62.5Hz
+12_Wavelet standard deviation_7.81Hz
+12_Wavelet standard deviation_8.93Hz
+12_Wavelet variance_10.42Hz
+12_Wavelet variance_12.5Hz
+12_Wavelet variance_15.62Hz
+12_Wavelet variance_20.83Hz
+12_Wavelet variance_31.25Hz
+12_Wavelet variance_6.94Hz
+12_Wavelet variance_62.5Hz
+12_Wavelet variance_7.81Hz
+12_Wavelet variance_8.93Hz
+13_Fundamental frequency
+13_Human range energy
+13_LPCC_0
+13_LPCC_1
+13_LPCC_10
+13_LPCC_11
+13_LPCC_2
+13_LPCC_3
+13_LPCC_4
+13_LPCC_5
+13_LPCC_6
+13_LPCC_7
+13_LPCC_8
+13_LPCC_9
+13_MFCC_0
+13_MFCC_1
+13_MFCC_10
+13_MFCC_11
+13_MFCC_2
+13_MFCC_3
+13_MFCC_4
+13_MFCC_5
+13_MFCC_6
+13_MFCC_7
+13_MFCC_8
+13_MFCC_9
+13_Max power spectrum
+13_Maximum frequency
+13_Median frequency
+13_Power bandwidth
+13_Spectral centroid
+13_Spectral decrease
+13_Spectral distance
+13_Spectral entropy
+13_Spectral kurtosis
+13_Spectral positive turning points
+13_Spectral roll-off
+13_Spectral roll-on
+13_Spectral skewness
+13_Spectral slope
+13_Spectral spread
+13_Spectral variation
+13_Spectrogram mean coefficient_0.0Hz
+13_Spectrogram mean coefficient_100.81Hz
+13_Spectrogram mean coefficient_104.84Hz
+13_Spectrogram mean coefficient_108.87Hz
+13_Spectrogram mean coefficient_112.9Hz
+13_Spectrogram mean coefficient_116.94Hz
+13_Spectrogram mean coefficient_12.1Hz
+13_Spectrogram mean coefficient_120.97Hz
+13_Spectrogram mean coefficient_125.0Hz
+13_Spectrogram mean coefficient_16.13Hz
+13_Spectrogram mean coefficient_20.16Hz
+13_Spectrogram mean coefficient_24.19Hz
+13_Spectrogram mean coefficient_28.23Hz
+13_Spectrogram mean coefficient_32.26Hz
+13_Spectrogram mean coefficient_36.29Hz
+13_Spectrogram mean coefficient_4.03Hz
+13_Spectrogram mean coefficient_40.32Hz
+13_Spectrogram mean coefficient_44.35Hz
+13_Spectrogram mean coefficient_48.39Hz
+13_Spectrogram mean coefficient_52.42Hz
+13_Spectrogram mean coefficient_56.45Hz
+13_Spectrogram mean coefficient_60.48Hz
+13_Spectrogram mean coefficient_64.52Hz
+13_Spectrogram mean coefficient_68.55Hz
+13_Spectrogram mean coefficient_72.58Hz
+13_Spectrogram mean coefficient_76.61Hz
+13_Spectrogram mean coefficient_8.06Hz
+13_Spectrogram mean coefficient_80.65Hz
+13_Spectrogram mean coefficient_84.68Hz
+13_Spectrogram mean coefficient_88.71Hz
+13_Spectrogram mean coefficient_92.74Hz
+13_Spectrogram mean coefficient_96.77Hz
+13_Wavelet absolute mean_10.42Hz
+13_Wavelet absolute mean_12.5Hz
+13_Wavelet absolute mean_15.62Hz
+13_Wavelet absolute mean_20.83Hz
+13_Wavelet absolute mean_31.25Hz
+13_Wavelet absolute mean_6.94Hz
+13_Wavelet absolute mean_62.5Hz
+13_Wavelet absolute mean_7.81Hz
+13_Wavelet absolute mean_8.93Hz
+13_Wavelet energy_10.42Hz
+13_Wavelet energy_12.5Hz
+13_Wavelet energy_15.62Hz
+13_Wavelet energy_20.83Hz
+13_Wavelet energy_31.25Hz
+13_Wavelet energy_6.94Hz
+13_Wavelet energy_62.5Hz
+13_Wavelet energy_7.81Hz
+13_Wavelet energy_8.93Hz
+13_Wavelet entropy
+13_Wavelet standard deviation_10.42Hz
+13_Wavelet standard deviation_12.5Hz
+13_Wavelet standard deviation_15.62Hz
+13_Wavelet standard deviation_20.83Hz
+13_Wavelet standard deviation_31.25Hz
+13_Wavelet standard deviation_6.94Hz
+13_Wavelet standard deviation_62.5Hz
+13_Wavelet standard deviation_7.81Hz
+13_Wavelet standard deviation_8.93Hz
+13_Wavelet variance_10.42Hz
+13_Wavelet variance_12.5Hz
+13_Wavelet variance_15.62Hz
+13_Wavelet variance_20.83Hz
+13_Wavelet variance_31.25Hz
+13_Wavelet variance_6.94Hz
+13_Wavelet variance_62.5Hz
+13_Wavelet variance_7.81Hz
+13_Wavelet variance_8.93Hz
+14_Fundamental frequency
+14_Human range energy
+14_LPCC_0
+14_LPCC_1
+14_LPCC_10
+14_LPCC_11
+14_LPCC_2
+14_LPCC_3
+14_LPCC_4
+14_LPCC_5
+14_LPCC_6
+14_LPCC_7
+14_LPCC_8
+14_LPCC_9
+14_MFCC_0
+14_MFCC_1
+14_MFCC_10
+14_MFCC_11
+14_MFCC_2
+14_MFCC_3
+14_MFCC_4
+14_MFCC_5
+14_MFCC_6
+14_MFCC_7
+14_MFCC_8
+14_MFCC_9
+14_Max power spectrum
+14_Maximum frequency
+14_Median frequency
+14_Power bandwidth
+14_Spectral centroid
+14_Spectral decrease
+14_Spectral distance
+14_Spectral entropy
+14_Spectral kurtosis
+14_Spectral positive turning points
+14_Spectral roll-off
+14_Spectral roll-on
+14_Spectral skewness
+14_Spectral slope
+14_Spectral spread
+14_Spectral variation
+14_Spectrogram mean coefficient_0.0Hz
+14_Spectrogram mean coefficient_100.81Hz
+14_Spectrogram mean coefficient_104.84Hz
+14_Spectrogram mean coefficient_108.87Hz
+14_Spectrogram mean coefficient_112.9Hz
+14_Spectrogram mean coefficient_116.94Hz
+14_Spectrogram mean coefficient_12.1Hz
+14_Spectrogram mean coefficient_120.97Hz
+14_Spectrogram mean coefficient_125.0Hz
+14_Spectrogram mean coefficient_16.13Hz
+14_Spectrogram mean coefficient_20.16Hz
+14_Spectrogram mean coefficient_24.19Hz
+14_Spectrogram mean coefficient_28.23Hz
+14_Spectrogram mean coefficient_32.26Hz
+14_Spectrogram mean coefficient_36.29Hz
+14_Spectrogram mean coefficient_4.03Hz
+14_Spectrogram mean coefficient_40.32Hz
+14_Spectrogram mean coefficient_44.35Hz
+14_Spectrogram mean coefficient_48.39Hz
+14_Spectrogram mean coefficient_52.42Hz
+14_Spectrogram mean coefficient_56.45Hz
+14_Spectrogram mean coefficient_60.48Hz
+14_Spectrogram mean coefficient_64.52Hz
+14_Spectrogram mean coefficient_68.55Hz
+14_Spectrogram mean coefficient_72.58Hz
+14_Spectrogram mean coefficient_76.61Hz
+14_Spectrogram mean coefficient_8.06Hz
+14_Spectrogram mean coefficient_80.65Hz
+14_Spectrogram mean coefficient_84.68Hz
+14_Spectrogram mean coefficient_88.71Hz
+14_Spectrogram mean coefficient_92.74Hz
+14_Spectrogram mean coefficient_96.77Hz
+14_Wavelet absolute mean_10.42Hz
+14_Wavelet absolute mean_12.5Hz
+14_Wavelet absolute mean_15.62Hz
+14_Wavelet absolute mean_20.83Hz
+14_Wavelet absolute mean_31.25Hz
+14_Wavelet absolute mean_6.94Hz
+14_Wavelet absolute mean_62.5Hz
+14_Wavelet absolute mean_7.81Hz
+14_Wavelet absolute mean_8.93Hz
+14_Wavelet energy_10.42Hz
+14_Wavelet energy_12.5Hz
+14_Wavelet energy_15.62Hz
+14_Wavelet energy_20.83Hz
+14_Wavelet energy_31.25Hz
+14_Wavelet energy_6.94Hz
+14_Wavelet energy_62.5Hz
+14_Wavelet energy_7.81Hz
+14_Wavelet energy_8.93Hz
+14_Wavelet entropy
+14_Wavelet standard deviation_10.42Hz
+14_Wavelet standard deviation_12.5Hz
+14_Wavelet standard deviation_15.62Hz
+14_Wavelet standard deviation_20.83Hz
+14_Wavelet standard deviation_31.25Hz
+14_Wavelet standard deviation_6.94Hz
+14_Wavelet standard deviation_62.5Hz
+14_Wavelet standard deviation_7.81Hz
+14_Wavelet standard deviation_8.93Hz
+14_Wavelet variance_10.42Hz
+14_Wavelet variance_12.5Hz
+14_Wavelet variance_15.62Hz
+14_Wavelet variance_20.83Hz
+14_Wavelet variance_31.25Hz
+14_Wavelet variance_6.94Hz
+14_Wavelet variance_62.5Hz
+14_Wavelet variance_7.81Hz
+14_Wavelet variance_8.93Hz
+15_Fundamental frequency
+15_Human range energy
+15_LPCC_0
+15_LPCC_1
+15_LPCC_10
+15_LPCC_11
+15_LPCC_2
+15_LPCC_3
+15_LPCC_4
+15_LPCC_5
+15_LPCC_6
+15_LPCC_7
+15_LPCC_8
+15_LPCC_9
+15_MFCC_0
+15_MFCC_1
+15_MFCC_10
+15_MFCC_11
+15_MFCC_2
+15_MFCC_3
+15_MFCC_4
+15_MFCC_5
+15_MFCC_6
+15_MFCC_7
+15_MFCC_8
+15_MFCC_9
+15_Max power spectrum
+15_Maximum frequency
+15_Median frequency
+15_Power bandwidth
+15_Spectral centroid
+15_Spectral decrease
+15_Spectral distance
+15_Spectral entropy
+15_Spectral kurtosis
+15_Spectral positive turning points
+15_Spectral roll-off
+15_Spectral roll-on
+15_Spectral skewness
+15_Spectral slope
+15_Spectral spread
+15_Spectral variation
+15_Spectrogram mean coefficient_0.0Hz
+15_Spectrogram mean coefficient_100.81Hz
+15_Spectrogram mean coefficient_104.84Hz
+15_Spectrogram mean coefficient_108.87Hz
+15_Spectrogram mean coefficient_112.9Hz
+15_Spectrogram mean coefficient_116.94Hz
+15_Spectrogram mean coefficient_12.1Hz
+15_Spectrogram mean coefficient_120.97Hz
+15_Spectrogram mean coefficient_125.0Hz
+15_Spectrogram mean coefficient_16.13Hz
+15_Spectrogram mean coefficient_20.16Hz
+15_Spectrogram mean coefficient_24.19Hz
+15_Spectrogram mean coefficient_28.23Hz
+15_Spectrogram mean coefficient_32.26Hz
+15_Spectrogram mean coefficient_36.29Hz
+15_Spectrogram mean coefficient_4.03Hz
+15_Spectrogram mean coefficient_40.32Hz
+15_Spectrogram mean coefficient_44.35Hz
+15_Spectrogram mean coefficient_48.39Hz
+15_Spectrogram mean coefficient_52.42Hz
+15_Spectrogram mean coefficient_56.45Hz
+15_Spectrogram mean coefficient_60.48Hz
+15_Spectrogram mean coefficient_64.52Hz
+15_Spectrogram mean coefficient_68.55Hz
+15_Spectrogram mean coefficient_72.58Hz
+15_Spectrogram mean coefficient_76.61Hz
+15_Spectrogram mean coefficient_8.06Hz
+15_Spectrogram mean coefficient_80.65Hz
+15_Spectrogram mean coefficient_84.68Hz
+15_Spectrogram mean coefficient_88.71Hz
+15_Spectrogram mean coefficient_92.74Hz
+15_Spectrogram mean coefficient_96.77Hz
+15_Wavelet absolute mean_10.42Hz
+15_Wavelet absolute mean_12.5Hz
+15_Wavelet absolute mean_15.62Hz
+15_Wavelet absolute mean_20.83Hz
+15_Wavelet absolute mean_31.25Hz
+15_Wavelet absolute mean_6.94Hz
+15_Wavelet absolute mean_62.5Hz
+15_Wavelet absolute mean_7.81Hz
+15_Wavelet absolute mean_8.93Hz
+15_Wavelet energy_10.42Hz
+15_Wavelet energy_12.5Hz
+15_Wavelet energy_15.62Hz
+15_Wavelet energy_20.83Hz
+15_Wavelet energy_31.25Hz
+15_Wavelet energy_6.94Hz
+15_Wavelet energy_62.5Hz
+15_Wavelet energy_7.81Hz
+15_Wavelet energy_8.93Hz
+15_Wavelet entropy
+15_Wavelet standard deviation_10.42Hz
+15_Wavelet standard deviation_12.5Hz
+15_Wavelet standard deviation_15.62Hz
+15_Wavelet standard deviation_20.83Hz
+15_Wavelet standard deviation_31.25Hz
+15_Wavelet standard deviation_6.94Hz
+15_Wavelet standard deviation_62.5Hz
+15_Wavelet standard deviation_7.81Hz
+15_Wavelet standard deviation_8.93Hz
+15_Wavelet variance_10.42Hz
+15_Wavelet variance_12.5Hz
+15_Wavelet variance_15.62Hz
+15_Wavelet variance_20.83Hz
+15_Wavelet variance_31.25Hz
+15_Wavelet variance_6.94Hz
+15_Wavelet variance_62.5Hz
+15_Wavelet variance_7.81Hz
+15_Wavelet variance_8.93Hz
+16_Fundamental frequency
+16_Human range energy
+16_LPCC_0
+16_LPCC_1
+16_LPCC_10
+16_LPCC_11
+16_LPCC_2
+16_LPCC_3
+16_LPCC_4
+16_LPCC_5
+16_LPCC_6
+16_LPCC_7
+16_LPCC_8
+16_LPCC_9
+16_MFCC_0
+16_MFCC_1
+16_MFCC_10
+16_MFCC_11
+16_MFCC_2
+16_MFCC_3
+16_MFCC_4
+16_MFCC_5
+16_MFCC_6
+16_MFCC_7
+16_MFCC_8
+16_MFCC_9
+16_Max power spectrum
+16_Maximum frequency
+16_Median frequency
+16_Power bandwidth
+16_Spectral centroid
+16_Spectral decrease
+16_Spectral distance
+16_Spectral entropy
+16_Spectral kurtosis
+16_Spectral positive turning points
+16_Spectral roll-off
+16_Spectral roll-on
+16_Spectral skewness
+16_Spectral slope
+16_Spectral spread
+16_Spectral variation
+16_Spectrogram mean coefficient_0.0Hz
+16_Spectrogram mean coefficient_100.81Hz
+16_Spectrogram mean coefficient_104.84Hz
+16_Spectrogram mean coefficient_108.87Hz
+16_Spectrogram mean coefficient_112.9Hz
+16_Spectrogram mean coefficient_116.94Hz
+16_Spectrogram mean coefficient_12.1Hz
+16_Spectrogram mean coefficient_120.97Hz
+16_Spectrogram mean coefficient_125.0Hz
+16_Spectrogram mean coefficient_16.13Hz
+16_Spectrogram mean coefficient_20.16Hz
+16_Spectrogram mean coefficient_24.19Hz
+16_Spectrogram mean coefficient_28.23Hz
+16_Spectrogram mean coefficient_32.26Hz
+16_Spectrogram mean coefficient_36.29Hz
+16_Spectrogram mean coefficient_4.03Hz
+16_Spectrogram mean coefficient_40.32Hz
+16_Spectrogram mean coefficient_44.35Hz
+16_Spectrogram mean coefficient_48.39Hz
+16_Spectrogram mean coefficient_52.42Hz
+16_Spectrogram mean coefficient_56.45Hz
+16_Spectrogram mean coefficient_60.48Hz
+16_Spectrogram mean coefficient_64.52Hz
+16_Spectrogram mean coefficient_68.55Hz
+16_Spectrogram mean coefficient_72.58Hz
+16_Spectrogram mean coefficient_76.61Hz
+16_Spectrogram mean coefficient_8.06Hz
+16_Spectrogram mean coefficient_80.65Hz
+16_Spectrogram mean coefficient_84.68Hz
+16_Spectrogram mean coefficient_88.71Hz
+16_Spectrogram mean coefficient_92.74Hz
+16_Spectrogram mean coefficient_96.77Hz
+16_Wavelet absolute mean_10.42Hz
+16_Wavelet absolute mean_12.5Hz
+16_Wavelet absolute mean_15.62Hz
+16_Wavelet absolute mean_20.83Hz
+16_Wavelet absolute mean_31.25Hz
+16_Wavelet absolute mean_6.94Hz
+16_Wavelet absolute mean_62.5Hz
+16_Wavelet absolute mean_7.81Hz
+16_Wavelet absolute mean_8.93Hz
+16_Wavelet energy_10.42Hz
+16_Wavelet energy_12.5Hz
+16_Wavelet energy_15.62Hz
+16_Wavelet energy_20.83Hz
+16_Wavelet energy_31.25Hz
+16_Wavelet energy_6.94Hz
+16_Wavelet energy_62.5Hz
+16_Wavelet energy_7.81Hz
+16_Wavelet energy_8.93Hz
+16_Wavelet entropy
+16_Wavelet standard deviation_10.42Hz
+16_Wavelet standard deviation_12.5Hz
+16_Wavelet standard deviation_15.62Hz
+16_Wavelet standard deviation_20.83Hz
+16_Wavelet standard deviation_31.25Hz
+16_Wavelet standard deviation_6.94Hz
+16_Wavelet standard deviation_62.5Hz
+16_Wavelet standard deviation_7.81Hz
+16_Wavelet standard deviation_8.93Hz
+16_Wavelet variance_10.42Hz
+16_Wavelet variance_12.5Hz
+16_Wavelet variance_15.62Hz
+16_Wavelet variance_20.83Hz
+16_Wavelet variance_31.25Hz
+16_Wavelet variance_6.94Hz
+16_Wavelet variance_62.5Hz
+16_Wavelet variance_7.81Hz
+16_Wavelet variance_8.93Hz
+17_Fundamental frequency
+17_Human range energy
+17_LPCC_0
+17_LPCC_1
+17_LPCC_10
+17_LPCC_11
+17_LPCC_2
+17_LPCC_3
+17_LPCC_4
+17_LPCC_5
+17_LPCC_6
+17_LPCC_7
+17_LPCC_8
+17_LPCC_9
+17_MFCC_0
+17_MFCC_1
+17_MFCC_10
+17_MFCC_11
+17_MFCC_2
+17_MFCC_3
+17_MFCC_4
+17_MFCC_5
+17_MFCC_6
+17_MFCC_7
+17_MFCC_8
+17_MFCC_9
+17_Max power spectrum
+17_Maximum frequency
+17_Median frequency
+17_Power bandwidth
+17_Spectral centroid
+17_Spectral decrease
+17_Spectral distance
+17_Spectral entropy
+17_Spectral kurtosis
+17_Spectral positive turning points
+17_Spectral roll-off
+17_Spectral roll-on
+17_Spectral skewness
+17_Spectral slope
+17_Spectral spread
+17_Spectral variation
+17_Spectrogram mean coefficient_0.0Hz
+17_Spectrogram mean coefficient_100.81Hz
+17_Spectrogram mean coefficient_104.84Hz
+17_Spectrogram mean coefficient_108.87Hz
+17_Spectrogram mean coefficient_112.9Hz
+17_Spectrogram mean coefficient_116.94Hz
+17_Spectrogram mean coefficient_12.1Hz
+17_Spectrogram mean coefficient_120.97Hz
+17_Spectrogram mean coefficient_125.0Hz
+17_Spectrogram mean coefficient_16.13Hz
+17_Spectrogram mean coefficient_20.16Hz
+17_Spectrogram mean coefficient_24.19Hz
+17_Spectrogram mean coefficient_28.23Hz
+17_Spectrogram mean coefficient_32.26Hz
+17_Spectrogram mean coefficient_36.29Hz
+17_Spectrogram mean coefficient_4.03Hz
+17_Spectrogram mean coefficient_40.32Hz
+17_Spectrogram mean coefficient_44.35Hz
+17_Spectrogram mean coefficient_48.39Hz
+17_Spectrogram mean coefficient_52.42Hz
+17_Spectrogram mean coefficient_56.45Hz
+17_Spectrogram mean coefficient_60.48Hz
+17_Spectrogram mean coefficient_64.52Hz
+17_Spectrogram mean coefficient_68.55Hz
+17_Spectrogram mean coefficient_72.58Hz
+17_Spectrogram mean coefficient_76.61Hz
+17_Spectrogram mean coefficient_8.06Hz
+17_Spectrogram mean coefficient_80.65Hz
+17_Spectrogram mean coefficient_84.68Hz
+17_Spectrogram mean coefficient_88.71Hz
+17_Spectrogram mean coefficient_92.74Hz
+17_Spectrogram mean coefficient_96.77Hz
+17_Wavelet absolute mean_10.42Hz
+17_Wavelet absolute mean_12.5Hz
+17_Wavelet absolute mean_15.62Hz
+17_Wavelet absolute mean_20.83Hz
+17_Wavelet absolute mean_31.25Hz
+17_Wavelet absolute mean_6.94Hz
+17_Wavelet absolute mean_62.5Hz
+17_Wavelet absolute mean_7.81Hz
+17_Wavelet absolute mean_8.93Hz
+17_Wavelet energy_10.42Hz
+17_Wavelet energy_12.5Hz
+17_Wavelet energy_15.62Hz
+17_Wavelet energy_20.83Hz
+17_Wavelet energy_31.25Hz
+17_Wavelet energy_6.94Hz
+17_Wavelet energy_62.5Hz
+17_Wavelet energy_7.81Hz
+17_Wavelet energy_8.93Hz
+17_Wavelet entropy
+17_Wavelet standard deviation_10.42Hz
+17_Wavelet standard deviation_12.5Hz
+17_Wavelet standard deviation_15.62Hz
+17_Wavelet standard deviation_20.83Hz
+17_Wavelet standard deviation_31.25Hz
+17_Wavelet standard deviation_6.94Hz
+17_Wavelet standard deviation_62.5Hz
+17_Wavelet standard deviation_7.81Hz
+17_Wavelet standard deviation_8.93Hz
+17_Wavelet variance_10.42Hz
+17_Wavelet variance_12.5Hz
+17_Wavelet variance_15.62Hz
+17_Wavelet variance_20.83Hz
+17_Wavelet variance_31.25Hz
+17_Wavelet variance_6.94Hz
+17_Wavelet variance_62.5Hz
+17_Wavelet variance_7.81Hz
+17_Wavelet variance_8.93Hz
+18_Fundamental frequency
+18_Human range energy
+18_LPCC_0
+18_LPCC_1
+18_LPCC_10
+18_LPCC_11
+18_LPCC_2
+18_LPCC_3
+18_LPCC_4
+18_LPCC_5
+18_LPCC_6
+18_LPCC_7
+18_LPCC_8
+18_LPCC_9
+18_MFCC_0
+18_MFCC_1
+18_MFCC_10
+18_MFCC_11
+18_MFCC_2
+18_MFCC_3
+18_MFCC_4
+18_MFCC_5
+18_MFCC_6
+18_MFCC_7
+18_MFCC_8
+18_MFCC_9
+18_Max power spectrum
+18_Maximum frequency
+18_Median frequency
+18_Power bandwidth
+18_Spectral centroid
+18_Spectral decrease
+18_Spectral distance
+18_Spectral entropy
+18_Spectral kurtosis
+18_Spectral positive turning points
+18_Spectral roll-off
+18_Spectral roll-on
+18_Spectral skewness
+18_Spectral slope
+18_Spectral spread
+18_Spectral variation
+18_Spectrogram mean coefficient_0.0Hz
+18_Spectrogram mean coefficient_100.81Hz
+18_Spectrogram mean coefficient_104.84Hz
+18_Spectrogram mean coefficient_108.87Hz
+18_Spectrogram mean coefficient_112.9Hz
+18_Spectrogram mean coefficient_116.94Hz
+18_Spectrogram mean coefficient_12.1Hz
+18_Spectrogram mean coefficient_120.97Hz
+18_Spectrogram mean coefficient_125.0Hz
+18_Spectrogram mean coefficient_16.13Hz
+18_Spectrogram mean coefficient_20.16Hz
+18_Spectrogram mean coefficient_24.19Hz
+18_Spectrogram mean coefficient_28.23Hz
+18_Spectrogram mean coefficient_32.26Hz
+18_Spectrogram mean coefficient_36.29Hz
+18_Spectrogram mean coefficient_4.03Hz
+18_Spectrogram mean coefficient_40.32Hz
+18_Spectrogram mean coefficient_44.35Hz
+18_Spectrogram mean coefficient_48.39Hz
+18_Spectrogram mean coefficient_52.42Hz
+18_Spectrogram mean coefficient_56.45Hz
+18_Spectrogram mean coefficient_60.48Hz
+18_Spectrogram mean coefficient_64.52Hz
+18_Spectrogram mean coefficient_68.55Hz
+18_Spectrogram mean coefficient_72.58Hz
+18_Spectrogram mean coefficient_76.61Hz
+18_Spectrogram mean coefficient_8.06Hz
+18_Spectrogram mean coefficient_80.65Hz
+18_Spectrogram mean coefficient_84.68Hz
+18_Spectrogram mean coefficient_88.71Hz
+18_Spectrogram mean coefficient_92.74Hz
+18_Spectrogram mean coefficient_96.77Hz
+18_Wavelet absolute mean_10.42Hz
+18_Wavelet absolute mean_12.5Hz
+18_Wavelet absolute mean_15.62Hz
+18_Wavelet absolute mean_20.83Hz
+18_Wavelet absolute mean_31.25Hz
+18_Wavelet absolute mean_6.94Hz
+18_Wavelet absolute mean_62.5Hz
+18_Wavelet absolute mean_7.81Hz
+18_Wavelet absolute mean_8.93Hz
+18_Wavelet energy_10.42Hz
+18_Wavelet energy_12.5Hz
+18_Wavelet energy_15.62Hz
+18_Wavelet energy_20.83Hz
+18_Wavelet energy_31.25Hz
+18_Wavelet energy_6.94Hz
+18_Wavelet energy_62.5Hz
+18_Wavelet energy_7.81Hz
+18_Wavelet energy_8.93Hz
+18_Wavelet entropy
+18_Wavelet standard deviation_10.42Hz
+18_Wavelet standard deviation_12.5Hz
+18_Wavelet standard deviation_15.62Hz
+18_Wavelet standard deviation_20.83Hz
+18_Wavelet standard deviation_31.25Hz
+18_Wavelet standard deviation_6.94Hz
+18_Wavelet standard deviation_62.5Hz
+18_Wavelet standard deviation_7.81Hz
+18_Wavelet standard deviation_8.93Hz
+18_Wavelet variance_10.42Hz
+18_Wavelet variance_12.5Hz
+18_Wavelet variance_15.62Hz
+18_Wavelet variance_20.83Hz
+18_Wavelet variance_31.25Hz
+18_Wavelet variance_6.94Hz
+18_Wavelet variance_62.5Hz
+18_Wavelet variance_7.81Hz
+18_Wavelet variance_8.93Hz
+19_Fundamental frequency
+19_Human range energy
+19_LPCC_0
+19_LPCC_1
+19_LPCC_10
+19_LPCC_11
+19_LPCC_2
+19_LPCC_3
+19_LPCC_4
+19_LPCC_5
+19_LPCC_6
+19_LPCC_7
+19_LPCC_8
+19_LPCC_9
+19_MFCC_0
+19_MFCC_1
+19_MFCC_10
+19_MFCC_11
+19_MFCC_2
+19_MFCC_3
+19_MFCC_4
+19_MFCC_5
+19_MFCC_6
+19_MFCC_7
+19_MFCC_8
+19_MFCC_9
+19_Max power spectrum
+19_Maximum frequency
+19_Median frequency
+19_Power bandwidth
+19_Spectral centroid
+19_Spectral decrease
+19_Spectral distance
+19_Spectral entropy
+19_Spectral kurtosis
+19_Spectral positive turning points
+19_Spectral roll-off
+19_Spectral roll-on
+19_Spectral skewness
+19_Spectral slope
+19_Spectral spread
+19_Spectral variation
+19_Spectrogram mean coefficient_0.0Hz
+19_Spectrogram mean coefficient_100.81Hz
+19_Spectrogram mean coefficient_104.84Hz
+19_Spectrogram mean coefficient_108.87Hz
+19_Spectrogram mean coefficient_112.9Hz
+19_Spectrogram mean coefficient_116.94Hz
+19_Spectrogram mean coefficient_12.1Hz
+19_Spectrogram mean coefficient_120.97Hz
+19_Spectrogram mean coefficient_125.0Hz
+19_Spectrogram mean coefficient_16.13Hz
+19_Spectrogram mean coefficient_20.16Hz
+19_Spectrogram mean coefficient_24.19Hz
+19_Spectrogram mean coefficient_28.23Hz
+19_Spectrogram mean coefficient_32.26Hz
+19_Spectrogram mean coefficient_36.29Hz
+19_Spectrogram mean coefficient_4.03Hz
+19_Spectrogram mean coefficient_40.32Hz
+19_Spectrogram mean coefficient_44.35Hz
+19_Spectrogram mean coefficient_48.39Hz
+19_Spectrogram mean coefficient_52.42Hz
+19_Spectrogram mean coefficient_56.45Hz
+19_Spectrogram mean coefficient_60.48Hz
+19_Spectrogram mean coefficient_64.52Hz
+19_Spectrogram mean coefficient_68.55Hz
+19_Spectrogram mean coefficient_72.58Hz
+19_Spectrogram mean coefficient_76.61Hz
+19_Spectrogram mean coefficient_8.06Hz
+19_Spectrogram mean coefficient_80.65Hz
+19_Spectrogram mean coefficient_84.68Hz
+19_Spectrogram mean coefficient_88.71Hz
+19_Spectrogram mean coefficient_92.74Hz
+19_Spectrogram mean coefficient_96.77Hz
+19_Wavelet absolute mean_10.42Hz
+19_Wavelet absolute mean_12.5Hz
+19_Wavelet absolute mean_15.62Hz
+19_Wavelet absolute mean_20.83Hz
+19_Wavelet absolute mean_31.25Hz
+19_Wavelet absolute mean_6.94Hz
+19_Wavelet absolute mean_62.5Hz
+19_Wavelet absolute mean_7.81Hz
+19_Wavelet absolute mean_8.93Hz
+19_Wavelet energy_10.42Hz
+19_Wavelet energy_12.5Hz
+19_Wavelet energy_15.62Hz
+19_Wavelet energy_20.83Hz
+19_Wavelet energy_31.25Hz
+19_Wavelet energy_6.94Hz
+19_Wavelet energy_62.5Hz
+19_Wavelet energy_7.81Hz
+19_Wavelet energy_8.93Hz
+19_Wavelet entropy
+19_Wavelet standard deviation_10.42Hz
+19_Wavelet standard deviation_12.5Hz
+19_Wavelet standard deviation_15.62Hz
+19_Wavelet standard deviation_20.83Hz
+19_Wavelet standard deviation_31.25Hz
+19_Wavelet standard deviation_6.94Hz
+19_Wavelet standard deviation_62.5Hz
+19_Wavelet standard deviation_7.81Hz
+19_Wavelet standard deviation_8.93Hz
+19_Wavelet variance_10.42Hz
+19_Wavelet variance_12.5Hz
+19_Wavelet variance_15.62Hz
+19_Wavelet variance_20.83Hz
+19_Wavelet variance_31.25Hz
+19_Wavelet variance_6.94Hz
+19_Wavelet variance_62.5Hz
+19_Wavelet variance_7.81Hz
+19_Wavelet variance_8.93Hz
+1_Fundamental frequency
+1_Human range energy
+1_LPCC_0
+1_LPCC_1
+1_LPCC_10
+1_LPCC_11
+1_LPCC_2
+1_LPCC_3
+1_LPCC_4
+1_LPCC_5
+1_LPCC_6
+1_LPCC_7
+1_LPCC_8
+1_LPCC_9
+1_MFCC_0
+1_MFCC_1
+1_MFCC_10
+1_MFCC_11
+1_MFCC_2
+1_MFCC_3
+1_MFCC_4
+1_MFCC_5
+1_MFCC_6
+1_MFCC_7
+1_MFCC_8
+1_MFCC_9
+1_Max power spectrum
+1_Maximum frequency
+1_Median frequency
+1_Power bandwidth
+1_Spectral centroid
+1_Spectral decrease
+1_Spectral distance
+1_Spectral entropy
+1_Spectral kurtosis
+1_Spectral positive turning points
+1_Spectral roll-off
+1_Spectral roll-on
+1_Spectral skewness
+1_Spectral slope
+1_Spectral spread
+1_Spectral variation
+1_Spectrogram mean coefficient_0.0Hz
+1_Spectrogram mean coefficient_100.81Hz
+1_Spectrogram mean coefficient_104.84Hz
+1_Spectrogram mean coefficient_108.87Hz
+1_Spectrogram mean coefficient_112.9Hz
+1_Spectrogram mean coefficient_116.94Hz
+1_Spectrogram mean coefficient_12.1Hz
+1_Spectrogram mean coefficient_120.97Hz
+1_Spectrogram mean coefficient_125.0Hz
+1_Spectrogram mean coefficient_16.13Hz
+1_Spectrogram mean coefficient_20.16Hz
+1_Spectrogram mean coefficient_24.19Hz
+1_Spectrogram mean coefficient_28.23Hz
+1_Spectrogram mean coefficient_32.26Hz
+1_Spectrogram mean coefficient_36.29Hz
+1_Spectrogram mean coefficient_4.03Hz
+1_Spectrogram mean coefficient_40.32Hz
+1_Spectrogram mean coefficient_44.35Hz
+1_Spectrogram mean coefficient_48.39Hz
+1_Spectrogram mean coefficient_52.42Hz
+1_Spectrogram mean coefficient_56.45Hz
+1_Spectrogram mean coefficient_60.48Hz
+1_Spectrogram mean coefficient_64.52Hz
+1_Spectrogram mean coefficient_68.55Hz
+1_Spectrogram mean coefficient_72.58Hz
+1_Spectrogram mean coefficient_76.61Hz
+1_Spectrogram mean coefficient_8.06Hz
+1_Spectrogram mean coefficient_80.65Hz
+1_Spectrogram mean coefficient_84.68Hz
+1_Spectrogram mean coefficient_88.71Hz
+1_Spectrogram mean coefficient_92.74Hz
+1_Spectrogram mean coefficient_96.77Hz
+1_Wavelet absolute mean_10.42Hz
+1_Wavelet absolute mean_12.5Hz
+1_Wavelet absolute mean_15.62Hz
+1_Wavelet absolute mean_20.83Hz
+1_Wavelet absolute mean_31.25Hz
+1_Wavelet absolute mean_6.94Hz
+1_Wavelet absolute mean_62.5Hz
+1_Wavelet absolute mean_7.81Hz
+1_Wavelet absolute mean_8.93Hz
+1_Wavelet energy_10.42Hz
+1_Wavelet energy_12.5Hz
+1_Wavelet energy_15.62Hz
+1_Wavelet energy_20.83Hz
+1_Wavelet energy_31.25Hz
+1_Wavelet energy_6.94Hz
+1_Wavelet energy_62.5Hz
+1_Wavelet energy_7.81Hz
+1_Wavelet energy_8.93Hz
+1_Wavelet entropy
+1_Wavelet standard deviation_10.42Hz
+1_Wavelet standard deviation_12.5Hz
+1_Wavelet standard deviation_15.62Hz
+1_Wavelet standard deviation_20.83Hz
+1_Wavelet standard deviation_31.25Hz
+1_Wavelet standard deviation_6.94Hz
+1_Wavelet standard deviation_62.5Hz
+1_Wavelet standard deviation_7.81Hz
+1_Wavelet standard deviation_8.93Hz
+1_Wavelet variance_10.42Hz
+1_Wavelet variance_12.5Hz
+1_Wavelet variance_15.62Hz
+1_Wavelet variance_20.83Hz
+1_Wavelet variance_31.25Hz
+1_Wavelet variance_6.94Hz
+1_Wavelet variance_62.5Hz
+1_Wavelet variance_7.81Hz
+1_Wavelet variance_8.93Hz
+20_Fundamental frequency
+20_Human range energy
+20_LPCC_0
+20_LPCC_1
+20_LPCC_10
+20_LPCC_11
+20_LPCC_2
+20_LPCC_3
+20_LPCC_4
+20_LPCC_5
+20_LPCC_6
+20_LPCC_7
+20_LPCC_8
+20_LPCC_9
+20_MFCC_0
+20_MFCC_1
+20_MFCC_10
+20_MFCC_11
+20_MFCC_2
+20_MFCC_3
+20_MFCC_4
+20_MFCC_5
+20_MFCC_6
+20_MFCC_7
+20_MFCC_8
+20_MFCC_9
+20_Max power spectrum
+20_Maximum frequency
+20_Median frequency
+20_Power bandwidth
+20_Spectral centroid
+20_Spectral decrease
+20_Spectral distance
+20_Spectral entropy
+20_Spectral kurtosis
+20_Spectral positive turning points
+20_Spectral roll-off
+20_Spectral roll-on
+20_Spectral skewness
+20_Spectral slope
+20_Spectral spread
+20_Spectral variation
+20_Spectrogram mean coefficient_0.0Hz
+20_Spectrogram mean coefficient_100.81Hz
+20_Spectrogram mean coefficient_104.84Hz
+20_Spectrogram mean coefficient_108.87Hz
+20_Spectrogram mean coefficient_112.9Hz
+20_Spectrogram mean coefficient_116.94Hz
+20_Spectrogram mean coefficient_12.1Hz
+20_Spectrogram mean coefficient_120.97Hz
+20_Spectrogram mean coefficient_125.0Hz
+20_Spectrogram mean coefficient_16.13Hz
+20_Spectrogram mean coefficient_20.16Hz
+20_Spectrogram mean coefficient_24.19Hz
+20_Spectrogram mean coefficient_28.23Hz
+20_Spectrogram mean coefficient_32.26Hz
+20_Spectrogram mean coefficient_36.29Hz
+20_Spectrogram mean coefficient_4.03Hz
+20_Spectrogram mean coefficient_40.32Hz
+20_Spectrogram mean coefficient_44.35Hz
+20_Spectrogram mean coefficient_48.39Hz
+20_Spectrogram mean coefficient_52.42Hz
+20_Spectrogram mean coefficient_56.45Hz
+20_Spectrogram mean coefficient_60.48Hz
+20_Spectrogram mean coefficient_64.52Hz
+20_Spectrogram mean coefficient_68.55Hz
+20_Spectrogram mean coefficient_72.58Hz
+20_Spectrogram mean coefficient_76.61Hz
+20_Spectrogram mean coefficient_8.06Hz
+20_Spectrogram mean coefficient_80.65Hz
+20_Spectrogram mean coefficient_84.68Hz
+20_Spectrogram mean coefficient_88.71Hz
+20_Spectrogram mean coefficient_92.74Hz
+20_Spectrogram mean coefficient_96.77Hz
+20_Wavelet absolute mean_10.42Hz
+20_Wavelet absolute mean_12.5Hz
+20_Wavelet absolute mean_15.62Hz
+20_Wavelet absolute mean_20.83Hz
+20_Wavelet absolute mean_31.25Hz
+20_Wavelet absolute mean_6.94Hz
+20_Wavelet absolute mean_62.5Hz
+20_Wavelet absolute mean_7.81Hz
+20_Wavelet absolute mean_8.93Hz
+20_Wavelet energy_10.42Hz
+20_Wavelet energy_12.5Hz
+20_Wavelet energy_15.62Hz
+20_Wavelet energy_20.83Hz
+20_Wavelet energy_31.25Hz
+20_Wavelet energy_6.94Hz
+20_Wavelet energy_62.5Hz
+20_Wavelet energy_7.81Hz
+20_Wavelet energy_8.93Hz
+20_Wavelet entropy
+20_Wavelet standard deviation_10.42Hz
+20_Wavelet standard deviation_12.5Hz
+20_Wavelet standard deviation_15.62Hz
+20_Wavelet standard deviation_20.83Hz
+20_Wavelet standard deviation_31.25Hz
+20_Wavelet standard deviation_6.94Hz
+20_Wavelet standard deviation_62.5Hz
+20_Wavelet standard deviation_7.81Hz
+20_Wavelet standard deviation_8.93Hz
+20_Wavelet variance_10.42Hz
+20_Wavelet variance_12.5Hz
+20_Wavelet variance_15.62Hz
+20_Wavelet variance_20.83Hz
+20_Wavelet variance_31.25Hz
+20_Wavelet variance_6.94Hz
+20_Wavelet variance_62.5Hz
+20_Wavelet variance_7.81Hz
+20_Wavelet variance_8.93Hz
+21_Fundamental frequency
+21_Human range energy
+21_LPCC_0
+21_LPCC_1
+21_LPCC_10
+21_LPCC_11
+21_LPCC_2
+21_LPCC_3
+21_LPCC_4
+21_LPCC_5
+21_LPCC_6
+21_LPCC_7
+21_LPCC_8
+21_LPCC_9
+21_MFCC_0
+21_MFCC_1
+21_MFCC_10
+21_MFCC_11
+21_MFCC_2
+21_MFCC_3
+21_MFCC_4
+21_MFCC_5
+21_MFCC_6
+21_MFCC_7
+21_MFCC_8
+21_MFCC_9
+21_Max power spectrum
+21_Maximum frequency
+21_Median frequency
+21_Power bandwidth
+21_Spectral centroid
+21_Spectral decrease
+21_Spectral distance
+21_Spectral entropy
+21_Spectral kurtosis
+21_Spectral positive turning points
+21_Spectral roll-off
+21_Spectral roll-on
+21_Spectral skewness
+21_Spectral slope
+21_Spectral spread
+21_Spectral variation
+21_Spectrogram mean coefficient_0.0Hz
+21_Spectrogram mean coefficient_100.81Hz
+21_Spectrogram mean coefficient_104.84Hz
+21_Spectrogram mean coefficient_108.87Hz
+21_Spectrogram mean coefficient_112.9Hz
+21_Spectrogram mean coefficient_116.94Hz
+21_Spectrogram mean coefficient_12.1Hz
+21_Spectrogram mean coefficient_120.97Hz
+21_Spectrogram mean coefficient_125.0Hz
+21_Spectrogram mean coefficient_16.13Hz
+21_Spectrogram mean coefficient_20.16Hz
+21_Spectrogram mean coefficient_24.19Hz
+21_Spectrogram mean coefficient_28.23Hz
+21_Spectrogram mean coefficient_32.26Hz
+21_Spectrogram mean coefficient_36.29Hz
+21_Spectrogram mean coefficient_4.03Hz
+21_Spectrogram mean coefficient_40.32Hz
+21_Spectrogram mean coefficient_44.35Hz
+21_Spectrogram mean coefficient_48.39Hz
+21_Spectrogram mean coefficient_52.42Hz
+21_Spectrogram mean coefficient_56.45Hz
+21_Spectrogram mean coefficient_60.48Hz
+21_Spectrogram mean coefficient_64.52Hz
+21_Spectrogram mean coefficient_68.55Hz
+21_Spectrogram mean coefficient_72.58Hz
+21_Spectrogram mean coefficient_76.61Hz
+21_Spectrogram mean coefficient_8.06Hz
+21_Spectrogram mean coefficient_80.65Hz
+21_Spectrogram mean coefficient_84.68Hz
+21_Spectrogram mean coefficient_88.71Hz
+21_Spectrogram mean coefficient_92.74Hz
+21_Spectrogram mean coefficient_96.77Hz
+21_Wavelet absolute mean_10.42Hz
+21_Wavelet absolute mean_12.5Hz
+21_Wavelet absolute mean_15.62Hz
+21_Wavelet absolute mean_20.83Hz
+21_Wavelet absolute mean_31.25Hz
+21_Wavelet absolute mean_6.94Hz
+21_Wavelet absolute mean_62.5Hz
+21_Wavelet absolute mean_7.81Hz
+21_Wavelet absolute mean_8.93Hz
+21_Wavelet energy_10.42Hz
+21_Wavelet energy_12.5Hz
+21_Wavelet energy_15.62Hz
+21_Wavelet energy_20.83Hz
+21_Wavelet energy_31.25Hz
+21_Wavelet energy_6.94Hz
+21_Wavelet energy_62.5Hz
+21_Wavelet energy_7.81Hz
+21_Wavelet energy_8.93Hz
+21_Wavelet entropy
+21_Wavelet standard deviation_10.42Hz
+21_Wavelet standard deviation_12.5Hz
+21_Wavelet standard deviation_15.62Hz
+21_Wavelet standard deviation_20.83Hz
+21_Wavelet standard deviation_31.25Hz
+21_Wavelet standard deviation_6.94Hz
+21_Wavelet standard deviation_62.5Hz
+21_Wavelet standard deviation_7.81Hz
+21_Wavelet standard deviation_8.93Hz
+21_Wavelet variance_10.42Hz
+21_Wavelet variance_12.5Hz
+21_Wavelet variance_15.62Hz
+21_Wavelet variance_20.83Hz
+21_Wavelet variance_31.25Hz
+21_Wavelet variance_6.94Hz
+21_Wavelet variance_62.5Hz
+21_Wavelet variance_7.81Hz
+21_Wavelet variance_8.93Hz
+22_Fundamental frequency
+22_Human range energy
+22_LPCC_0
+22_LPCC_1
+22_LPCC_10
+22_LPCC_11
+22_LPCC_2
+22_LPCC_3
+22_LPCC_4
+22_LPCC_5
+22_LPCC_6
+22_LPCC_7
+22_LPCC_8
+22_LPCC_9
+22_MFCC_0
+22_MFCC_1
+22_MFCC_10
+22_MFCC_11
+22_MFCC_2
+22_MFCC_3
+22_MFCC_4
+22_MFCC_5
+22_MFCC_6
+22_MFCC_7
+22_MFCC_8
+22_MFCC_9
+22_Max power spectrum
+22_Maximum frequency
+22_Median frequency
+22_Power bandwidth
+22_Spectral centroid
+22_Spectral decrease
+22_Spectral distance
+22_Spectral entropy
+22_Spectral kurtosis
+22_Spectral positive turning points
+22_Spectral roll-off
+22_Spectral roll-on
+22_Spectral skewness
+22_Spectral slope
+22_Spectral spread
+22_Spectral variation
+22_Spectrogram mean coefficient_0.0Hz
+22_Spectrogram mean coefficient_100.81Hz
+22_Spectrogram mean coefficient_104.84Hz
+22_Spectrogram mean coefficient_108.87Hz
+22_Spectrogram mean coefficient_112.9Hz
+22_Spectrogram mean coefficient_116.94Hz
+22_Spectrogram mean coefficient_12.1Hz
+22_Spectrogram mean coefficient_120.97Hz
+22_Spectrogram mean coefficient_125.0Hz
+22_Spectrogram mean coefficient_16.13Hz
+22_Spectrogram mean coefficient_20.16Hz
+22_Spectrogram mean coefficient_24.19Hz
+22_Spectrogram mean coefficient_28.23Hz
+22_Spectrogram mean coefficient_32.26Hz
+22_Spectrogram mean coefficient_36.29Hz
+22_Spectrogram mean coefficient_4.03Hz
+22_Spectrogram mean coefficient_40.32Hz
+22_Spectrogram mean coefficient_44.35Hz
+22_Spectrogram mean coefficient_48.39Hz
+22_Spectrogram mean coefficient_52.42Hz
+22_Spectrogram mean coefficient_56.45Hz
+22_Spectrogram mean coefficient_60.48Hz
+22_Spectrogram mean coefficient_64.52Hz
+22_Spectrogram mean coefficient_68.55Hz
+22_Spectrogram mean coefficient_72.58Hz
+22_Spectrogram mean coefficient_76.61Hz
+22_Spectrogram mean coefficient_8.06Hz
+22_Spectrogram mean coefficient_80.65Hz
+22_Spectrogram mean coefficient_84.68Hz
+22_Spectrogram mean coefficient_88.71Hz
+22_Spectrogram mean coefficient_92.74Hz
+22_Spectrogram mean coefficient_96.77Hz
+22_Wavelet absolute mean_10.42Hz
+22_Wavelet absolute mean_12.5Hz
+22_Wavelet absolute mean_15.62Hz
+22_Wavelet absolute mean_20.83Hz
+22_Wavelet absolute mean_31.25Hz
+22_Wavelet absolute mean_6.94Hz
+22_Wavelet absolute mean_62.5Hz
+22_Wavelet absolute mean_7.81Hz
+22_Wavelet absolute mean_8.93Hz
+22_Wavelet energy_10.42Hz
+22_Wavelet energy_12.5Hz
+22_Wavelet energy_15.62Hz
+22_Wavelet energy_20.83Hz
+22_Wavelet energy_31.25Hz
+22_Wavelet energy_6.94Hz
+22_Wavelet energy_62.5Hz
+22_Wavelet energy_7.81Hz
+22_Wavelet energy_8.93Hz
+22_Wavelet entropy
+22_Wavelet standard deviation_10.42Hz
+22_Wavelet standard deviation_12.5Hz
+22_Wavelet standard deviation_15.62Hz
+22_Wavelet standard deviation_20.83Hz
+22_Wavelet standard deviation_31.25Hz
+22_Wavelet standard deviation_6.94Hz
+22_Wavelet standard deviation_62.5Hz
+22_Wavelet standard deviation_7.81Hz
+22_Wavelet standard deviation_8.93Hz
+22_Wavelet variance_10.42Hz
+22_Wavelet variance_12.5Hz
+22_Wavelet variance_15.62Hz
+22_Wavelet variance_20.83Hz
+22_Wavelet variance_31.25Hz
+22_Wavelet variance_6.94Hz
+22_Wavelet variance_62.5Hz
+22_Wavelet variance_7.81Hz
+22_Wavelet variance_8.93Hz
+23_Fundamental frequency
+23_Human range energy
+23_LPCC_0
+23_LPCC_1
+23_LPCC_10
+23_LPCC_11
+23_LPCC_2
+23_LPCC_3
+23_LPCC_4
+23_LPCC_5
+23_LPCC_6
+23_LPCC_7
+23_LPCC_8
+23_LPCC_9
+23_MFCC_0
+23_MFCC_1
+23_MFCC_10
+23_MFCC_11
+23_MFCC_2
+23_MFCC_3
+23_MFCC_4
+23_MFCC_5
+23_MFCC_6
+23_MFCC_7
+23_MFCC_8
+23_MFCC_9
+23_Max power spectrum
+23_Maximum frequency
+23_Median frequency
+23_Power bandwidth
+23_Spectral centroid
+23_Spectral decrease
+23_Spectral distance
+23_Spectral entropy
+23_Spectral kurtosis
+23_Spectral positive turning points
+23_Spectral roll-off
+23_Spectral roll-on
+23_Spectral skewness
+23_Spectral slope
+23_Spectral spread
+23_Spectral variation
+23_Spectrogram mean coefficient_0.0Hz
+23_Spectrogram mean coefficient_100.81Hz
+23_Spectrogram mean coefficient_104.84Hz
+23_Spectrogram mean coefficient_108.87Hz
+23_Spectrogram mean coefficient_112.9Hz
+23_Spectrogram mean coefficient_116.94Hz
+23_Spectrogram mean coefficient_12.1Hz
+23_Spectrogram mean coefficient_120.97Hz
+23_Spectrogram mean coefficient_125.0Hz
+23_Spectrogram mean coefficient_16.13Hz
+23_Spectrogram mean coefficient_20.16Hz
+23_Spectrogram mean coefficient_24.19Hz
+23_Spectrogram mean coefficient_28.23Hz
+23_Spectrogram mean coefficient_32.26Hz
+23_Spectrogram mean coefficient_36.29Hz
+23_Spectrogram mean coefficient_4.03Hz
+23_Spectrogram mean coefficient_40.32Hz
+23_Spectrogram mean coefficient_44.35Hz
+23_Spectrogram mean coefficient_48.39Hz
+23_Spectrogram mean coefficient_52.42Hz
+23_Spectrogram mean coefficient_56.45Hz
+23_Spectrogram mean coefficient_60.48Hz
+23_Spectrogram mean coefficient_64.52Hz
+23_Spectrogram mean coefficient_68.55Hz
+23_Spectrogram mean coefficient_72.58Hz
+23_Spectrogram mean coefficient_76.61Hz
+23_Spectrogram mean coefficient_8.06Hz
+23_Spectrogram mean coefficient_80.65Hz
+23_Spectrogram mean coefficient_84.68Hz
+23_Spectrogram mean coefficient_88.71Hz
+23_Spectrogram mean coefficient_92.74Hz
+23_Spectrogram mean coefficient_96.77Hz
+23_Wavelet absolute mean_10.42Hz
+23_Wavelet absolute mean_12.5Hz
+23_Wavelet absolute mean_15.62Hz
+23_Wavelet absolute mean_20.83Hz
+23_Wavelet absolute mean_31.25Hz
+23_Wavelet absolute mean_6.94Hz
+23_Wavelet absolute mean_62.5Hz
+23_Wavelet absolute mean_7.81Hz
+23_Wavelet absolute mean_8.93Hz
+23_Wavelet energy_10.42Hz
+23_Wavelet energy_12.5Hz
+23_Wavelet energy_15.62Hz
+23_Wavelet energy_20.83Hz
+23_Wavelet energy_31.25Hz
+23_Wavelet energy_6.94Hz
+23_Wavelet energy_62.5Hz
+23_Wavelet energy_7.81Hz
+23_Wavelet energy_8.93Hz
+23_Wavelet entropy
+23_Wavelet standard deviation_10.42Hz
+23_Wavelet standard deviation_12.5Hz
+23_Wavelet standard deviation_15.62Hz
+23_Wavelet standard deviation_20.83Hz
+23_Wavelet standard deviation_31.25Hz
+23_Wavelet standard deviation_6.94Hz
+23_Wavelet standard deviation_62.5Hz
+23_Wavelet standard deviation_7.81Hz
+23_Wavelet standard deviation_8.93Hz
+23_Wavelet variance_10.42Hz
+23_Wavelet variance_12.5Hz
+23_Wavelet variance_15.62Hz
+23_Wavelet variance_20.83Hz
+23_Wavelet variance_31.25Hz
+23_Wavelet variance_6.94Hz
+23_Wavelet variance_62.5Hz
+23_Wavelet variance_7.81Hz
+23_Wavelet variance_8.93Hz
+24_Fundamental frequency
+24_Human range energy
+24_LPCC_0
+24_LPCC_1
+24_LPCC_10
+24_LPCC_11
+24_LPCC_2
+24_LPCC_3
+24_LPCC_4
+24_LPCC_5
+24_LPCC_6
+24_LPCC_7
+24_LPCC_8
+24_LPCC_9
+24_MFCC_0
+24_MFCC_1
+24_MFCC_10
+24_MFCC_11
+24_MFCC_2
+24_MFCC_3
+24_MFCC_4
+24_MFCC_5
+24_MFCC_6
+24_MFCC_7
+24_MFCC_8
+24_MFCC_9
+24_Max power spectrum
+24_Maximum frequency
+24_Median frequency
+24_Power bandwidth
+24_Spectral centroid
+24_Spectral decrease
+24_Spectral distance
+24_Spectral entropy
+24_Spectral kurtosis
+24_Spectral positive turning points
+24_Spectral roll-off
+24_Spectral roll-on
+24_Spectral skewness
+24_Spectral slope
+24_Spectral spread
+24_Spectral variation
+24_Spectrogram mean coefficient_0.0Hz
+24_Spectrogram mean coefficient_100.81Hz
+24_Spectrogram mean coefficient_104.84Hz
+24_Spectrogram mean coefficient_108.87Hz
+24_Spectrogram mean coefficient_112.9Hz
+24_Spectrogram mean coefficient_116.94Hz
+24_Spectrogram mean coefficient_12.1Hz
+24_Spectrogram mean coefficient_120.97Hz
+24_Spectrogram mean coefficient_125.0Hz
+24_Spectrogram mean coefficient_16.13Hz
+24_Spectrogram mean coefficient_20.16Hz
+24_Spectrogram mean coefficient_24.19Hz
+24_Spectrogram mean coefficient_28.23Hz
+24_Spectrogram mean coefficient_32.26Hz
+24_Spectrogram mean coefficient_36.29Hz
+24_Spectrogram mean coefficient_4.03Hz
+24_Spectrogram mean coefficient_40.32Hz
+24_Spectrogram mean coefficient_44.35Hz
+24_Spectrogram mean coefficient_48.39Hz
+24_Spectrogram mean coefficient_52.42Hz
+24_Spectrogram mean coefficient_56.45Hz
+24_Spectrogram mean coefficient_60.48Hz
+24_Spectrogram mean coefficient_64.52Hz
+24_Spectrogram mean coefficient_68.55Hz
+24_Spectrogram mean coefficient_72.58Hz
+24_Spectrogram mean coefficient_76.61Hz
+24_Spectrogram mean coefficient_8.06Hz
+24_Spectrogram mean coefficient_80.65Hz
+24_Spectrogram mean coefficient_84.68Hz
+24_Spectrogram mean coefficient_88.71Hz
+24_Spectrogram mean coefficient_92.74Hz
+24_Spectrogram mean coefficient_96.77Hz
+24_Wavelet absolute mean_10.42Hz
+24_Wavelet absolute mean_12.5Hz
+24_Wavelet absolute mean_15.62Hz
+24_Wavelet absolute mean_20.83Hz
+24_Wavelet absolute mean_31.25Hz
+24_Wavelet absolute mean_6.94Hz
+24_Wavelet absolute mean_62.5Hz
+24_Wavelet absolute mean_7.81Hz
+24_Wavelet absolute mean_8.93Hz
+24_Wavelet energy_10.42Hz
+24_Wavelet energy_12.5Hz
+24_Wavelet energy_15.62Hz
+24_Wavelet energy_20.83Hz
+24_Wavelet energy_31.25Hz
+24_Wavelet energy_6.94Hz
+24_Wavelet energy_62.5Hz
+24_Wavelet energy_7.81Hz
+24_Wavelet energy_8.93Hz
+24_Wavelet entropy
+24_Wavelet standard deviation_10.42Hz
+24_Wavelet standard deviation_12.5Hz
+24_Wavelet standard deviation_15.62Hz
+24_Wavelet standard deviation_20.83Hz
+24_Wavelet standard deviation_31.25Hz
+24_Wavelet standard deviation_6.94Hz
+24_Wavelet standard deviation_62.5Hz
+24_Wavelet standard deviation_7.81Hz
+24_Wavelet standard deviation_8.93Hz
+24_Wavelet variance_10.42Hz
+24_Wavelet variance_12.5Hz
+24_Wavelet variance_15.62Hz
+24_Wavelet variance_20.83Hz
+24_Wavelet variance_31.25Hz
+24_Wavelet variance_6.94Hz
+24_Wavelet variance_62.5Hz
+24_Wavelet variance_7.81Hz
+24_Wavelet variance_8.93Hz
+25_Fundamental frequency
+25_Human range energy
+25_LPCC_0
+25_LPCC_1
+25_LPCC_10
+25_LPCC_11
+25_LPCC_2
+25_LPCC_3
+25_LPCC_4
+25_LPCC_5
+25_LPCC_6
+25_LPCC_7
+25_LPCC_8
+25_LPCC_9
+25_MFCC_0
+25_MFCC_1
+25_MFCC_10
+25_MFCC_11
+25_MFCC_2
+25_MFCC_3
+25_MFCC_4
+25_MFCC_5
+25_MFCC_6
+25_MFCC_7
+25_MFCC_8
+25_MFCC_9
+25_Max power spectrum
+25_Maximum frequency
+25_Median frequency
+25_Power bandwidth
+25_Spectral centroid
+25_Spectral decrease
+25_Spectral distance
+25_Spectral entropy
+25_Spectral kurtosis
+25_Spectral positive turning points
+25_Spectral roll-off
+25_Spectral roll-on
+25_Spectral skewness
+25_Spectral slope
+25_Spectral spread
+25_Spectral variation
+25_Spectrogram mean coefficient_0.0Hz
+25_Spectrogram mean coefficient_100.81Hz
+25_Spectrogram mean coefficient_104.84Hz
+25_Spectrogram mean coefficient_108.87Hz
+25_Spectrogram mean coefficient_112.9Hz
+25_Spectrogram mean coefficient_116.94Hz
+25_Spectrogram mean coefficient_12.1Hz
+25_Spectrogram mean coefficient_120.97Hz
+25_Spectrogram mean coefficient_125.0Hz
+25_Spectrogram mean coefficient_16.13Hz
+25_Spectrogram mean coefficient_20.16Hz
+25_Spectrogram mean coefficient_24.19Hz
+25_Spectrogram mean coefficient_28.23Hz
+25_Spectrogram mean coefficient_32.26Hz
+25_Spectrogram mean coefficient_36.29Hz
+25_Spectrogram mean coefficient_4.03Hz
+25_Spectrogram mean coefficient_40.32Hz
+25_Spectrogram mean coefficient_44.35Hz
+25_Spectrogram mean coefficient_48.39Hz
+25_Spectrogram mean coefficient_52.42Hz
+25_Spectrogram mean coefficient_56.45Hz
+25_Spectrogram mean coefficient_60.48Hz
+25_Spectrogram mean coefficient_64.52Hz
+25_Spectrogram mean coefficient_68.55Hz
+25_Spectrogram mean coefficient_72.58Hz
+25_Spectrogram mean coefficient_76.61Hz
+25_Spectrogram mean coefficient_8.06Hz
+25_Spectrogram mean coefficient_80.65Hz
+25_Spectrogram mean coefficient_84.68Hz
+25_Spectrogram mean coefficient_88.71Hz
+25_Spectrogram mean coefficient_92.74Hz
+25_Spectrogram mean coefficient_96.77Hz
+25_Wavelet absolute mean_10.42Hz
+25_Wavelet absolute mean_12.5Hz
+25_Wavelet absolute mean_15.62Hz
+25_Wavelet absolute mean_20.83Hz
+25_Wavelet absolute mean_31.25Hz
+25_Wavelet absolute mean_6.94Hz
+25_Wavelet absolute mean_62.5Hz
+25_Wavelet absolute mean_7.81Hz
+25_Wavelet absolute mean_8.93Hz
+25_Wavelet energy_10.42Hz
+25_Wavelet energy_12.5Hz
+25_Wavelet energy_15.62Hz
+25_Wavelet energy_20.83Hz
+25_Wavelet energy_31.25Hz
+25_Wavelet energy_6.94Hz
+25_Wavelet energy_62.5Hz
+25_Wavelet energy_7.81Hz
+25_Wavelet energy_8.93Hz
+25_Wavelet entropy
+25_Wavelet standard deviation_10.42Hz
+25_Wavelet standard deviation_12.5Hz
+25_Wavelet standard deviation_15.62Hz
+25_Wavelet standard deviation_20.83Hz
+25_Wavelet standard deviation_31.25Hz
+25_Wavelet standard deviation_6.94Hz
+25_Wavelet standard deviation_62.5Hz
+25_Wavelet standard deviation_7.81Hz
+25_Wavelet standard deviation_8.93Hz
+25_Wavelet variance_10.42Hz
+25_Wavelet variance_12.5Hz
+25_Wavelet variance_15.62Hz
+25_Wavelet variance_20.83Hz
+25_Wavelet variance_31.25Hz
+25_Wavelet variance_6.94Hz
+25_Wavelet variance_62.5Hz
+25_Wavelet variance_7.81Hz
+25_Wavelet variance_8.93Hz
+26_Fundamental frequency
+26_Human range energy
+26_LPCC_0
+26_LPCC_1
+26_LPCC_10
+26_LPCC_11
+26_LPCC_2
+26_LPCC_3
+26_LPCC_4
+26_LPCC_5
+26_LPCC_6
+26_LPCC_7
+26_LPCC_8
+26_LPCC_9
+26_MFCC_0
+26_MFCC_1
+26_MFCC_10
+26_MFCC_11
+26_MFCC_2
+26_MFCC_3
+26_MFCC_4
+26_MFCC_5
+26_MFCC_6
+26_MFCC_7
+26_MFCC_8
+26_MFCC_9
+26_Max power spectrum
+26_Maximum frequency
+26_Median frequency
+26_Power bandwidth
+26_Spectral centroid
+26_Spectral decrease
+26_Spectral distance
+26_Spectral entropy
+26_Spectral kurtosis
+26_Spectral positive turning points
+26_Spectral roll-off
+26_Spectral roll-on
+26_Spectral skewness
+26_Spectral slope
+26_Spectral spread
+26_Spectral variation
+26_Spectrogram mean coefficient_0.0Hz
+26_Spectrogram mean coefficient_100.81Hz
+26_Spectrogram mean coefficient_104.84Hz
+26_Spectrogram mean coefficient_108.87Hz
+26_Spectrogram mean coefficient_112.9Hz
+26_Spectrogram mean coefficient_116.94Hz
+26_Spectrogram mean coefficient_12.1Hz
+26_Spectrogram mean coefficient_120.97Hz
+26_Spectrogram mean coefficient_125.0Hz
+26_Spectrogram mean coefficient_16.13Hz
+26_Spectrogram mean coefficient_20.16Hz
+26_Spectrogram mean coefficient_24.19Hz
+26_Spectrogram mean coefficient_28.23Hz
+26_Spectrogram mean coefficient_32.26Hz
+26_Spectrogram mean coefficient_36.29Hz
+26_Spectrogram mean coefficient_4.03Hz
+26_Spectrogram mean coefficient_40.32Hz
+26_Spectrogram mean coefficient_44.35Hz
+26_Spectrogram mean coefficient_48.39Hz
+26_Spectrogram mean coefficient_52.42Hz
+26_Spectrogram mean coefficient_56.45Hz
+26_Spectrogram mean coefficient_60.48Hz
+26_Spectrogram mean coefficient_64.52Hz
+26_Spectrogram mean coefficient_68.55Hz
+26_Spectrogram mean coefficient_72.58Hz
+26_Spectrogram mean coefficient_76.61Hz
+26_Spectrogram mean coefficient_8.06Hz
+26_Spectrogram mean coefficient_80.65Hz
+26_Spectrogram mean coefficient_84.68Hz
+26_Spectrogram mean coefficient_88.71Hz
+26_Spectrogram mean coefficient_92.74Hz
+26_Spectrogram mean coefficient_96.77Hz
+26_Wavelet absolute mean_10.42Hz
+26_Wavelet absolute mean_12.5Hz
+26_Wavelet absolute mean_15.62Hz
+26_Wavelet absolute mean_20.83Hz
+26_Wavelet absolute mean_31.25Hz
+26_Wavelet absolute mean_6.94Hz
+26_Wavelet absolute mean_62.5Hz
+26_Wavelet absolute mean_7.81Hz
+26_Wavelet absolute mean_8.93Hz
+26_Wavelet energy_10.42Hz
+26_Wavelet energy_12.5Hz
+26_Wavelet energy_15.62Hz
+26_Wavelet energy_20.83Hz
+26_Wavelet energy_31.25Hz
+26_Wavelet energy_6.94Hz
+26_Wavelet energy_62.5Hz
+26_Wavelet energy_7.81Hz
+26_Wavelet energy_8.93Hz
+26_Wavelet entropy
+26_Wavelet standard deviation_10.42Hz
+26_Wavelet standard deviation_12.5Hz
+26_Wavelet standard deviation_15.62Hz
+26_Wavelet standard deviation_20.83Hz
+26_Wavelet standard deviation_31.25Hz
+26_Wavelet standard deviation_6.94Hz
+26_Wavelet standard deviation_62.5Hz
+26_Wavelet standard deviation_7.81Hz
+26_Wavelet standard deviation_8.93Hz
+26_Wavelet variance_10.42Hz
+26_Wavelet variance_12.5Hz
+26_Wavelet variance_15.62Hz
+26_Wavelet variance_20.83Hz
+26_Wavelet variance_31.25Hz
+26_Wavelet variance_6.94Hz
+26_Wavelet variance_62.5Hz
+26_Wavelet variance_7.81Hz
+26_Wavelet variance_8.93Hz
+27_Fundamental frequency
+27_Human range energy
+27_LPCC_0
+27_LPCC_1
+27_LPCC_10
+27_LPCC_11
+27_LPCC_2
+27_LPCC_3
+27_LPCC_4
+27_LPCC_5
+27_LPCC_6
+27_LPCC_7
+27_LPCC_8
+27_LPCC_9
+27_MFCC_0
+27_MFCC_1
+27_MFCC_10
+27_MFCC_11
+27_MFCC_2
+27_MFCC_3
+27_MFCC_4
+27_MFCC_5
+27_MFCC_6
+27_MFCC_7
+27_MFCC_8
+27_MFCC_9
+27_Max power spectrum
+27_Maximum frequency
+27_Median frequency
+27_Power bandwidth
+27_Spectral centroid
+27_Spectral decrease
+27_Spectral distance
+27_Spectral entropy
+27_Spectral kurtosis
+27_Spectral positive turning points
+27_Spectral roll-off
+27_Spectral roll-on
+27_Spectral skewness
+27_Spectral slope
+27_Spectral spread
+27_Spectral variation
+27_Spectrogram mean coefficient_0.0Hz
+27_Spectrogram mean coefficient_100.81Hz
+27_Spectrogram mean coefficient_104.84Hz
+27_Spectrogram mean coefficient_108.87Hz
+27_Spectrogram mean coefficient_112.9Hz
+27_Spectrogram mean coefficient_116.94Hz
+27_Spectrogram mean coefficient_12.1Hz
+27_Spectrogram mean coefficient_120.97Hz
+27_Spectrogram mean coefficient_125.0Hz
+27_Spectrogram mean coefficient_16.13Hz
+27_Spectrogram mean coefficient_20.16Hz
+27_Spectrogram mean coefficient_24.19Hz
+27_Spectrogram mean coefficient_28.23Hz
+27_Spectrogram mean coefficient_32.26Hz
+27_Spectrogram mean coefficient_36.29Hz
+27_Spectrogram mean coefficient_4.03Hz
+27_Spectrogram mean coefficient_40.32Hz
+27_Spectrogram mean coefficient_44.35Hz
+27_Spectrogram mean coefficient_48.39Hz
+27_Spectrogram mean coefficient_52.42Hz
+27_Spectrogram mean coefficient_56.45Hz
+27_Spectrogram mean coefficient_60.48Hz
+27_Spectrogram mean coefficient_64.52Hz
+27_Spectrogram mean coefficient_68.55Hz
+27_Spectrogram mean coefficient_72.58Hz
+27_Spectrogram mean coefficient_76.61Hz
+27_Spectrogram mean coefficient_8.06Hz
+27_Spectrogram mean coefficient_80.65Hz
+27_Spectrogram mean coefficient_84.68Hz
+27_Spectrogram mean coefficient_88.71Hz
+27_Spectrogram mean coefficient_92.74Hz
+27_Spectrogram mean coefficient_96.77Hz
+27_Wavelet absolute mean_10.42Hz
+27_Wavelet absolute mean_12.5Hz
+27_Wavelet absolute mean_15.62Hz
+27_Wavelet absolute mean_20.83Hz
+27_Wavelet absolute mean_31.25Hz
+27_Wavelet absolute mean_6.94Hz
+27_Wavelet absolute mean_62.5Hz
+27_Wavelet absolute mean_7.81Hz
+27_Wavelet absolute mean_8.93Hz
+27_Wavelet energy_10.42Hz
+27_Wavelet energy_12.5Hz
+27_Wavelet energy_15.62Hz
+27_Wavelet energy_20.83Hz
+27_Wavelet energy_31.25Hz
+27_Wavelet energy_6.94Hz
+27_Wavelet energy_62.5Hz
+27_Wavelet energy_7.81Hz
+27_Wavelet energy_8.93Hz
+27_Wavelet entropy
+27_Wavelet standard deviation_10.42Hz
+27_Wavelet standard deviation_12.5Hz
+27_Wavelet standard deviation_15.62Hz
+27_Wavelet standard deviation_20.83Hz
+27_Wavelet standard deviation_31.25Hz
+27_Wavelet standard deviation_6.94Hz
+27_Wavelet standard deviation_62.5Hz
+27_Wavelet standard deviation_7.81Hz
+27_Wavelet standard deviation_8.93Hz
+27_Wavelet variance_10.42Hz
+27_Wavelet variance_12.5Hz
+27_Wavelet variance_15.62Hz
+27_Wavelet variance_20.83Hz
+27_Wavelet variance_31.25Hz
+27_Wavelet variance_6.94Hz
+27_Wavelet variance_62.5Hz
+27_Wavelet variance_7.81Hz
+27_Wavelet variance_8.93Hz
+28_Fundamental frequency
+28_Human range energy
+28_LPCC_0
+28_LPCC_1
+28_LPCC_10
+28_LPCC_11
+28_LPCC_2
+28_LPCC_3
+28_LPCC_4
+28_LPCC_5
+28_LPCC_6
+28_LPCC_7
+28_LPCC_8
+28_LPCC_9
+28_MFCC_0
+28_MFCC_1
+28_MFCC_10
+28_MFCC_11
+28_MFCC_2
+28_MFCC_3
+28_MFCC_4
+28_MFCC_5
+28_MFCC_6
+28_MFCC_7
+28_MFCC_8
+28_MFCC_9
+28_Max power spectrum
+28_Maximum frequency
+28_Median frequency
+28_Power bandwidth
+28_Spectral centroid
+28_Spectral decrease
+28_Spectral distance
+28_Spectral entropy
+28_Spectral kurtosis
+28_Spectral positive turning points
+28_Spectral roll-off
+28_Spectral roll-on
+28_Spectral skewness
+28_Spectral slope
+28_Spectral spread
+28_Spectral variation
+28_Spectrogram mean coefficient_0.0Hz
+28_Spectrogram mean coefficient_100.81Hz
+28_Spectrogram mean coefficient_104.84Hz
+28_Spectrogram mean coefficient_108.87Hz
+28_Spectrogram mean coefficient_112.9Hz
+28_Spectrogram mean coefficient_116.94Hz
+28_Spectrogram mean coefficient_12.1Hz
+28_Spectrogram mean coefficient_120.97Hz
+28_Spectrogram mean coefficient_125.0Hz
+28_Spectrogram mean coefficient_16.13Hz
+28_Spectrogram mean coefficient_20.16Hz
+28_Spectrogram mean coefficient_24.19Hz
+28_Spectrogram mean coefficient_28.23Hz
+28_Spectrogram mean coefficient_32.26Hz
+28_Spectrogram mean coefficient_36.29Hz
+28_Spectrogram mean coefficient_4.03Hz
+28_Spectrogram mean coefficient_40.32Hz
+28_Spectrogram mean coefficient_44.35Hz
+28_Spectrogram mean coefficient_48.39Hz
+28_Spectrogram mean coefficient_52.42Hz
+28_Spectrogram mean coefficient_56.45Hz
+28_Spectrogram mean coefficient_60.48Hz
+28_Spectrogram mean coefficient_64.52Hz
+28_Spectrogram mean coefficient_68.55Hz
+28_Spectrogram mean coefficient_72.58Hz
+28_Spectrogram mean coefficient_76.61Hz
+28_Spectrogram mean coefficient_8.06Hz
+28_Spectrogram mean coefficient_80.65Hz
+28_Spectrogram mean coefficient_84.68Hz
+28_Spectrogram mean coefficient_88.71Hz
+28_Spectrogram mean coefficient_92.74Hz
+28_Spectrogram mean coefficient_96.77Hz
+28_Wavelet absolute mean_10.42Hz
+28_Wavelet absolute mean_12.5Hz
+28_Wavelet absolute mean_15.62Hz
+28_Wavelet absolute mean_20.83Hz
+28_Wavelet absolute mean_31.25Hz
+28_Wavelet absolute mean_6.94Hz
+28_Wavelet absolute mean_62.5Hz
+28_Wavelet absolute mean_7.81Hz
+28_Wavelet absolute mean_8.93Hz
+28_Wavelet energy_10.42Hz
+28_Wavelet energy_12.5Hz
+28_Wavelet energy_15.62Hz
+28_Wavelet energy_20.83Hz
+28_Wavelet energy_31.25Hz
+28_Wavelet energy_6.94Hz
+28_Wavelet energy_62.5Hz
+28_Wavelet energy_7.81Hz
+28_Wavelet energy_8.93Hz
+28_Wavelet entropy
+28_Wavelet standard deviation_10.42Hz
+28_Wavelet standard deviation_12.5Hz
+28_Wavelet standard deviation_15.62Hz
+28_Wavelet standard deviation_20.83Hz
+28_Wavelet standard deviation_31.25Hz
+28_Wavelet standard deviation_6.94Hz
+28_Wavelet standard deviation_62.5Hz
+28_Wavelet standard deviation_7.81Hz
+28_Wavelet standard deviation_8.93Hz
+28_Wavelet variance_10.42Hz
+28_Wavelet variance_12.5Hz
+28_Wavelet variance_15.62Hz
+28_Wavelet variance_20.83Hz
+28_Wavelet variance_31.25Hz
+28_Wavelet variance_6.94Hz
+28_Wavelet variance_62.5Hz
+28_Wavelet variance_7.81Hz
+28_Wavelet variance_8.93Hz
+29_Fundamental frequency
+29_Human range energy
+29_LPCC_0
+29_LPCC_1
+29_LPCC_10
+29_LPCC_11
+29_LPCC_2
+29_LPCC_3
+29_LPCC_4
+29_LPCC_5
+29_LPCC_6
+29_LPCC_7
+29_LPCC_8
+29_LPCC_9
+29_MFCC_0
+29_MFCC_1
+29_MFCC_10
+29_MFCC_11
+29_MFCC_2
+29_MFCC_3
+29_MFCC_4
+29_MFCC_5
+29_MFCC_6
+29_MFCC_7
+29_MFCC_8
+29_MFCC_9
+29_Max power spectrum
+29_Maximum frequency
+29_Median frequency
+29_Power bandwidth
+29_Spectral centroid
+29_Spectral decrease
+29_Spectral distance
+29_Spectral entropy
+29_Spectral kurtosis
+29_Spectral positive turning points
+29_Spectral roll-off
+29_Spectral roll-on
+29_Spectral skewness
+29_Spectral slope
+29_Spectral spread
+29_Spectral variation
+29_Spectrogram mean coefficient_0.0Hz
+29_Spectrogram mean coefficient_100.81Hz
+29_Spectrogram mean coefficient_104.84Hz
+29_Spectrogram mean coefficient_108.87Hz
+29_Spectrogram mean coefficient_112.9Hz
+29_Spectrogram mean coefficient_116.94Hz
+29_Spectrogram mean coefficient_12.1Hz
+29_Spectrogram mean coefficient_120.97Hz
+29_Spectrogram mean coefficient_125.0Hz
+29_Spectrogram mean coefficient_16.13Hz
+29_Spectrogram mean coefficient_20.16Hz
+29_Spectrogram mean coefficient_24.19Hz
+29_Spectrogram mean coefficient_28.23Hz
+29_Spectrogram mean coefficient_32.26Hz
+29_Spectrogram mean coefficient_36.29Hz
+29_Spectrogram mean coefficient_4.03Hz
+29_Spectrogram mean coefficient_40.32Hz
+29_Spectrogram mean coefficient_44.35Hz
+29_Spectrogram mean coefficient_48.39Hz
+29_Spectrogram mean coefficient_52.42Hz
+29_Spectrogram mean coefficient_56.45Hz
+29_Spectrogram mean coefficient_60.48Hz
+29_Spectrogram mean coefficient_64.52Hz
+29_Spectrogram mean coefficient_68.55Hz
+29_Spectrogram mean coefficient_72.58Hz
+29_Spectrogram mean coefficient_76.61Hz
+29_Spectrogram mean coefficient_8.06Hz
+29_Spectrogram mean coefficient_80.65Hz
+29_Spectrogram mean coefficient_84.68Hz
+29_Spectrogram mean coefficient_88.71Hz
+29_Spectrogram mean coefficient_92.74Hz
+29_Spectrogram mean coefficient_96.77Hz
+29_Wavelet absolute mean_10.42Hz
+29_Wavelet absolute mean_12.5Hz
+29_Wavelet absolute mean_15.62Hz
+29_Wavelet absolute mean_20.83Hz
+29_Wavelet absolute mean_31.25Hz
+29_Wavelet absolute mean_6.94Hz
+29_Wavelet absolute mean_62.5Hz
+29_Wavelet absolute mean_7.81Hz
+29_Wavelet absolute mean_8.93Hz
+29_Wavelet energy_10.42Hz
+29_Wavelet energy_12.5Hz
+29_Wavelet energy_15.62Hz
+29_Wavelet energy_20.83Hz
+29_Wavelet energy_31.25Hz
+29_Wavelet energy_6.94Hz
+29_Wavelet energy_62.5Hz
+29_Wavelet energy_7.81Hz
+29_Wavelet energy_8.93Hz
+29_Wavelet entropy
+29_Wavelet standard deviation_10.42Hz
+29_Wavelet standard deviation_12.5Hz
+29_Wavelet standard deviation_15.62Hz
+29_Wavelet standard deviation_20.83Hz
+29_Wavelet standard deviation_31.25Hz
+29_Wavelet standard deviation_6.94Hz
+29_Wavelet standard deviation_62.5Hz
+29_Wavelet standard deviation_7.81Hz
+29_Wavelet standard deviation_8.93Hz
+29_Wavelet variance_10.42Hz
+29_Wavelet variance_12.5Hz
+29_Wavelet variance_15.62Hz
+29_Wavelet variance_20.83Hz
+29_Wavelet variance_31.25Hz
+29_Wavelet variance_6.94Hz
+29_Wavelet variance_62.5Hz
+29_Wavelet variance_7.81Hz
+29_Wavelet variance_8.93Hz
+2_Fundamental frequency
+2_Human range energy
+2_LPCC_0
+2_LPCC_1
+2_LPCC_10
+2_LPCC_11
+2_LPCC_2
+2_LPCC_3
+2_LPCC_4
+2_LPCC_5
+2_LPCC_6
+2_LPCC_7
+2_LPCC_8
+2_LPCC_9
+2_MFCC_0
+2_MFCC_1
+2_MFCC_10
+2_MFCC_11
+2_MFCC_2
+2_MFCC_3
+2_MFCC_4
+2_MFCC_5
+2_MFCC_6
+2_MFCC_7
+2_MFCC_8
+2_MFCC_9
+2_Max power spectrum
+2_Maximum frequency
+2_Median frequency
+2_Power bandwidth
+2_Spectral centroid
+2_Spectral decrease
+2_Spectral distance
+2_Spectral entropy
+2_Spectral kurtosis
+2_Spectral positive turning points
+2_Spectral roll-off
+2_Spectral roll-on
+2_Spectral skewness
+2_Spectral slope
+2_Spectral spread
+2_Spectral variation
+2_Spectrogram mean coefficient_0.0Hz
+2_Spectrogram mean coefficient_100.81Hz
+2_Spectrogram mean coefficient_104.84Hz
+2_Spectrogram mean coefficient_108.87Hz
+2_Spectrogram mean coefficient_112.9Hz
+2_Spectrogram mean coefficient_116.94Hz
+2_Spectrogram mean coefficient_12.1Hz
+2_Spectrogram mean coefficient_120.97Hz
+2_Spectrogram mean coefficient_125.0Hz
+2_Spectrogram mean coefficient_16.13Hz
+2_Spectrogram mean coefficient_20.16Hz
+2_Spectrogram mean coefficient_24.19Hz
+2_Spectrogram mean coefficient_28.23Hz
+2_Spectrogram mean coefficient_32.26Hz
+2_Spectrogram mean coefficient_36.29Hz
+2_Spectrogram mean coefficient_4.03Hz
+2_Spectrogram mean coefficient_40.32Hz
+2_Spectrogram mean coefficient_44.35Hz
+2_Spectrogram mean coefficient_48.39Hz
+2_Spectrogram mean coefficient_52.42Hz
+2_Spectrogram mean coefficient_56.45Hz
+2_Spectrogram mean coefficient_60.48Hz
+2_Spectrogram mean coefficient_64.52Hz
+2_Spectrogram mean coefficient_68.55Hz
+2_Spectrogram mean coefficient_72.58Hz
+2_Spectrogram mean coefficient_76.61Hz
+2_Spectrogram mean coefficient_8.06Hz
+2_Spectrogram mean coefficient_80.65Hz
+2_Spectrogram mean coefficient_84.68Hz
+2_Spectrogram mean coefficient_88.71Hz
+2_Spectrogram mean coefficient_92.74Hz
+2_Spectrogram mean coefficient_96.77Hz
+2_Wavelet absolute mean_10.42Hz
+2_Wavelet absolute mean_12.5Hz
+2_Wavelet absolute mean_15.62Hz
+2_Wavelet absolute mean_20.83Hz
+2_Wavelet absolute mean_31.25Hz
+2_Wavelet absolute mean_6.94Hz
+2_Wavelet absolute mean_62.5Hz
+2_Wavelet absolute mean_7.81Hz
+2_Wavelet absolute mean_8.93Hz
+2_Wavelet energy_10.42Hz
+2_Wavelet energy_12.5Hz
+2_Wavelet energy_15.62Hz
+2_Wavelet energy_20.83Hz
+2_Wavelet energy_31.25Hz
+2_Wavelet energy_6.94Hz
+2_Wavelet energy_62.5Hz
+2_Wavelet energy_7.81Hz
+2_Wavelet energy_8.93Hz
+2_Wavelet entropy
+2_Wavelet standard deviation_10.42Hz
+2_Wavelet standard deviation_12.5Hz
+2_Wavelet standard deviation_15.62Hz
+2_Wavelet standard deviation_20.83Hz
+2_Wavelet standard deviation_31.25Hz
+2_Wavelet standard deviation_6.94Hz
+2_Wavelet standard deviation_62.5Hz
+2_Wavelet standard deviation_7.81Hz
+2_Wavelet standard deviation_8.93Hz
+2_Wavelet variance_10.42Hz
+2_Wavelet variance_12.5Hz
+2_Wavelet variance_15.62Hz
+2_Wavelet variance_20.83Hz
+2_Wavelet variance_31.25Hz
+2_Wavelet variance_6.94Hz
+2_Wavelet variance_62.5Hz
+2_Wavelet variance_7.81Hz
+2_Wavelet variance_8.93Hz
+30_Fundamental frequency
+30_Human range energy
+30_LPCC_0
+30_LPCC_1
+30_LPCC_10
+30_LPCC_11
+30_LPCC_2
+30_LPCC_3
+30_LPCC_4
+30_LPCC_5
+30_LPCC_6
+30_LPCC_7
+30_LPCC_8
+30_LPCC_9
+30_MFCC_0
+30_MFCC_1
+30_MFCC_10
+30_MFCC_11
+30_MFCC_2
+30_MFCC_3
+30_MFCC_4
+30_MFCC_5
+30_MFCC_6
+30_MFCC_7
+30_MFCC_8
+30_MFCC_9
+30_Max power spectrum
+30_Maximum frequency
+30_Median frequency
+30_Power bandwidth
+30_Spectral centroid
+30_Spectral decrease
+30_Spectral distance
+30_Spectral entropy
+30_Spectral kurtosis
+30_Spectral positive turning points
+30_Spectral roll-off
+30_Spectral roll-on
+30_Spectral skewness
+30_Spectral slope
+30_Spectral spread
+30_Spectral variation
+30_Spectrogram mean coefficient_0.0Hz
+30_Spectrogram mean coefficient_100.81Hz
+30_Spectrogram mean coefficient_104.84Hz
+30_Spectrogram mean coefficient_108.87Hz
+30_Spectrogram mean coefficient_112.9Hz
+30_Spectrogram mean coefficient_116.94Hz
+30_Spectrogram mean coefficient_12.1Hz
+30_Spectrogram mean coefficient_120.97Hz
+30_Spectrogram mean coefficient_125.0Hz
+30_Spectrogram mean coefficient_16.13Hz
+30_Spectrogram mean coefficient_20.16Hz
+30_Spectrogram mean coefficient_24.19Hz
+30_Spectrogram mean coefficient_28.23Hz
+30_Spectrogram mean coefficient_32.26Hz
+30_Spectrogram mean coefficient_36.29Hz
+30_Spectrogram mean coefficient_4.03Hz
+30_Spectrogram mean coefficient_40.32Hz
+30_Spectrogram mean coefficient_44.35Hz
+30_Spectrogram mean coefficient_48.39Hz
+30_Spectrogram mean coefficient_52.42Hz
+30_Spectrogram mean coefficient_56.45Hz
+30_Spectrogram mean coefficient_60.48Hz
+30_Spectrogram mean coefficient_64.52Hz
+30_Spectrogram mean coefficient_68.55Hz
+30_Spectrogram mean coefficient_72.58Hz
+30_Spectrogram mean coefficient_76.61Hz
+30_Spectrogram mean coefficient_8.06Hz
+30_Spectrogram mean coefficient_80.65Hz
+30_Spectrogram mean coefficient_84.68Hz
+30_Spectrogram mean coefficient_88.71Hz
+30_Spectrogram mean coefficient_92.74Hz
+30_Spectrogram mean coefficient_96.77Hz
+30_Wavelet absolute mean_10.42Hz
+30_Wavelet absolute mean_12.5Hz
+30_Wavelet absolute mean_15.62Hz
+30_Wavelet absolute mean_20.83Hz
+30_Wavelet absolute mean_31.25Hz
+30_Wavelet absolute mean_6.94Hz
+30_Wavelet absolute mean_62.5Hz
+30_Wavelet absolute mean_7.81Hz
+30_Wavelet absolute mean_8.93Hz
+30_Wavelet energy_10.42Hz
+30_Wavelet energy_12.5Hz
+30_Wavelet energy_15.62Hz
+30_Wavelet energy_20.83Hz
+30_Wavelet energy_31.25Hz
+30_Wavelet energy_6.94Hz
+30_Wavelet energy_62.5Hz
+30_Wavelet energy_7.81Hz
+30_Wavelet energy_8.93Hz
+30_Wavelet entropy
+30_Wavelet standard deviation_10.42Hz
+30_Wavelet standard deviation_12.5Hz
+30_Wavelet standard deviation_15.62Hz
+30_Wavelet standard deviation_20.83Hz
+30_Wavelet standard deviation_31.25Hz
+30_Wavelet standard deviation_6.94Hz
+30_Wavelet standard deviation_62.5Hz
+30_Wavelet standard deviation_7.81Hz
+30_Wavelet standard deviation_8.93Hz
+30_Wavelet variance_10.42Hz
+30_Wavelet variance_12.5Hz
+30_Wavelet variance_15.62Hz
+30_Wavelet variance_20.83Hz
+30_Wavelet variance_31.25Hz
+30_Wavelet variance_6.94Hz
+30_Wavelet variance_62.5Hz
+30_Wavelet variance_7.81Hz
+30_Wavelet variance_8.93Hz
+31_Fundamental frequency
+31_Human range energy
+31_LPCC_0
+31_LPCC_1
+31_LPCC_10
+31_LPCC_11
+31_LPCC_2
+31_LPCC_3
+31_LPCC_4
+31_LPCC_5
+31_LPCC_6
+31_LPCC_7
+31_LPCC_8
+31_LPCC_9
+31_MFCC_0
+31_MFCC_1
+31_MFCC_10
+31_MFCC_11
+31_MFCC_2
+31_MFCC_3
+31_MFCC_4
+31_MFCC_5
+31_MFCC_6
+31_MFCC_7
+31_MFCC_8
+31_MFCC_9
+31_Max power spectrum
+31_Maximum frequency
+31_Median frequency
+31_Power bandwidth
+31_Spectral centroid
+31_Spectral decrease
+31_Spectral distance
+31_Spectral entropy
+31_Spectral kurtosis
+31_Spectral positive turning points
+31_Spectral roll-off
+31_Spectral roll-on
+31_Spectral skewness
+31_Spectral slope
+31_Spectral spread
+31_Spectral variation
+31_Spectrogram mean coefficient_0.0Hz
+31_Spectrogram mean coefficient_100.81Hz
+31_Spectrogram mean coefficient_104.84Hz
+31_Spectrogram mean coefficient_108.87Hz
+31_Spectrogram mean coefficient_112.9Hz
+31_Spectrogram mean coefficient_116.94Hz
+31_Spectrogram mean coefficient_12.1Hz
+31_Spectrogram mean coefficient_120.97Hz
+31_Spectrogram mean coefficient_125.0Hz
+31_Spectrogram mean coefficient_16.13Hz
+31_Spectrogram mean coefficient_20.16Hz
+31_Spectrogram mean coefficient_24.19Hz
+31_Spectrogram mean coefficient_28.23Hz
+31_Spectrogram mean coefficient_32.26Hz
+31_Spectrogram mean coefficient_36.29Hz
+31_Spectrogram mean coefficient_4.03Hz
+31_Spectrogram mean coefficient_40.32Hz
+31_Spectrogram mean coefficient_44.35Hz
+31_Spectrogram mean coefficient_48.39Hz
+31_Spectrogram mean coefficient_52.42Hz
+31_Spectrogram mean coefficient_56.45Hz
+31_Spectrogram mean coefficient_60.48Hz
+31_Spectrogram mean coefficient_64.52Hz
+31_Spectrogram mean coefficient_68.55Hz
+31_Spectrogram mean coefficient_72.58Hz
+31_Spectrogram mean coefficient_76.61Hz
+31_Spectrogram mean coefficient_8.06Hz
+31_Spectrogram mean coefficient_80.65Hz
+31_Spectrogram mean coefficient_84.68Hz
+31_Spectrogram mean coefficient_88.71Hz
+31_Spectrogram mean coefficient_92.74Hz
+31_Spectrogram mean coefficient_96.77Hz
+31_Wavelet absolute mean_10.42Hz
+31_Wavelet absolute mean_12.5Hz
+31_Wavelet absolute mean_15.62Hz
+31_Wavelet absolute mean_20.83Hz
+31_Wavelet absolute mean_31.25Hz
+31_Wavelet absolute mean_6.94Hz
+31_Wavelet absolute mean_62.5Hz
+31_Wavelet absolute mean_7.81Hz
+31_Wavelet absolute mean_8.93Hz
+31_Wavelet energy_10.42Hz
+31_Wavelet energy_12.5Hz
+31_Wavelet energy_15.62Hz
+31_Wavelet energy_20.83Hz
+31_Wavelet energy_31.25Hz
+31_Wavelet energy_6.94Hz
+31_Wavelet energy_62.5Hz
+31_Wavelet energy_7.81Hz
+31_Wavelet energy_8.93Hz
+31_Wavelet entropy
+31_Wavelet standard deviation_10.42Hz
+31_Wavelet standard deviation_12.5Hz
+31_Wavelet standard deviation_15.62Hz
+31_Wavelet standard deviation_20.83Hz
+31_Wavelet standard deviation_31.25Hz
+31_Wavelet standard deviation_6.94Hz
+31_Wavelet standard deviation_62.5Hz
+31_Wavelet standard deviation_7.81Hz
+31_Wavelet standard deviation_8.93Hz
+31_Wavelet variance_10.42Hz
+31_Wavelet variance_12.5Hz
+31_Wavelet variance_15.62Hz
+31_Wavelet variance_20.83Hz
+31_Wavelet variance_31.25Hz
+31_Wavelet variance_6.94Hz
+31_Wavelet variance_62.5Hz
+31_Wavelet variance_7.81Hz
+31_Wavelet variance_8.93Hz
+32_Fundamental frequency
+32_Human range energy
+32_LPCC_0
+32_LPCC_1
+32_LPCC_10
+32_LPCC_11
+32_LPCC_2
+32_LPCC_3
+32_LPCC_4
+32_LPCC_5
+32_LPCC_6
+32_LPCC_7
+32_LPCC_8
+32_LPCC_9
+32_MFCC_0
+32_MFCC_1
+32_MFCC_10
+32_MFCC_11
+32_MFCC_2
+32_MFCC_3
+32_MFCC_4
+32_MFCC_5
+32_MFCC_6
+32_MFCC_7
+32_MFCC_8
+32_MFCC_9
+32_Max power spectrum
+32_Maximum frequency
+32_Median frequency
+32_Power bandwidth
+32_Spectral centroid
+32_Spectral decrease
+32_Spectral distance
+32_Spectral entropy
+32_Spectral kurtosis
+32_Spectral positive turning points
+32_Spectral roll-off
+32_Spectral roll-on
+32_Spectral skewness
+32_Spectral slope
+32_Spectral spread
+32_Spectral variation
+32_Spectrogram mean coefficient_0.0Hz
+32_Spectrogram mean coefficient_100.81Hz
+32_Spectrogram mean coefficient_104.84Hz
+32_Spectrogram mean coefficient_108.87Hz
+32_Spectrogram mean coefficient_112.9Hz
+32_Spectrogram mean coefficient_116.94Hz
+32_Spectrogram mean coefficient_12.1Hz
+32_Spectrogram mean coefficient_120.97Hz
+32_Spectrogram mean coefficient_125.0Hz
+32_Spectrogram mean coefficient_16.13Hz
+32_Spectrogram mean coefficient_20.16Hz
+32_Spectrogram mean coefficient_24.19Hz
+32_Spectrogram mean coefficient_28.23Hz
+32_Spectrogram mean coefficient_32.26Hz
+32_Spectrogram mean coefficient_36.29Hz
+32_Spectrogram mean coefficient_4.03Hz
+32_Spectrogram mean coefficient_40.32Hz
+32_Spectrogram mean coefficient_44.35Hz
+32_Spectrogram mean coefficient_48.39Hz
+32_Spectrogram mean coefficient_52.42Hz
+32_Spectrogram mean coefficient_56.45Hz
+32_Spectrogram mean coefficient_60.48Hz
+32_Spectrogram mean coefficient_64.52Hz
+32_Spectrogram mean coefficient_68.55Hz
+32_Spectrogram mean coefficient_72.58Hz
+32_Spectrogram mean coefficient_76.61Hz
+32_Spectrogram mean coefficient_8.06Hz
+32_Spectrogram mean coefficient_80.65Hz
+32_Spectrogram mean coefficient_84.68Hz
+32_Spectrogram mean coefficient_88.71Hz
+32_Spectrogram mean coefficient_92.74Hz
+32_Spectrogram mean coefficient_96.77Hz
+32_Wavelet absolute mean_10.42Hz
+32_Wavelet absolute mean_12.5Hz
+32_Wavelet absolute mean_15.62Hz
+32_Wavelet absolute mean_20.83Hz
+32_Wavelet absolute mean_31.25Hz
+32_Wavelet absolute mean_6.94Hz
+32_Wavelet absolute mean_62.5Hz
+32_Wavelet absolute mean_7.81Hz
+32_Wavelet absolute mean_8.93Hz
+32_Wavelet energy_10.42Hz
+32_Wavelet energy_12.5Hz
+32_Wavelet energy_15.62Hz
+32_Wavelet energy_20.83Hz
+32_Wavelet energy_31.25Hz
+32_Wavelet energy_6.94Hz
+32_Wavelet energy_62.5Hz
+32_Wavelet energy_7.81Hz
+32_Wavelet energy_8.93Hz
+32_Wavelet entropy
+32_Wavelet standard deviation_10.42Hz
+32_Wavelet standard deviation_12.5Hz
+32_Wavelet standard deviation_15.62Hz
+32_Wavelet standard deviation_20.83Hz
+32_Wavelet standard deviation_31.25Hz
+32_Wavelet standard deviation_6.94Hz
+32_Wavelet standard deviation_62.5Hz
+32_Wavelet standard deviation_7.81Hz
+32_Wavelet standard deviation_8.93Hz
+32_Wavelet variance_10.42Hz
+32_Wavelet variance_12.5Hz
+32_Wavelet variance_15.62Hz
+32_Wavelet variance_20.83Hz
+32_Wavelet variance_31.25Hz
+32_Wavelet variance_6.94Hz
+32_Wavelet variance_62.5Hz
+32_Wavelet variance_7.81Hz
+32_Wavelet variance_8.93Hz
+33_Fundamental frequency
+33_Human range energy
+33_LPCC_0
+33_LPCC_1
+33_LPCC_10
+33_LPCC_11
+33_LPCC_2
+33_LPCC_3
+33_LPCC_4
+33_LPCC_5
+33_LPCC_6
+33_LPCC_7
+33_LPCC_8
+33_LPCC_9
+33_MFCC_0
+33_MFCC_1
+33_MFCC_10
+33_MFCC_11
+33_MFCC_2
+33_MFCC_3
+33_MFCC_4
+33_MFCC_5
+33_MFCC_6
+33_MFCC_7
+33_MFCC_8
+33_MFCC_9
+33_Max power spectrum
+33_Maximum frequency
+33_Median frequency
+33_Power bandwidth
+33_Spectral centroid
+33_Spectral decrease
+33_Spectral distance
+33_Spectral entropy
+33_Spectral kurtosis
+33_Spectral positive turning points
+33_Spectral roll-off
+33_Spectral roll-on
+33_Spectral skewness
+33_Spectral slope
+33_Spectral spread
+33_Spectral variation
+33_Spectrogram mean coefficient_0.0Hz
+33_Spectrogram mean coefficient_100.81Hz
+33_Spectrogram mean coefficient_104.84Hz
+33_Spectrogram mean coefficient_108.87Hz
+33_Spectrogram mean coefficient_112.9Hz
+33_Spectrogram mean coefficient_116.94Hz
+33_Spectrogram mean coefficient_12.1Hz
+33_Spectrogram mean coefficient_120.97Hz
+33_Spectrogram mean coefficient_125.0Hz
+33_Spectrogram mean coefficient_16.13Hz
+33_Spectrogram mean coefficient_20.16Hz
+33_Spectrogram mean coefficient_24.19Hz
+33_Spectrogram mean coefficient_28.23Hz
+33_Spectrogram mean coefficient_32.26Hz
+33_Spectrogram mean coefficient_36.29Hz
+33_Spectrogram mean coefficient_4.03Hz
+33_Spectrogram mean coefficient_40.32Hz
+33_Spectrogram mean coefficient_44.35Hz
+33_Spectrogram mean coefficient_48.39Hz
+33_Spectrogram mean coefficient_52.42Hz
+33_Spectrogram mean coefficient_56.45Hz
+33_Spectrogram mean coefficient_60.48Hz
+33_Spectrogram mean coefficient_64.52Hz
+33_Spectrogram mean coefficient_68.55Hz
+33_Spectrogram mean coefficient_72.58Hz
+33_Spectrogram mean coefficient_76.61Hz
+33_Spectrogram mean coefficient_8.06Hz
+33_Spectrogram mean coefficient_80.65Hz
+33_Spectrogram mean coefficient_84.68Hz
+33_Spectrogram mean coefficient_88.71Hz
+33_Spectrogram mean coefficient_92.74Hz
+33_Spectrogram mean coefficient_96.77Hz
+33_Wavelet absolute mean_10.42Hz
+33_Wavelet absolute mean_12.5Hz
+33_Wavelet absolute mean_15.62Hz
+33_Wavelet absolute mean_20.83Hz
+33_Wavelet absolute mean_31.25Hz
+33_Wavelet absolute mean_6.94Hz
+33_Wavelet absolute mean_62.5Hz
+33_Wavelet absolute mean_7.81Hz
+33_Wavelet absolute mean_8.93Hz
+33_Wavelet energy_10.42Hz
+33_Wavelet energy_12.5Hz
+33_Wavelet energy_15.62Hz
+33_Wavelet energy_20.83Hz
+33_Wavelet energy_31.25Hz
+33_Wavelet energy_6.94Hz
+33_Wavelet energy_62.5Hz
+33_Wavelet energy_7.81Hz
+33_Wavelet energy_8.93Hz
+33_Wavelet entropy
+33_Wavelet standard deviation_10.42Hz
+33_Wavelet standard deviation_12.5Hz
+33_Wavelet standard deviation_15.62Hz
+33_Wavelet standard deviation_20.83Hz
+33_Wavelet standard deviation_31.25Hz
+33_Wavelet standard deviation_6.94Hz
+33_Wavelet standard deviation_62.5Hz
+33_Wavelet standard deviation_7.81Hz
+33_Wavelet standard deviation_8.93Hz
+33_Wavelet variance_10.42Hz
+33_Wavelet variance_12.5Hz
+33_Wavelet variance_15.62Hz
+33_Wavelet variance_20.83Hz
+33_Wavelet variance_31.25Hz
+33_Wavelet variance_6.94Hz
+33_Wavelet variance_62.5Hz
+33_Wavelet variance_7.81Hz
+33_Wavelet variance_8.93Hz
+34_Fundamental frequency
+34_Human range energy
+34_LPCC_0
+34_LPCC_1
+34_LPCC_10
+34_LPCC_11
+34_LPCC_2
+34_LPCC_3
+34_LPCC_4
+34_LPCC_5
+34_LPCC_6
+34_LPCC_7
+34_LPCC_8
+34_LPCC_9
+34_MFCC_0
+34_MFCC_1
+34_MFCC_10
+34_MFCC_11
+34_MFCC_2
+34_MFCC_3
+34_MFCC_4
+34_MFCC_5
+34_MFCC_6
+34_MFCC_7
+34_MFCC_8
+34_MFCC_9
+34_Max power spectrum
+34_Maximum frequency
+34_Median frequency
+34_Power bandwidth
+34_Spectral centroid
+34_Spectral decrease
+34_Spectral distance
+34_Spectral entropy
+34_Spectral kurtosis
+34_Spectral positive turning points
+34_Spectral roll-off
+34_Spectral roll-on
+34_Spectral skewness
+34_Spectral slope
+34_Spectral spread
+34_Spectral variation
+34_Spectrogram mean coefficient_0.0Hz
+34_Spectrogram mean coefficient_100.81Hz
+34_Spectrogram mean coefficient_104.84Hz
+34_Spectrogram mean coefficient_108.87Hz
+34_Spectrogram mean coefficient_112.9Hz
+34_Spectrogram mean coefficient_116.94Hz
+34_Spectrogram mean coefficient_12.1Hz
+34_Spectrogram mean coefficient_120.97Hz
+34_Spectrogram mean coefficient_125.0Hz
+34_Spectrogram mean coefficient_16.13Hz
+34_Spectrogram mean coefficient_20.16Hz
+34_Spectrogram mean coefficient_24.19Hz
+34_Spectrogram mean coefficient_28.23Hz
+34_Spectrogram mean coefficient_32.26Hz
+34_Spectrogram mean coefficient_36.29Hz
+34_Spectrogram mean coefficient_4.03Hz
+34_Spectrogram mean coefficient_40.32Hz
+34_Spectrogram mean coefficient_44.35Hz
+34_Spectrogram mean coefficient_48.39Hz
+34_Spectrogram mean coefficient_52.42Hz
+34_Spectrogram mean coefficient_56.45Hz
+34_Spectrogram mean coefficient_60.48Hz
+34_Spectrogram mean coefficient_64.52Hz
+34_Spectrogram mean coefficient_68.55Hz
+34_Spectrogram mean coefficient_72.58Hz
+34_Spectrogram mean coefficient_76.61Hz
+34_Spectrogram mean coefficient_8.06Hz
+34_Spectrogram mean coefficient_80.65Hz
+34_Spectrogram mean coefficient_84.68Hz
+34_Spectrogram mean coefficient_88.71Hz
+34_Spectrogram mean coefficient_92.74Hz
+34_Spectrogram mean coefficient_96.77Hz
+34_Wavelet absolute mean_10.42Hz
+34_Wavelet absolute mean_12.5Hz
+34_Wavelet absolute mean_15.62Hz
+34_Wavelet absolute mean_20.83Hz
+34_Wavelet absolute mean_31.25Hz
+34_Wavelet absolute mean_6.94Hz
+34_Wavelet absolute mean_62.5Hz
+34_Wavelet absolute mean_7.81Hz
+34_Wavelet absolute mean_8.93Hz
+34_Wavelet energy_10.42Hz
+34_Wavelet energy_12.5Hz
+34_Wavelet energy_15.62Hz
+34_Wavelet energy_20.83Hz
+34_Wavelet energy_31.25Hz
+34_Wavelet energy_6.94Hz
+34_Wavelet energy_62.5Hz
+34_Wavelet energy_7.81Hz
+34_Wavelet energy_8.93Hz
+34_Wavelet entropy
+34_Wavelet standard deviation_10.42Hz
+34_Wavelet standard deviation_12.5Hz
+34_Wavelet standard deviation_15.62Hz
+34_Wavelet standard deviation_20.83Hz
+34_Wavelet standard deviation_31.25Hz
+34_Wavelet standard deviation_6.94Hz
+34_Wavelet standard deviation_62.5Hz
+34_Wavelet standard deviation_7.81Hz
+34_Wavelet standard deviation_8.93Hz
+34_Wavelet variance_10.42Hz
+34_Wavelet variance_12.5Hz
+34_Wavelet variance_15.62Hz
+34_Wavelet variance_20.83Hz
+34_Wavelet variance_31.25Hz
+34_Wavelet variance_6.94Hz
+34_Wavelet variance_62.5Hz
+34_Wavelet variance_7.81Hz
+34_Wavelet variance_8.93Hz
+35_Fundamental frequency
+35_Human range energy
+35_LPCC_0
+35_LPCC_1
+35_LPCC_10
+35_LPCC_11
+35_LPCC_2
+35_LPCC_3
+35_LPCC_4
+35_LPCC_5
+35_LPCC_6
+35_LPCC_7
+35_LPCC_8
+35_LPCC_9
+35_MFCC_0
+35_MFCC_1
+35_MFCC_10
+35_MFCC_11
+35_MFCC_2
+35_MFCC_3
+35_MFCC_4
+35_MFCC_5
+35_MFCC_6
+35_MFCC_7
+35_MFCC_8
+35_MFCC_9
+35_Max power spectrum
+35_Maximum frequency
+35_Median frequency
+35_Power bandwidth
+35_Spectral centroid
+35_Spectral decrease
+35_Spectral distance
+35_Spectral entropy
+35_Spectral kurtosis
+35_Spectral positive turning points
+35_Spectral roll-off
+35_Spectral roll-on
+35_Spectral skewness
+35_Spectral slope
+35_Spectral spread
+35_Spectral variation
+35_Spectrogram mean coefficient_0.0Hz
+35_Spectrogram mean coefficient_100.81Hz
+35_Spectrogram mean coefficient_104.84Hz
+35_Spectrogram mean coefficient_108.87Hz
+35_Spectrogram mean coefficient_112.9Hz
+35_Spectrogram mean coefficient_116.94Hz
+35_Spectrogram mean coefficient_12.1Hz
+35_Spectrogram mean coefficient_120.97Hz
+35_Spectrogram mean coefficient_125.0Hz
+35_Spectrogram mean coefficient_16.13Hz
+35_Spectrogram mean coefficient_20.16Hz
+35_Spectrogram mean coefficient_24.19Hz
+35_Spectrogram mean coefficient_28.23Hz
+35_Spectrogram mean coefficient_32.26Hz
+35_Spectrogram mean coefficient_36.29Hz
+35_Spectrogram mean coefficient_4.03Hz
+35_Spectrogram mean coefficient_40.32Hz
+35_Spectrogram mean coefficient_44.35Hz
+35_Spectrogram mean coefficient_48.39Hz
+35_Spectrogram mean coefficient_52.42Hz
+35_Spectrogram mean coefficient_56.45Hz
+35_Spectrogram mean coefficient_60.48Hz
+35_Spectrogram mean coefficient_64.52Hz
+35_Spectrogram mean coefficient_68.55Hz
+35_Spectrogram mean coefficient_72.58Hz
+35_Spectrogram mean coefficient_76.61Hz
+35_Spectrogram mean coefficient_8.06Hz
+35_Spectrogram mean coefficient_80.65Hz
+35_Spectrogram mean coefficient_84.68Hz
+35_Spectrogram mean coefficient_88.71Hz
+35_Spectrogram mean coefficient_92.74Hz
+35_Spectrogram mean coefficient_96.77Hz
+35_Wavelet absolute mean_10.42Hz
+35_Wavelet absolute mean_12.5Hz
+35_Wavelet absolute mean_15.62Hz
+35_Wavelet absolute mean_20.83Hz
+35_Wavelet absolute mean_31.25Hz
+35_Wavelet absolute mean_6.94Hz
+35_Wavelet absolute mean_62.5Hz
+35_Wavelet absolute mean_7.81Hz
+35_Wavelet absolute mean_8.93Hz
+35_Wavelet energy_10.42Hz
+35_Wavelet energy_12.5Hz
+35_Wavelet energy_15.62Hz
+35_Wavelet energy_20.83Hz
+35_Wavelet energy_31.25Hz
+35_Wavelet energy_6.94Hz
+35_Wavelet energy_62.5Hz
+35_Wavelet energy_7.81Hz
+35_Wavelet energy_8.93Hz
+35_Wavelet entropy
+35_Wavelet standard deviation_10.42Hz
+35_Wavelet standard deviation_12.5Hz
+35_Wavelet standard deviation_15.62Hz
+35_Wavelet standard deviation_20.83Hz
+35_Wavelet standard deviation_31.25Hz
+35_Wavelet standard deviation_6.94Hz
+35_Wavelet standard deviation_62.5Hz
+35_Wavelet standard deviation_7.81Hz
+35_Wavelet standard deviation_8.93Hz
+35_Wavelet variance_10.42Hz
+35_Wavelet variance_12.5Hz
+35_Wavelet variance_15.62Hz
+35_Wavelet variance_20.83Hz
+35_Wavelet variance_31.25Hz
+35_Wavelet variance_6.94Hz
+35_Wavelet variance_62.5Hz
+35_Wavelet variance_7.81Hz
+35_Wavelet variance_8.93Hz
+36_Fundamental frequency
+36_Human range energy
+36_LPCC_0
+36_LPCC_1
+36_LPCC_10
+36_LPCC_11
+36_LPCC_2
+36_LPCC_3
+36_LPCC_4
+36_LPCC_5
+36_LPCC_6
+36_LPCC_7
+36_LPCC_8
+36_LPCC_9
+36_MFCC_0
+36_MFCC_1
+36_MFCC_10
+36_MFCC_11
+36_MFCC_2
+36_MFCC_3
+36_MFCC_4
+36_MFCC_5
+36_MFCC_6
+36_MFCC_7
+36_MFCC_8
+36_MFCC_9
+36_Max power spectrum
+36_Maximum frequency
+36_Median frequency
+36_Power bandwidth
+36_Spectral centroid
+36_Spectral decrease
+36_Spectral distance
+36_Spectral entropy
+36_Spectral kurtosis
+36_Spectral positive turning points
+36_Spectral roll-off
+36_Spectral roll-on
+36_Spectral skewness
+36_Spectral slope
+36_Spectral spread
+36_Spectral variation
+36_Spectrogram mean coefficient_0.0Hz
+36_Spectrogram mean coefficient_100.81Hz
+36_Spectrogram mean coefficient_104.84Hz
+36_Spectrogram mean coefficient_108.87Hz
+36_Spectrogram mean coefficient_112.9Hz
+36_Spectrogram mean coefficient_116.94Hz
+36_Spectrogram mean coefficient_12.1Hz
+36_Spectrogram mean coefficient_120.97Hz
+36_Spectrogram mean coefficient_125.0Hz
+36_Spectrogram mean coefficient_16.13Hz
+36_Spectrogram mean coefficient_20.16Hz
+36_Spectrogram mean coefficient_24.19Hz
+36_Spectrogram mean coefficient_28.23Hz
+36_Spectrogram mean coefficient_32.26Hz
+36_Spectrogram mean coefficient_36.29Hz
+36_Spectrogram mean coefficient_4.03Hz
+36_Spectrogram mean coefficient_40.32Hz
+36_Spectrogram mean coefficient_44.35Hz
+36_Spectrogram mean coefficient_48.39Hz
+36_Spectrogram mean coefficient_52.42Hz
+36_Spectrogram mean coefficient_56.45Hz
+36_Spectrogram mean coefficient_60.48Hz
+36_Spectrogram mean coefficient_64.52Hz
+36_Spectrogram mean coefficient_68.55Hz
+36_Spectrogram mean coefficient_72.58Hz
+36_Spectrogram mean coefficient_76.61Hz
+36_Spectrogram mean coefficient_8.06Hz
+36_Spectrogram mean coefficient_80.65Hz
+36_Spectrogram mean coefficient_84.68Hz
+36_Spectrogram mean coefficient_88.71Hz
+36_Spectrogram mean coefficient_92.74Hz
+36_Spectrogram mean coefficient_96.77Hz
+36_Wavelet absolute mean_10.42Hz
+36_Wavelet absolute mean_12.5Hz
+36_Wavelet absolute mean_15.62Hz
+36_Wavelet absolute mean_20.83Hz
+36_Wavelet absolute mean_31.25Hz
+36_Wavelet absolute mean_6.94Hz
+36_Wavelet absolute mean_62.5Hz
+36_Wavelet absolute mean_7.81Hz
+36_Wavelet absolute mean_8.93Hz
+36_Wavelet energy_10.42Hz
+36_Wavelet energy_12.5Hz
+36_Wavelet energy_15.62Hz
+36_Wavelet energy_20.83Hz
+36_Wavelet energy_31.25Hz
+36_Wavelet energy_6.94Hz
+36_Wavelet energy_62.5Hz
+36_Wavelet energy_7.81Hz
+36_Wavelet energy_8.93Hz
+36_Wavelet entropy
+36_Wavelet standard deviation_10.42Hz
+36_Wavelet standard deviation_12.5Hz
+36_Wavelet standard deviation_15.62Hz
+36_Wavelet standard deviation_20.83Hz
+36_Wavelet standard deviation_31.25Hz
+36_Wavelet standard deviation_6.94Hz
+36_Wavelet standard deviation_62.5Hz
+36_Wavelet standard deviation_7.81Hz
+36_Wavelet standard deviation_8.93Hz
+36_Wavelet variance_10.42Hz
+36_Wavelet variance_12.5Hz
+36_Wavelet variance_15.62Hz
+36_Wavelet variance_20.83Hz
+36_Wavelet variance_31.25Hz
+36_Wavelet variance_6.94Hz
+36_Wavelet variance_62.5Hz
+36_Wavelet variance_7.81Hz
+36_Wavelet variance_8.93Hz
+37_Fundamental frequency
+37_Human range energy
+37_LPCC_0
+37_LPCC_1
+37_LPCC_10
+37_LPCC_11
+37_LPCC_2
+37_LPCC_3
+37_LPCC_4
+37_LPCC_5
+37_LPCC_6
+37_LPCC_7
+37_LPCC_8
+37_LPCC_9
+37_MFCC_0
+37_MFCC_1
+37_MFCC_10
+37_MFCC_11
+37_MFCC_2
+37_MFCC_3
+37_MFCC_4
+37_MFCC_5
+37_MFCC_6
+37_MFCC_7
+37_MFCC_8
+37_MFCC_9
+37_Max power spectrum
+37_Maximum frequency
+37_Median frequency
+37_Power bandwidth
+37_Spectral centroid
+37_Spectral decrease
+37_Spectral distance
+37_Spectral entropy
+37_Spectral kurtosis
+37_Spectral positive turning points
+37_Spectral roll-off
+37_Spectral roll-on
+37_Spectral skewness
+37_Spectral slope
+37_Spectral spread
+37_Spectral variation
+37_Spectrogram mean coefficient_0.0Hz
+37_Spectrogram mean coefficient_100.81Hz
+37_Spectrogram mean coefficient_104.84Hz
+37_Spectrogram mean coefficient_108.87Hz
+37_Spectrogram mean coefficient_112.9Hz
+37_Spectrogram mean coefficient_116.94Hz
+37_Spectrogram mean coefficient_12.1Hz
+37_Spectrogram mean coefficient_120.97Hz
+37_Spectrogram mean coefficient_125.0Hz
+37_Spectrogram mean coefficient_16.13Hz
+37_Spectrogram mean coefficient_20.16Hz
+37_Spectrogram mean coefficient_24.19Hz
+37_Spectrogram mean coefficient_28.23Hz
+37_Spectrogram mean coefficient_32.26Hz
+37_Spectrogram mean coefficient_36.29Hz
+37_Spectrogram mean coefficient_4.03Hz
+37_Spectrogram mean coefficient_40.32Hz
+37_Spectrogram mean coefficient_44.35Hz
+37_Spectrogram mean coefficient_48.39Hz
+37_Spectrogram mean coefficient_52.42Hz
+37_Spectrogram mean coefficient_56.45Hz
+37_Spectrogram mean coefficient_60.48Hz
+37_Spectrogram mean coefficient_64.52Hz
+37_Spectrogram mean coefficient_68.55Hz
+37_Spectrogram mean coefficient_72.58Hz
+37_Spectrogram mean coefficient_76.61Hz
+37_Spectrogram mean coefficient_8.06Hz
+37_Spectrogram mean coefficient_80.65Hz
+37_Spectrogram mean coefficient_84.68Hz
+37_Spectrogram mean coefficient_88.71Hz
+37_Spectrogram mean coefficient_92.74Hz
+37_Spectrogram mean coefficient_96.77Hz
+37_Wavelet absolute mean_10.42Hz
+37_Wavelet absolute mean_12.5Hz
+37_Wavelet absolute mean_15.62Hz
+37_Wavelet absolute mean_20.83Hz
+37_Wavelet absolute mean_31.25Hz
+37_Wavelet absolute mean_6.94Hz
+37_Wavelet absolute mean_62.5Hz
+37_Wavelet absolute mean_7.81Hz
+37_Wavelet absolute mean_8.93Hz
+37_Wavelet energy_10.42Hz
+37_Wavelet energy_12.5Hz
+37_Wavelet energy_15.62Hz
+37_Wavelet energy_20.83Hz
+37_Wavelet energy_31.25Hz
+37_Wavelet energy_6.94Hz
+37_Wavelet energy_62.5Hz
+37_Wavelet energy_7.81Hz
+37_Wavelet energy_8.93Hz
+37_Wavelet entropy
+37_Wavelet standard deviation_10.42Hz
+37_Wavelet standard deviation_12.5Hz
+37_Wavelet standard deviation_15.62Hz
+37_Wavelet standard deviation_20.83Hz
+37_Wavelet standard deviation_31.25Hz
+37_Wavelet standard deviation_6.94Hz
+37_Wavelet standard deviation_62.5Hz
+37_Wavelet standard deviation_7.81Hz
+37_Wavelet standard deviation_8.93Hz
+37_Wavelet variance_10.42Hz
+37_Wavelet variance_12.5Hz
+37_Wavelet variance_15.62Hz
+37_Wavelet variance_20.83Hz
+37_Wavelet variance_31.25Hz
+37_Wavelet variance_6.94Hz
+37_Wavelet variance_62.5Hz
+37_Wavelet variance_7.81Hz
+37_Wavelet variance_8.93Hz
+38_Fundamental frequency
+38_Human range energy
+38_LPCC_0
+38_LPCC_1
+38_LPCC_10
+38_LPCC_11
+38_LPCC_2
+38_LPCC_3
+38_LPCC_4
+38_LPCC_5
+38_LPCC_6
+38_LPCC_7
+38_LPCC_8
+38_LPCC_9
+38_MFCC_0
+38_MFCC_1
+38_MFCC_10
+38_MFCC_11
+38_MFCC_2
+38_MFCC_3
+38_MFCC_4
+38_MFCC_5
+38_MFCC_6
+38_MFCC_7
+38_MFCC_8
+38_MFCC_9
+38_Max power spectrum
+38_Maximum frequency
+38_Median frequency
+38_Power bandwidth
+38_Spectral centroid
+38_Spectral decrease
+38_Spectral distance
+38_Spectral entropy
+38_Spectral kurtosis
+38_Spectral positive turning points
+38_Spectral roll-off
+38_Spectral roll-on
+38_Spectral skewness
+38_Spectral slope
+38_Spectral spread
+38_Spectral variation
+38_Spectrogram mean coefficient_0.0Hz
+38_Spectrogram mean coefficient_100.81Hz
+38_Spectrogram mean coefficient_104.84Hz
+38_Spectrogram mean coefficient_108.87Hz
+38_Spectrogram mean coefficient_112.9Hz
+38_Spectrogram mean coefficient_116.94Hz
+38_Spectrogram mean coefficient_12.1Hz
+38_Spectrogram mean coefficient_120.97Hz
+38_Spectrogram mean coefficient_125.0Hz
+38_Spectrogram mean coefficient_16.13Hz
+38_Spectrogram mean coefficient_20.16Hz
+38_Spectrogram mean coefficient_24.19Hz
+38_Spectrogram mean coefficient_28.23Hz
+38_Spectrogram mean coefficient_32.26Hz
+38_Spectrogram mean coefficient_36.29Hz
+38_Spectrogram mean coefficient_4.03Hz
+38_Spectrogram mean coefficient_40.32Hz
+38_Spectrogram mean coefficient_44.35Hz
+38_Spectrogram mean coefficient_48.39Hz
+38_Spectrogram mean coefficient_52.42Hz
+38_Spectrogram mean coefficient_56.45Hz
+38_Spectrogram mean coefficient_60.48Hz
+38_Spectrogram mean coefficient_64.52Hz
+38_Spectrogram mean coefficient_68.55Hz
+38_Spectrogram mean coefficient_72.58Hz
+38_Spectrogram mean coefficient_76.61Hz
+38_Spectrogram mean coefficient_8.06Hz
+38_Spectrogram mean coefficient_80.65Hz
+38_Spectrogram mean coefficient_84.68Hz
+38_Spectrogram mean coefficient_88.71Hz
+38_Spectrogram mean coefficient_92.74Hz
+38_Spectrogram mean coefficient_96.77Hz
+38_Wavelet absolute mean_10.42Hz
+38_Wavelet absolute mean_12.5Hz
+38_Wavelet absolute mean_15.62Hz
+38_Wavelet absolute mean_20.83Hz
+38_Wavelet absolute mean_31.25Hz
+38_Wavelet absolute mean_6.94Hz
+38_Wavelet absolute mean_62.5Hz
+38_Wavelet absolute mean_7.81Hz
+38_Wavelet absolute mean_8.93Hz
+38_Wavelet energy_10.42Hz
+38_Wavelet energy_12.5Hz
+38_Wavelet energy_15.62Hz
+38_Wavelet energy_20.83Hz
+38_Wavelet energy_31.25Hz
+38_Wavelet energy_6.94Hz
+38_Wavelet energy_62.5Hz
+38_Wavelet energy_7.81Hz
+38_Wavelet energy_8.93Hz
+38_Wavelet entropy
+38_Wavelet standard deviation_10.42Hz
+38_Wavelet standard deviation_12.5Hz
+38_Wavelet standard deviation_15.62Hz
+38_Wavelet standard deviation_20.83Hz
+38_Wavelet standard deviation_31.25Hz
+38_Wavelet standard deviation_6.94Hz
+38_Wavelet standard deviation_62.5Hz
+38_Wavelet standard deviation_7.81Hz
+38_Wavelet standard deviation_8.93Hz
+38_Wavelet variance_10.42Hz
+38_Wavelet variance_12.5Hz
+38_Wavelet variance_15.62Hz
+38_Wavelet variance_20.83Hz
+38_Wavelet variance_31.25Hz
+38_Wavelet variance_6.94Hz
+38_Wavelet variance_62.5Hz
+38_Wavelet variance_7.81Hz
+38_Wavelet variance_8.93Hz
+39_Fundamental frequency
+39_Human range energy
+39_LPCC_0
+39_LPCC_1
+39_LPCC_10
+39_LPCC_11
+39_LPCC_2
+39_LPCC_3
+39_LPCC_4
+39_LPCC_5
+39_LPCC_6
+39_LPCC_7
+39_LPCC_8
+39_LPCC_9
+39_MFCC_0
+39_MFCC_1
+39_MFCC_10
+39_MFCC_11
+39_MFCC_2
+39_MFCC_3
+39_MFCC_4
+39_MFCC_5
+39_MFCC_6
+39_MFCC_7
+39_MFCC_8
+39_MFCC_9
+39_Max power spectrum
+39_Maximum frequency
+39_Median frequency
+39_Power bandwidth
+39_Spectral centroid
+39_Spectral decrease
+39_Spectral distance
+39_Spectral entropy
+39_Spectral kurtosis
+39_Spectral positive turning points
+39_Spectral roll-off
+39_Spectral roll-on
+39_Spectral skewness
+39_Spectral slope
+39_Spectral spread
+39_Spectral variation
+39_Spectrogram mean coefficient_0.0Hz
+39_Spectrogram mean coefficient_100.81Hz
+39_Spectrogram mean coefficient_104.84Hz
+39_Spectrogram mean coefficient_108.87Hz
+39_Spectrogram mean coefficient_112.9Hz
+39_Spectrogram mean coefficient_116.94Hz
+39_Spectrogram mean coefficient_12.1Hz
+39_Spectrogram mean coefficient_120.97Hz
+39_Spectrogram mean coefficient_125.0Hz
+39_Spectrogram mean coefficient_16.13Hz
+39_Spectrogram mean coefficient_20.16Hz
+39_Spectrogram mean coefficient_24.19Hz
+39_Spectrogram mean coefficient_28.23Hz
+39_Spectrogram mean coefficient_32.26Hz
+39_Spectrogram mean coefficient_36.29Hz
+39_Spectrogram mean coefficient_4.03Hz
+39_Spectrogram mean coefficient_40.32Hz
+39_Spectrogram mean coefficient_44.35Hz
+39_Spectrogram mean coefficient_48.39Hz
+39_Spectrogram mean coefficient_52.42Hz
+39_Spectrogram mean coefficient_56.45Hz
+39_Spectrogram mean coefficient_60.48Hz
+39_Spectrogram mean coefficient_64.52Hz
+39_Spectrogram mean coefficient_68.55Hz
+39_Spectrogram mean coefficient_72.58Hz
+39_Spectrogram mean coefficient_76.61Hz
+39_Spectrogram mean coefficient_8.06Hz
+39_Spectrogram mean coefficient_80.65Hz
+39_Spectrogram mean coefficient_84.68Hz
+39_Spectrogram mean coefficient_88.71Hz
+39_Spectrogram mean coefficient_92.74Hz
+39_Spectrogram mean coefficient_96.77Hz
+39_Wavelet absolute mean_10.42Hz
+39_Wavelet absolute mean_12.5Hz
+39_Wavelet absolute mean_15.62Hz
+39_Wavelet absolute mean_20.83Hz
+39_Wavelet absolute mean_31.25Hz
+39_Wavelet absolute mean_6.94Hz
+39_Wavelet absolute mean_62.5Hz
+39_Wavelet absolute mean_7.81Hz
+39_Wavelet absolute mean_8.93Hz
+39_Wavelet energy_10.42Hz
+39_Wavelet energy_12.5Hz
+39_Wavelet energy_15.62Hz
+39_Wavelet energy_20.83Hz
+39_Wavelet energy_31.25Hz
+39_Wavelet energy_6.94Hz
+39_Wavelet energy_62.5Hz
+39_Wavelet energy_7.81Hz
+39_Wavelet energy_8.93Hz
+39_Wavelet entropy
+39_Wavelet standard deviation_10.42Hz
+39_Wavelet standard deviation_12.5Hz
+39_Wavelet standard deviation_15.62Hz
+39_Wavelet standard deviation_20.83Hz
+39_Wavelet standard deviation_31.25Hz
+39_Wavelet standard deviation_6.94Hz
+39_Wavelet standard deviation_62.5Hz
+39_Wavelet standard deviation_7.81Hz
+39_Wavelet standard deviation_8.93Hz
+39_Wavelet variance_10.42Hz
+39_Wavelet variance_12.5Hz
+39_Wavelet variance_15.62Hz
+39_Wavelet variance_20.83Hz
+39_Wavelet variance_31.25Hz
+39_Wavelet variance_6.94Hz
+39_Wavelet variance_62.5Hz
+39_Wavelet variance_7.81Hz
+39_Wavelet variance_8.93Hz
+3_Fundamental frequency
+3_Human range energy
+3_LPCC_0
+3_LPCC_1
+3_LPCC_10
+3_LPCC_11
+3_LPCC_2
+3_LPCC_3
+3_LPCC_4
+3_LPCC_5
+3_LPCC_6
+3_LPCC_7
+3_LPCC_8
+3_LPCC_9
+3_MFCC_0
+3_MFCC_1
+3_MFCC_10
+3_MFCC_11
+3_MFCC_2
+3_MFCC_3
+3_MFCC_4
+3_MFCC_5
+3_MFCC_6
+3_MFCC_7
+3_MFCC_8
+3_MFCC_9
+3_Max power spectrum
+3_Maximum frequency
+3_Median frequency
+3_Power bandwidth
+3_Spectral centroid
+3_Spectral decrease
+3_Spectral distance
+3_Spectral entropy
+3_Spectral kurtosis
+3_Spectral positive turning points
+3_Spectral roll-off
+3_Spectral roll-on
+3_Spectral skewness
+3_Spectral slope
+3_Spectral spread
+3_Spectral variation
+3_Spectrogram mean coefficient_0.0Hz
+3_Spectrogram mean coefficient_100.81Hz
+3_Spectrogram mean coefficient_104.84Hz
+3_Spectrogram mean coefficient_108.87Hz
+3_Spectrogram mean coefficient_112.9Hz
+3_Spectrogram mean coefficient_116.94Hz
+3_Spectrogram mean coefficient_12.1Hz
+3_Spectrogram mean coefficient_120.97Hz
+3_Spectrogram mean coefficient_125.0Hz
+3_Spectrogram mean coefficient_16.13Hz
+3_Spectrogram mean coefficient_20.16Hz
+3_Spectrogram mean coefficient_24.19Hz
+3_Spectrogram mean coefficient_28.23Hz
+3_Spectrogram mean coefficient_32.26Hz
+3_Spectrogram mean coefficient_36.29Hz
+3_Spectrogram mean coefficient_4.03Hz
+3_Spectrogram mean coefficient_40.32Hz
+3_Spectrogram mean coefficient_44.35Hz
+3_Spectrogram mean coefficient_48.39Hz
+3_Spectrogram mean coefficient_52.42Hz
+3_Spectrogram mean coefficient_56.45Hz
+3_Spectrogram mean coefficient_60.48Hz
+3_Spectrogram mean coefficient_64.52Hz
+3_Spectrogram mean coefficient_68.55Hz
+3_Spectrogram mean coefficient_72.58Hz
+3_Spectrogram mean coefficient_76.61Hz
+3_Spectrogram mean coefficient_8.06Hz
+3_Spectrogram mean coefficient_80.65Hz
+3_Spectrogram mean coefficient_84.68Hz
+3_Spectrogram mean coefficient_88.71Hz
+3_Spectrogram mean coefficient_92.74Hz
+3_Spectrogram mean coefficient_96.77Hz
+3_Wavelet absolute mean_10.42Hz
+3_Wavelet absolute mean_12.5Hz
+3_Wavelet absolute mean_15.62Hz
+3_Wavelet absolute mean_20.83Hz
+3_Wavelet absolute mean_31.25Hz
+3_Wavelet absolute mean_6.94Hz
+3_Wavelet absolute mean_62.5Hz
+3_Wavelet absolute mean_7.81Hz
+3_Wavelet absolute mean_8.93Hz
+3_Wavelet energy_10.42Hz
+3_Wavelet energy_12.5Hz
+3_Wavelet energy_15.62Hz
+3_Wavelet energy_20.83Hz
+3_Wavelet energy_31.25Hz
+3_Wavelet energy_6.94Hz
+3_Wavelet energy_62.5Hz
+3_Wavelet energy_7.81Hz
+3_Wavelet energy_8.93Hz
+3_Wavelet entropy
+3_Wavelet standard deviation_10.42Hz
+3_Wavelet standard deviation_12.5Hz
+3_Wavelet standard deviation_15.62Hz
+3_Wavelet standard deviation_20.83Hz
+3_Wavelet standard deviation_31.25Hz
+3_Wavelet standard deviation_6.94Hz
+3_Wavelet standard deviation_62.5Hz
+3_Wavelet standard deviation_7.81Hz
+3_Wavelet standard deviation_8.93Hz
+3_Wavelet variance_10.42Hz
+3_Wavelet variance_12.5Hz
+3_Wavelet variance_15.62Hz
+3_Wavelet variance_20.83Hz
+3_Wavelet variance_31.25Hz
+3_Wavelet variance_6.94Hz
+3_Wavelet variance_62.5Hz
+3_Wavelet variance_7.81Hz
+3_Wavelet variance_8.93Hz
+40_Fundamental frequency
+40_Human range energy
+40_LPCC_0
+40_LPCC_1
+40_LPCC_10
+40_LPCC_11
+40_LPCC_2
+40_LPCC_3
+40_LPCC_4
+40_LPCC_5
+40_LPCC_6
+40_LPCC_7
+40_LPCC_8
+40_LPCC_9
+40_MFCC_0
+40_MFCC_1
+40_MFCC_10
+40_MFCC_11
+40_MFCC_2
+40_MFCC_3
+40_MFCC_4
+40_MFCC_5
+40_MFCC_6
+40_MFCC_7
+40_MFCC_8
+40_MFCC_9
+40_Max power spectrum
+40_Maximum frequency
+40_Median frequency
+40_Power bandwidth
+40_Spectral centroid
+40_Spectral decrease
+40_Spectral distance
+40_Spectral entropy
+40_Spectral kurtosis
+40_Spectral positive turning points
+40_Spectral roll-off
+40_Spectral roll-on
+40_Spectral skewness
+40_Spectral slope
+40_Spectral spread
+40_Spectral variation
+40_Spectrogram mean coefficient_0.0Hz
+40_Spectrogram mean coefficient_100.81Hz
+40_Spectrogram mean coefficient_104.84Hz
+40_Spectrogram mean coefficient_108.87Hz
+40_Spectrogram mean coefficient_112.9Hz
+40_Spectrogram mean coefficient_116.94Hz
+40_Spectrogram mean coefficient_12.1Hz
+40_Spectrogram mean coefficient_120.97Hz
+40_Spectrogram mean coefficient_125.0Hz
+40_Spectrogram mean coefficient_16.13Hz
+40_Spectrogram mean coefficient_20.16Hz
+40_Spectrogram mean coefficient_24.19Hz
+40_Spectrogram mean coefficient_28.23Hz
+40_Spectrogram mean coefficient_32.26Hz
+40_Spectrogram mean coefficient_36.29Hz
+40_Spectrogram mean coefficient_4.03Hz
+40_Spectrogram mean coefficient_40.32Hz
+40_Spectrogram mean coefficient_44.35Hz
+40_Spectrogram mean coefficient_48.39Hz
+40_Spectrogram mean coefficient_52.42Hz
+40_Spectrogram mean coefficient_56.45Hz
+40_Spectrogram mean coefficient_60.48Hz
+40_Spectrogram mean coefficient_64.52Hz
+40_Spectrogram mean coefficient_68.55Hz
+40_Spectrogram mean coefficient_72.58Hz
+40_Spectrogram mean coefficient_76.61Hz
+40_Spectrogram mean coefficient_8.06Hz
+40_Spectrogram mean coefficient_80.65Hz
+40_Spectrogram mean coefficient_84.68Hz
+40_Spectrogram mean coefficient_88.71Hz
+40_Spectrogram mean coefficient_92.74Hz
+40_Spectrogram mean coefficient_96.77Hz
+40_Wavelet absolute mean_10.42Hz
+40_Wavelet absolute mean_12.5Hz
+40_Wavelet absolute mean_15.62Hz
+40_Wavelet absolute mean_20.83Hz
+40_Wavelet absolute mean_31.25Hz
+40_Wavelet absolute mean_6.94Hz
+40_Wavelet absolute mean_62.5Hz
+40_Wavelet absolute mean_7.81Hz
+40_Wavelet absolute mean_8.93Hz
+40_Wavelet energy_10.42Hz
+40_Wavelet energy_12.5Hz
+40_Wavelet energy_15.62Hz
+40_Wavelet energy_20.83Hz
+40_Wavelet energy_31.25Hz
+40_Wavelet energy_6.94Hz
+40_Wavelet energy_62.5Hz
+40_Wavelet energy_7.81Hz
+40_Wavelet energy_8.93Hz
+40_Wavelet entropy
+40_Wavelet standard deviation_10.42Hz
+40_Wavelet standard deviation_12.5Hz
+40_Wavelet standard deviation_15.62Hz
+40_Wavelet standard deviation_20.83Hz
+40_Wavelet standard deviation_31.25Hz
+40_Wavelet standard deviation_6.94Hz
+40_Wavelet standard deviation_62.5Hz
+40_Wavelet standard deviation_7.81Hz
+40_Wavelet standard deviation_8.93Hz
+40_Wavelet variance_10.42Hz
+40_Wavelet variance_12.5Hz
+40_Wavelet variance_15.62Hz
+40_Wavelet variance_20.83Hz
+40_Wavelet variance_31.25Hz
+40_Wavelet variance_6.94Hz
+40_Wavelet variance_62.5Hz
+40_Wavelet variance_7.81Hz
+40_Wavelet variance_8.93Hz
+41_Fundamental frequency
+41_Human range energy
+41_LPCC_0
+41_LPCC_1
+41_LPCC_10
+41_LPCC_11
+41_LPCC_2
+41_LPCC_3
+41_LPCC_4
+41_LPCC_5
+41_LPCC_6
+41_LPCC_7
+41_LPCC_8
+41_LPCC_9
+41_MFCC_0
+41_MFCC_1
+41_MFCC_10
+41_MFCC_11
+41_MFCC_2
+41_MFCC_3
+41_MFCC_4
+41_MFCC_5
+41_MFCC_6
+41_MFCC_7
+41_MFCC_8
+41_MFCC_9
+41_Max power spectrum
+41_Maximum frequency
+41_Median frequency
+41_Power bandwidth
+41_Spectral centroid
+41_Spectral decrease
+41_Spectral distance
+41_Spectral entropy
+41_Spectral kurtosis
+41_Spectral positive turning points
+41_Spectral roll-off
+41_Spectral roll-on
+41_Spectral skewness
+41_Spectral slope
+41_Spectral spread
+41_Spectral variation
+41_Spectrogram mean coefficient_0.0Hz
+41_Spectrogram mean coefficient_100.81Hz
+41_Spectrogram mean coefficient_104.84Hz
+41_Spectrogram mean coefficient_108.87Hz
+41_Spectrogram mean coefficient_112.9Hz
+41_Spectrogram mean coefficient_116.94Hz
+41_Spectrogram mean coefficient_12.1Hz
+41_Spectrogram mean coefficient_120.97Hz
+41_Spectrogram mean coefficient_125.0Hz
+41_Spectrogram mean coefficient_16.13Hz
+41_Spectrogram mean coefficient_20.16Hz
+41_Spectrogram mean coefficient_24.19Hz
+41_Spectrogram mean coefficient_28.23Hz
+41_Spectrogram mean coefficient_32.26Hz
+41_Spectrogram mean coefficient_36.29Hz
+41_Spectrogram mean coefficient_4.03Hz
+41_Spectrogram mean coefficient_40.32Hz
+41_Spectrogram mean coefficient_44.35Hz
+41_Spectrogram mean coefficient_48.39Hz
+41_Spectrogram mean coefficient_52.42Hz
+41_Spectrogram mean coefficient_56.45Hz
+41_Spectrogram mean coefficient_60.48Hz
+41_Spectrogram mean coefficient_64.52Hz
+41_Spectrogram mean coefficient_68.55Hz
+41_Spectrogram mean coefficient_72.58Hz
+41_Spectrogram mean coefficient_76.61Hz
+41_Spectrogram mean coefficient_8.06Hz
+41_Spectrogram mean coefficient_80.65Hz
+41_Spectrogram mean coefficient_84.68Hz
+41_Spectrogram mean coefficient_88.71Hz
+41_Spectrogram mean coefficient_92.74Hz
+41_Spectrogram mean coefficient_96.77Hz
+41_Wavelet absolute mean_10.42Hz
+41_Wavelet absolute mean_12.5Hz
+41_Wavelet absolute mean_15.62Hz
+41_Wavelet absolute mean_20.83Hz
+41_Wavelet absolute mean_31.25Hz
+41_Wavelet absolute mean_6.94Hz
+41_Wavelet absolute mean_62.5Hz
+41_Wavelet absolute mean_7.81Hz
+41_Wavelet absolute mean_8.93Hz
+41_Wavelet energy_10.42Hz
+41_Wavelet energy_12.5Hz
+41_Wavelet energy_15.62Hz
+41_Wavelet energy_20.83Hz
+41_Wavelet energy_31.25Hz
+41_Wavelet energy_6.94Hz
+41_Wavelet energy_62.5Hz
+41_Wavelet energy_7.81Hz
+41_Wavelet energy_8.93Hz
+41_Wavelet entropy
+41_Wavelet standard deviation_10.42Hz
+41_Wavelet standard deviation_12.5Hz
+41_Wavelet standard deviation_15.62Hz
+41_Wavelet standard deviation_20.83Hz
+41_Wavelet standard deviation_31.25Hz
+41_Wavelet standard deviation_6.94Hz
+41_Wavelet standard deviation_62.5Hz
+41_Wavelet standard deviation_7.81Hz
+41_Wavelet standard deviation_8.93Hz
+41_Wavelet variance_10.42Hz
+41_Wavelet variance_12.5Hz
+41_Wavelet variance_15.62Hz
+41_Wavelet variance_20.83Hz
+41_Wavelet variance_31.25Hz
+41_Wavelet variance_6.94Hz
+41_Wavelet variance_62.5Hz
+41_Wavelet variance_7.81Hz
+41_Wavelet variance_8.93Hz
+42_Fundamental frequency
+42_Human range energy
+42_LPCC_0
+42_LPCC_1
+42_LPCC_10
+42_LPCC_11
+42_LPCC_2
+42_LPCC_3
+42_LPCC_4
+42_LPCC_5
+42_LPCC_6
+42_LPCC_7
+42_LPCC_8
+42_LPCC_9
+42_MFCC_0
+42_MFCC_1
+42_MFCC_10
+42_MFCC_11
+42_MFCC_2
+42_MFCC_3
+42_MFCC_4
+42_MFCC_5
+42_MFCC_6
+42_MFCC_7
+42_MFCC_8
+42_MFCC_9
+42_Max power spectrum
+42_Maximum frequency
+42_Median frequency
+42_Power bandwidth
+42_Spectral centroid
+42_Spectral decrease
+42_Spectral distance
+42_Spectral entropy
+42_Spectral kurtosis
+42_Spectral positive turning points
+42_Spectral roll-off
+42_Spectral roll-on
+42_Spectral skewness
+42_Spectral slope
+42_Spectral spread
+42_Spectral variation
+42_Spectrogram mean coefficient_0.0Hz
+42_Spectrogram mean coefficient_100.81Hz
+42_Spectrogram mean coefficient_104.84Hz
+42_Spectrogram mean coefficient_108.87Hz
+42_Spectrogram mean coefficient_112.9Hz
+42_Spectrogram mean coefficient_116.94Hz
+42_Spectrogram mean coefficient_12.1Hz
+42_Spectrogram mean coefficient_120.97Hz
+42_Spectrogram mean coefficient_125.0Hz
+42_Spectrogram mean coefficient_16.13Hz
+42_Spectrogram mean coefficient_20.16Hz
+42_Spectrogram mean coefficient_24.19Hz
+42_Spectrogram mean coefficient_28.23Hz
+42_Spectrogram mean coefficient_32.26Hz
+42_Spectrogram mean coefficient_36.29Hz
+42_Spectrogram mean coefficient_4.03Hz
+42_Spectrogram mean coefficient_40.32Hz
+42_Spectrogram mean coefficient_44.35Hz
+42_Spectrogram mean coefficient_48.39Hz
+42_Spectrogram mean coefficient_52.42Hz
+42_Spectrogram mean coefficient_56.45Hz
+42_Spectrogram mean coefficient_60.48Hz
+42_Spectrogram mean coefficient_64.52Hz
+42_Spectrogram mean coefficient_68.55Hz
+42_Spectrogram mean coefficient_72.58Hz
+42_Spectrogram mean coefficient_76.61Hz
+42_Spectrogram mean coefficient_8.06Hz
+42_Spectrogram mean coefficient_80.65Hz
+42_Spectrogram mean coefficient_84.68Hz
+42_Spectrogram mean coefficient_88.71Hz
+42_Spectrogram mean coefficient_92.74Hz
+42_Spectrogram mean coefficient_96.77Hz
+42_Wavelet absolute mean_10.42Hz
+42_Wavelet absolute mean_12.5Hz
+42_Wavelet absolute mean_15.62Hz
+42_Wavelet absolute mean_20.83Hz
+42_Wavelet absolute mean_31.25Hz
+42_Wavelet absolute mean_6.94Hz
+42_Wavelet absolute mean_62.5Hz
+42_Wavelet absolute mean_7.81Hz
+42_Wavelet absolute mean_8.93Hz
+42_Wavelet energy_10.42Hz
+42_Wavelet energy_12.5Hz
+42_Wavelet energy_15.62Hz
+42_Wavelet energy_20.83Hz
+42_Wavelet energy_31.25Hz
+42_Wavelet energy_6.94Hz
+42_Wavelet energy_62.5Hz
+42_Wavelet energy_7.81Hz
+42_Wavelet energy_8.93Hz
+42_Wavelet entropy
+42_Wavelet standard deviation_10.42Hz
+42_Wavelet standard deviation_12.5Hz
+42_Wavelet standard deviation_15.62Hz
+42_Wavelet standard deviation_20.83Hz
+42_Wavelet standard deviation_31.25Hz
+42_Wavelet standard deviation_6.94Hz
+42_Wavelet standard deviation_62.5Hz
+42_Wavelet standard deviation_7.81Hz
+42_Wavelet standard deviation_8.93Hz
+42_Wavelet variance_10.42Hz
+42_Wavelet variance_12.5Hz
+42_Wavelet variance_15.62Hz
+42_Wavelet variance_20.83Hz
+42_Wavelet variance_31.25Hz
+42_Wavelet variance_6.94Hz
+42_Wavelet variance_62.5Hz
+42_Wavelet variance_7.81Hz
+42_Wavelet variance_8.93Hz
+43_Fundamental frequency
+43_Human range energy
+43_LPCC_0
+43_LPCC_1
+43_LPCC_10
+43_LPCC_11
+43_LPCC_2
+43_LPCC_3
+43_LPCC_4
+43_LPCC_5
+43_LPCC_6
+43_LPCC_7
+43_LPCC_8
+43_LPCC_9
+43_MFCC_0
+43_MFCC_1
+43_MFCC_10
+43_MFCC_11
+43_MFCC_2
+43_MFCC_3
+43_MFCC_4
+43_MFCC_5
+43_MFCC_6
+43_MFCC_7
+43_MFCC_8
+43_MFCC_9
+43_Max power spectrum
+43_Maximum frequency
+43_Median frequency
+43_Power bandwidth
+43_Spectral centroid
+43_Spectral decrease
+43_Spectral distance
+43_Spectral entropy
+43_Spectral kurtosis
+43_Spectral positive turning points
+43_Spectral roll-off
+43_Spectral roll-on
+43_Spectral skewness
+43_Spectral slope
+43_Spectral spread
+43_Spectral variation
+43_Spectrogram mean coefficient_0.0Hz
+43_Spectrogram mean coefficient_100.81Hz
+43_Spectrogram mean coefficient_104.84Hz
+43_Spectrogram mean coefficient_108.87Hz
+43_Spectrogram mean coefficient_112.9Hz
+43_Spectrogram mean coefficient_116.94Hz
+43_Spectrogram mean coefficient_12.1Hz
+43_Spectrogram mean coefficient_120.97Hz
+43_Spectrogram mean coefficient_125.0Hz
+43_Spectrogram mean coefficient_16.13Hz
+43_Spectrogram mean coefficient_20.16Hz
+43_Spectrogram mean coefficient_24.19Hz
+43_Spectrogram mean coefficient_28.23Hz
+43_Spectrogram mean coefficient_32.26Hz
+43_Spectrogram mean coefficient_36.29Hz
+43_Spectrogram mean coefficient_4.03Hz
+43_Spectrogram mean coefficient_40.32Hz
+43_Spectrogram mean coefficient_44.35Hz
+43_Spectrogram mean coefficient_48.39Hz
+43_Spectrogram mean coefficient_52.42Hz
+43_Spectrogram mean coefficient_56.45Hz
+43_Spectrogram mean coefficient_60.48Hz
+43_Spectrogram mean coefficient_64.52Hz
+43_Spectrogram mean coefficient_68.55Hz
+43_Spectrogram mean coefficient_72.58Hz
+43_Spectrogram mean coefficient_76.61Hz
+43_Spectrogram mean coefficient_8.06Hz
+43_Spectrogram mean coefficient_80.65Hz
+43_Spectrogram mean coefficient_84.68Hz
+43_Spectrogram mean coefficient_88.71Hz
+43_Spectrogram mean coefficient_92.74Hz
+43_Spectrogram mean coefficient_96.77Hz
+43_Wavelet absolute mean_10.42Hz
+43_Wavelet absolute mean_12.5Hz
+43_Wavelet absolute mean_15.62Hz
+43_Wavelet absolute mean_20.83Hz
+43_Wavelet absolute mean_31.25Hz
+43_Wavelet absolute mean_6.94Hz
+43_Wavelet absolute mean_62.5Hz
+43_Wavelet absolute mean_7.81Hz
+43_Wavelet absolute mean_8.93Hz
+43_Wavelet energy_10.42Hz
+43_Wavelet energy_12.5Hz
+43_Wavelet energy_15.62Hz
+43_Wavelet energy_20.83Hz
+43_Wavelet energy_31.25Hz
+43_Wavelet energy_6.94Hz
+43_Wavelet energy_62.5Hz
+43_Wavelet energy_7.81Hz
+43_Wavelet energy_8.93Hz
+43_Wavelet entropy
+43_Wavelet standard deviation_10.42Hz
+43_Wavelet standard deviation_12.5Hz
+43_Wavelet standard deviation_15.62Hz
+43_Wavelet standard deviation_20.83Hz
+43_Wavelet standard deviation_31.25Hz
+43_Wavelet standard deviation_6.94Hz
+43_Wavelet standard deviation_62.5Hz
+43_Wavelet standard deviation_7.81Hz
+43_Wavelet standard deviation_8.93Hz
+43_Wavelet variance_10.42Hz
+43_Wavelet variance_12.5Hz
+43_Wavelet variance_15.62Hz
+43_Wavelet variance_20.83Hz
+43_Wavelet variance_31.25Hz
+43_Wavelet variance_6.94Hz
+43_Wavelet variance_62.5Hz
+43_Wavelet variance_7.81Hz
+43_Wavelet variance_8.93Hz
+44_Fundamental frequency
+44_Human range energy
+44_LPCC_0
+44_LPCC_1
+44_LPCC_10
+44_LPCC_11
+44_LPCC_2
+44_LPCC_3
+44_LPCC_4
+44_LPCC_5
+44_LPCC_6
+44_LPCC_7
+44_LPCC_8
+44_LPCC_9
+44_MFCC_0
+44_MFCC_1
+44_MFCC_10
+44_MFCC_11
+44_MFCC_2
+44_MFCC_3
+44_MFCC_4
+44_MFCC_5
+44_MFCC_6
+44_MFCC_7
+44_MFCC_8
+44_MFCC_9
+44_Max power spectrum
+44_Maximum frequency
+44_Median frequency
+44_Power bandwidth
+44_Spectral centroid
+44_Spectral decrease
+44_Spectral distance
+44_Spectral entropy
+44_Spectral kurtosis
+44_Spectral positive turning points
+44_Spectral roll-off
+44_Spectral roll-on
+44_Spectral skewness
+44_Spectral slope
+44_Spectral spread
+44_Spectral variation
+44_Spectrogram mean coefficient_0.0Hz
+44_Spectrogram mean coefficient_100.81Hz
+44_Spectrogram mean coefficient_104.84Hz
+44_Spectrogram mean coefficient_108.87Hz
+44_Spectrogram mean coefficient_112.9Hz
+44_Spectrogram mean coefficient_116.94Hz
+44_Spectrogram mean coefficient_12.1Hz
+44_Spectrogram mean coefficient_120.97Hz
+44_Spectrogram mean coefficient_125.0Hz
+44_Spectrogram mean coefficient_16.13Hz
+44_Spectrogram mean coefficient_20.16Hz
+44_Spectrogram mean coefficient_24.19Hz
+44_Spectrogram mean coefficient_28.23Hz
+44_Spectrogram mean coefficient_32.26Hz
+44_Spectrogram mean coefficient_36.29Hz
+44_Spectrogram mean coefficient_4.03Hz
+44_Spectrogram mean coefficient_40.32Hz
+44_Spectrogram mean coefficient_44.35Hz
+44_Spectrogram mean coefficient_48.39Hz
+44_Spectrogram mean coefficient_52.42Hz
+44_Spectrogram mean coefficient_56.45Hz
+44_Spectrogram mean coefficient_60.48Hz
+44_Spectrogram mean coefficient_64.52Hz
+44_Spectrogram mean coefficient_68.55Hz
+44_Spectrogram mean coefficient_72.58Hz
+44_Spectrogram mean coefficient_76.61Hz
+44_Spectrogram mean coefficient_8.06Hz
+44_Spectrogram mean coefficient_80.65Hz
+44_Spectrogram mean coefficient_84.68Hz
+44_Spectrogram mean coefficient_88.71Hz
+44_Spectrogram mean coefficient_92.74Hz
+44_Spectrogram mean coefficient_96.77Hz
+44_Wavelet absolute mean_10.42Hz
+44_Wavelet absolute mean_12.5Hz
+44_Wavelet absolute mean_15.62Hz
+44_Wavelet absolute mean_20.83Hz
+44_Wavelet absolute mean_31.25Hz
+44_Wavelet absolute mean_6.94Hz
+44_Wavelet absolute mean_62.5Hz
+44_Wavelet absolute mean_7.81Hz
+44_Wavelet absolute mean_8.93Hz
+44_Wavelet energy_10.42Hz
+44_Wavelet energy_12.5Hz
+44_Wavelet energy_15.62Hz
+44_Wavelet energy_20.83Hz
+44_Wavelet energy_31.25Hz
+44_Wavelet energy_6.94Hz
+44_Wavelet energy_62.5Hz
+44_Wavelet energy_7.81Hz
+44_Wavelet energy_8.93Hz
+44_Wavelet entropy
+44_Wavelet standard deviation_10.42Hz
+44_Wavelet standard deviation_12.5Hz
+44_Wavelet standard deviation_15.62Hz
+44_Wavelet standard deviation_20.83Hz
+44_Wavelet standard deviation_31.25Hz
+44_Wavelet standard deviation_6.94Hz
+44_Wavelet standard deviation_62.5Hz
+44_Wavelet standard deviation_7.81Hz
+44_Wavelet standard deviation_8.93Hz
+44_Wavelet variance_10.42Hz
+44_Wavelet variance_12.5Hz
+44_Wavelet variance_15.62Hz
+44_Wavelet variance_20.83Hz
+44_Wavelet variance_31.25Hz
+44_Wavelet variance_6.94Hz
+44_Wavelet variance_62.5Hz
+44_Wavelet variance_7.81Hz
+44_Wavelet variance_8.93Hz
+45_Fundamental frequency
+45_Human range energy
+45_LPCC_0
+45_LPCC_1
+45_LPCC_10
+45_LPCC_11
+45_LPCC_2
+45_LPCC_3
+45_LPCC_4
+45_LPCC_5
+45_LPCC_6
+45_LPCC_7
+45_LPCC_8
+45_LPCC_9
+45_MFCC_0
+45_MFCC_1
+45_MFCC_10
+45_MFCC_11
+45_MFCC_2
+45_MFCC_3
+45_MFCC_4
+45_MFCC_5
+45_MFCC_6
+45_MFCC_7
+45_MFCC_8
+45_MFCC_9
+45_Max power spectrum
+45_Maximum frequency
+45_Median frequency
+45_Power bandwidth
+45_Spectral centroid
+45_Spectral decrease
+45_Spectral distance
+45_Spectral entropy
+45_Spectral kurtosis
+45_Spectral positive turning points
+45_Spectral roll-off
+45_Spectral roll-on
+45_Spectral skewness
+45_Spectral slope
+45_Spectral spread
+45_Spectral variation
+45_Spectrogram mean coefficient_0.0Hz
+45_Spectrogram mean coefficient_100.81Hz
+45_Spectrogram mean coefficient_104.84Hz
+45_Spectrogram mean coefficient_108.87Hz
+45_Spectrogram mean coefficient_112.9Hz
+45_Spectrogram mean coefficient_116.94Hz
+45_Spectrogram mean coefficient_12.1Hz
+45_Spectrogram mean coefficient_120.97Hz
+45_Spectrogram mean coefficient_125.0Hz
+45_Spectrogram mean coefficient_16.13Hz
+45_Spectrogram mean coefficient_20.16Hz
+45_Spectrogram mean coefficient_24.19Hz
+45_Spectrogram mean coefficient_28.23Hz
+45_Spectrogram mean coefficient_32.26Hz
+45_Spectrogram mean coefficient_36.29Hz
+45_Spectrogram mean coefficient_4.03Hz
+45_Spectrogram mean coefficient_40.32Hz
+45_Spectrogram mean coefficient_44.35Hz
+45_Spectrogram mean coefficient_48.39Hz
+45_Spectrogram mean coefficient_52.42Hz
+45_Spectrogram mean coefficient_56.45Hz
+45_Spectrogram mean coefficient_60.48Hz
+45_Spectrogram mean coefficient_64.52Hz
+45_Spectrogram mean coefficient_68.55Hz
+45_Spectrogram mean coefficient_72.58Hz
+45_Spectrogram mean coefficient_76.61Hz
+45_Spectrogram mean coefficient_8.06Hz
+45_Spectrogram mean coefficient_80.65Hz
+45_Spectrogram mean coefficient_84.68Hz
+45_Spectrogram mean coefficient_88.71Hz
+45_Spectrogram mean coefficient_92.74Hz
+45_Spectrogram mean coefficient_96.77Hz
+45_Wavelet absolute mean_10.42Hz
+45_Wavelet absolute mean_12.5Hz
+45_Wavelet absolute mean_15.62Hz
+45_Wavelet absolute mean_20.83Hz
+45_Wavelet absolute mean_31.25Hz
+45_Wavelet absolute mean_6.94Hz
+45_Wavelet absolute mean_62.5Hz
+45_Wavelet absolute mean_7.81Hz
+45_Wavelet absolute mean_8.93Hz
+45_Wavelet energy_10.42Hz
+45_Wavelet energy_12.5Hz
+45_Wavelet energy_15.62Hz
+45_Wavelet energy_20.83Hz
+45_Wavelet energy_31.25Hz
+45_Wavelet energy_6.94Hz
+45_Wavelet energy_62.5Hz
+45_Wavelet energy_7.81Hz
+45_Wavelet energy_8.93Hz
+45_Wavelet entropy
+45_Wavelet standard deviation_10.42Hz
+45_Wavelet standard deviation_12.5Hz
+45_Wavelet standard deviation_15.62Hz
+45_Wavelet standard deviation_20.83Hz
+45_Wavelet standard deviation_31.25Hz
+45_Wavelet standard deviation_6.94Hz
+45_Wavelet standard deviation_62.5Hz
+45_Wavelet standard deviation_7.81Hz
+45_Wavelet standard deviation_8.93Hz
+45_Wavelet variance_10.42Hz
+45_Wavelet variance_12.5Hz
+45_Wavelet variance_15.62Hz
+45_Wavelet variance_20.83Hz
+45_Wavelet variance_31.25Hz
+45_Wavelet variance_6.94Hz
+45_Wavelet variance_62.5Hz
+45_Wavelet variance_7.81Hz
+45_Wavelet variance_8.93Hz
+46_Fundamental frequency
+46_Human range energy
+46_LPCC_0
+46_LPCC_1
+46_LPCC_10
+46_LPCC_11
+46_LPCC_2
+46_LPCC_3
+46_LPCC_4
+46_LPCC_5
+46_LPCC_6
+46_LPCC_7
+46_LPCC_8
+46_LPCC_9
+46_MFCC_0
+46_MFCC_1
+46_MFCC_10
+46_MFCC_11
+46_MFCC_2
+46_MFCC_3
+46_MFCC_4
+46_MFCC_5
+46_MFCC_6
+46_MFCC_7
+46_MFCC_8
+46_MFCC_9
+46_Max power spectrum
+46_Maximum frequency
+46_Median frequency
+46_Power bandwidth
+46_Spectral centroid
+46_Spectral decrease
+46_Spectral distance
+46_Spectral entropy
+46_Spectral kurtosis
+46_Spectral positive turning points
+46_Spectral roll-off
+46_Spectral roll-on
+46_Spectral skewness
+46_Spectral slope
+46_Spectral spread
+46_Spectral variation
+46_Spectrogram mean coefficient_0.0Hz
+46_Spectrogram mean coefficient_100.81Hz
+46_Spectrogram mean coefficient_104.84Hz
+46_Spectrogram mean coefficient_108.87Hz
+46_Spectrogram mean coefficient_112.9Hz
+46_Spectrogram mean coefficient_116.94Hz
+46_Spectrogram mean coefficient_12.1Hz
+46_Spectrogram mean coefficient_120.97Hz
+46_Spectrogram mean coefficient_125.0Hz
+46_Spectrogram mean coefficient_16.13Hz
+46_Spectrogram mean coefficient_20.16Hz
+46_Spectrogram mean coefficient_24.19Hz
+46_Spectrogram mean coefficient_28.23Hz
+46_Spectrogram mean coefficient_32.26Hz
+46_Spectrogram mean coefficient_36.29Hz
+46_Spectrogram mean coefficient_4.03Hz
+46_Spectrogram mean coefficient_40.32Hz
+46_Spectrogram mean coefficient_44.35Hz
+46_Spectrogram mean coefficient_48.39Hz
+46_Spectrogram mean coefficient_52.42Hz
+46_Spectrogram mean coefficient_56.45Hz
+46_Spectrogram mean coefficient_60.48Hz
+46_Spectrogram mean coefficient_64.52Hz
+46_Spectrogram mean coefficient_68.55Hz
+46_Spectrogram mean coefficient_72.58Hz
+46_Spectrogram mean coefficient_76.61Hz
+46_Spectrogram mean coefficient_8.06Hz
+46_Spectrogram mean coefficient_80.65Hz
+46_Spectrogram mean coefficient_84.68Hz
+46_Spectrogram mean coefficient_88.71Hz
+46_Spectrogram mean coefficient_92.74Hz
+46_Spectrogram mean coefficient_96.77Hz
+46_Wavelet absolute mean_10.42Hz
+46_Wavelet absolute mean_12.5Hz
+46_Wavelet absolute mean_15.62Hz
+46_Wavelet absolute mean_20.83Hz
+46_Wavelet absolute mean_31.25Hz
+46_Wavelet absolute mean_6.94Hz
+46_Wavelet absolute mean_62.5Hz
+46_Wavelet absolute mean_7.81Hz
+46_Wavelet absolute mean_8.93Hz
+46_Wavelet energy_10.42Hz
+46_Wavelet energy_12.5Hz
+46_Wavelet energy_15.62Hz
+46_Wavelet energy_20.83Hz
+46_Wavelet energy_31.25Hz
+46_Wavelet energy_6.94Hz
+46_Wavelet energy_62.5Hz
+46_Wavelet energy_7.81Hz
+46_Wavelet energy_8.93Hz
+46_Wavelet entropy
+46_Wavelet standard deviation_10.42Hz
+46_Wavelet standard deviation_12.5Hz
+46_Wavelet standard deviation_15.62Hz
+46_Wavelet standard deviation_20.83Hz
+46_Wavelet standard deviation_31.25Hz
+46_Wavelet standard deviation_6.94Hz
+46_Wavelet standard deviation_62.5Hz
+46_Wavelet standard deviation_7.81Hz
+46_Wavelet standard deviation_8.93Hz
+46_Wavelet variance_10.42Hz
+46_Wavelet variance_12.5Hz
+46_Wavelet variance_15.62Hz
+46_Wavelet variance_20.83Hz
+46_Wavelet variance_31.25Hz
+46_Wavelet variance_6.94Hz
+46_Wavelet variance_62.5Hz
+46_Wavelet variance_7.81Hz
+46_Wavelet variance_8.93Hz
+47_Fundamental frequency
+47_Human range energy
+47_LPCC_0
+47_LPCC_1
+47_LPCC_10
+47_LPCC_11
+47_LPCC_2
+47_LPCC_3
+47_LPCC_4
+47_LPCC_5
+47_LPCC_6
+47_LPCC_7
+47_LPCC_8
+47_LPCC_9
+47_MFCC_0
+47_MFCC_1
+47_MFCC_10
+47_MFCC_11
+47_MFCC_2
+47_MFCC_3
+47_MFCC_4
+47_MFCC_5
+47_MFCC_6
+47_MFCC_7
+47_MFCC_8
+47_MFCC_9
+47_Max power spectrum
+47_Maximum frequency
+47_Median frequency
+47_Power bandwidth
+47_Spectral centroid
+47_Spectral decrease
+47_Spectral distance
+47_Spectral entropy
+47_Spectral kurtosis
+47_Spectral positive turning points
+47_Spectral roll-off
+47_Spectral roll-on
+47_Spectral skewness
+47_Spectral slope
+47_Spectral spread
+47_Spectral variation
+47_Spectrogram mean coefficient_0.0Hz
+47_Spectrogram mean coefficient_100.81Hz
+47_Spectrogram mean coefficient_104.84Hz
+47_Spectrogram mean coefficient_108.87Hz
+47_Spectrogram mean coefficient_112.9Hz
+47_Spectrogram mean coefficient_116.94Hz
+47_Spectrogram mean coefficient_12.1Hz
+47_Spectrogram mean coefficient_120.97Hz
+47_Spectrogram mean coefficient_125.0Hz
+47_Spectrogram mean coefficient_16.13Hz
+47_Spectrogram mean coefficient_20.16Hz
+47_Spectrogram mean coefficient_24.19Hz
+47_Spectrogram mean coefficient_28.23Hz
+47_Spectrogram mean coefficient_32.26Hz
+47_Spectrogram mean coefficient_36.29Hz
+47_Spectrogram mean coefficient_4.03Hz
+47_Spectrogram mean coefficient_40.32Hz
+47_Spectrogram mean coefficient_44.35Hz
+47_Spectrogram mean coefficient_48.39Hz
+47_Spectrogram mean coefficient_52.42Hz
+47_Spectrogram mean coefficient_56.45Hz
+47_Spectrogram mean coefficient_60.48Hz
+47_Spectrogram mean coefficient_64.52Hz
+47_Spectrogram mean coefficient_68.55Hz
+47_Spectrogram mean coefficient_72.58Hz
+47_Spectrogram mean coefficient_76.61Hz
+47_Spectrogram mean coefficient_8.06Hz
+47_Spectrogram mean coefficient_80.65Hz
+47_Spectrogram mean coefficient_84.68Hz
+47_Spectrogram mean coefficient_88.71Hz
+47_Spectrogram mean coefficient_92.74Hz
+47_Spectrogram mean coefficient_96.77Hz
+47_Wavelet absolute mean_10.42Hz
+47_Wavelet absolute mean_12.5Hz
+47_Wavelet absolute mean_15.62Hz
+47_Wavelet absolute mean_20.83Hz
+47_Wavelet absolute mean_31.25Hz
+47_Wavelet absolute mean_6.94Hz
+47_Wavelet absolute mean_62.5Hz
+47_Wavelet absolute mean_7.81Hz
+47_Wavelet absolute mean_8.93Hz
+47_Wavelet energy_10.42Hz
+47_Wavelet energy_12.5Hz
+47_Wavelet energy_15.62Hz
+47_Wavelet energy_20.83Hz
+47_Wavelet energy_31.25Hz
+47_Wavelet energy_6.94Hz
+47_Wavelet energy_62.5Hz
+47_Wavelet energy_7.81Hz
+47_Wavelet energy_8.93Hz
+47_Wavelet entropy
+47_Wavelet standard deviation_10.42Hz
+47_Wavelet standard deviation_12.5Hz
+47_Wavelet standard deviation_15.62Hz
+47_Wavelet standard deviation_20.83Hz
+47_Wavelet standard deviation_31.25Hz
+47_Wavelet standard deviation_6.94Hz
+47_Wavelet standard deviation_62.5Hz
+47_Wavelet standard deviation_7.81Hz
+47_Wavelet standard deviation_8.93Hz
+47_Wavelet variance_10.42Hz
+47_Wavelet variance_12.5Hz
+47_Wavelet variance_15.62Hz
+47_Wavelet variance_20.83Hz
+47_Wavelet variance_31.25Hz
+47_Wavelet variance_6.94Hz
+47_Wavelet variance_62.5Hz
+47_Wavelet variance_7.81Hz
+47_Wavelet variance_8.93Hz
+48_Fundamental frequency
+48_Human range energy
+48_LPCC_0
+48_LPCC_1
+48_LPCC_10
+48_LPCC_11
+48_LPCC_2
+48_LPCC_3
+48_LPCC_4
+48_LPCC_5
+48_LPCC_6
+48_LPCC_7
+48_LPCC_8
+48_LPCC_9
+48_MFCC_0
+48_MFCC_1
+48_MFCC_10
+48_MFCC_11
+48_MFCC_2
+48_MFCC_3
+48_MFCC_4
+48_MFCC_5
+48_MFCC_6
+48_MFCC_7
+48_MFCC_8
+48_MFCC_9
+48_Max power spectrum
+48_Maximum frequency
+48_Median frequency
+48_Power bandwidth
+48_Spectral centroid
+48_Spectral decrease
+48_Spectral distance
+48_Spectral entropy
+48_Spectral kurtosis
+48_Spectral positive turning points
+48_Spectral roll-off
+48_Spectral roll-on
+48_Spectral skewness
+48_Spectral slope
+48_Spectral spread
+48_Spectral variation
+48_Spectrogram mean coefficient_0.0Hz
+48_Spectrogram mean coefficient_100.81Hz
+48_Spectrogram mean coefficient_104.84Hz
+48_Spectrogram mean coefficient_108.87Hz
+48_Spectrogram mean coefficient_112.9Hz
+48_Spectrogram mean coefficient_116.94Hz
+48_Spectrogram mean coefficient_12.1Hz
+48_Spectrogram mean coefficient_120.97Hz
+48_Spectrogram mean coefficient_125.0Hz
+48_Spectrogram mean coefficient_16.13Hz
+48_Spectrogram mean coefficient_20.16Hz
+48_Spectrogram mean coefficient_24.19Hz
+48_Spectrogram mean coefficient_28.23Hz
+48_Spectrogram mean coefficient_32.26Hz
+48_Spectrogram mean coefficient_36.29Hz
+48_Spectrogram mean coefficient_4.03Hz
+48_Spectrogram mean coefficient_40.32Hz
+48_Spectrogram mean coefficient_44.35Hz
+48_Spectrogram mean coefficient_48.39Hz
+48_Spectrogram mean coefficient_52.42Hz
+48_Spectrogram mean coefficient_56.45Hz
+48_Spectrogram mean coefficient_60.48Hz
+48_Spectrogram mean coefficient_64.52Hz
+48_Spectrogram mean coefficient_68.55Hz
+48_Spectrogram mean coefficient_72.58Hz
+48_Spectrogram mean coefficient_76.61Hz
+48_Spectrogram mean coefficient_8.06Hz
+48_Spectrogram mean coefficient_80.65Hz
+48_Spectrogram mean coefficient_84.68Hz
+48_Spectrogram mean coefficient_88.71Hz
+48_Spectrogram mean coefficient_92.74Hz
+48_Spectrogram mean coefficient_96.77Hz
+48_Wavelet absolute mean_10.42Hz
+48_Wavelet absolute mean_12.5Hz
+48_Wavelet absolute mean_15.62Hz
+48_Wavelet absolute mean_20.83Hz
+48_Wavelet absolute mean_31.25Hz
+48_Wavelet absolute mean_6.94Hz
+48_Wavelet absolute mean_62.5Hz
+48_Wavelet absolute mean_7.81Hz
+48_Wavelet absolute mean_8.93Hz
+48_Wavelet energy_10.42Hz
+48_Wavelet energy_12.5Hz
+48_Wavelet energy_15.62Hz
+48_Wavelet energy_20.83Hz
+48_Wavelet energy_31.25Hz
+48_Wavelet energy_6.94Hz
+48_Wavelet energy_62.5Hz
+48_Wavelet energy_7.81Hz
+48_Wavelet energy_8.93Hz
+48_Wavelet entropy
+48_Wavelet standard deviation_10.42Hz
+48_Wavelet standard deviation_12.5Hz
+48_Wavelet standard deviation_15.62Hz
+48_Wavelet standard deviation_20.83Hz
+48_Wavelet standard deviation_31.25Hz
+48_Wavelet standard deviation_6.94Hz
+48_Wavelet standard deviation_62.5Hz
+48_Wavelet standard deviation_7.81Hz
+48_Wavelet standard deviation_8.93Hz
+48_Wavelet variance_10.42Hz
+48_Wavelet variance_12.5Hz
+48_Wavelet variance_15.62Hz
+48_Wavelet variance_20.83Hz
+48_Wavelet variance_31.25Hz
+48_Wavelet variance_6.94Hz
+48_Wavelet variance_62.5Hz
+48_Wavelet variance_7.81Hz
+48_Wavelet variance_8.93Hz
+49_Fundamental frequency
+49_Human range energy
+49_LPCC_0
+49_LPCC_1
+49_LPCC_10
+49_LPCC_11
+49_LPCC_2
+49_LPCC_3
+49_LPCC_4
+49_LPCC_5
+49_LPCC_6
+49_LPCC_7
+49_LPCC_8
+49_LPCC_9
+49_MFCC_0
+49_MFCC_1
+49_MFCC_10
+49_MFCC_11
+49_MFCC_2
+49_MFCC_3
+49_MFCC_4
+49_MFCC_5
+49_MFCC_6
+49_MFCC_7
+49_MFCC_8
+49_MFCC_9
+49_Max power spectrum
+49_Maximum frequency
+49_Median frequency
+49_Power bandwidth
+49_Spectral centroid
+49_Spectral decrease
+49_Spectral distance
+49_Spectral entropy
+49_Spectral kurtosis
+49_Spectral positive turning points
+49_Spectral roll-off
+49_Spectral roll-on
+49_Spectral skewness
+49_Spectral slope
+49_Spectral spread
+49_Spectral variation
+49_Spectrogram mean coefficient_0.0Hz
+49_Spectrogram mean coefficient_100.81Hz
+49_Spectrogram mean coefficient_104.84Hz
+49_Spectrogram mean coefficient_108.87Hz
+49_Spectrogram mean coefficient_112.9Hz
+49_Spectrogram mean coefficient_116.94Hz
+49_Spectrogram mean coefficient_12.1Hz
+49_Spectrogram mean coefficient_120.97Hz
+49_Spectrogram mean coefficient_125.0Hz
+49_Spectrogram mean coefficient_16.13Hz
+49_Spectrogram mean coefficient_20.16Hz
+49_Spectrogram mean coefficient_24.19Hz
+49_Spectrogram mean coefficient_28.23Hz
+49_Spectrogram mean coefficient_32.26Hz
+49_Spectrogram mean coefficient_36.29Hz
+49_Spectrogram mean coefficient_4.03Hz
+49_Spectrogram mean coefficient_40.32Hz
+49_Spectrogram mean coefficient_44.35Hz
+49_Spectrogram mean coefficient_48.39Hz
+49_Spectrogram mean coefficient_52.42Hz
+49_Spectrogram mean coefficient_56.45Hz
+49_Spectrogram mean coefficient_60.48Hz
+49_Spectrogram mean coefficient_64.52Hz
+49_Spectrogram mean coefficient_68.55Hz
+49_Spectrogram mean coefficient_72.58Hz
+49_Spectrogram mean coefficient_76.61Hz
+49_Spectrogram mean coefficient_8.06Hz
+49_Spectrogram mean coefficient_80.65Hz
+49_Spectrogram mean coefficient_84.68Hz
+49_Spectrogram mean coefficient_88.71Hz
+49_Spectrogram mean coefficient_92.74Hz
+49_Spectrogram mean coefficient_96.77Hz
+49_Wavelet absolute mean_10.42Hz
+49_Wavelet absolute mean_12.5Hz
+49_Wavelet absolute mean_15.62Hz
+49_Wavelet absolute mean_20.83Hz
+49_Wavelet absolute mean_31.25Hz
+49_Wavelet absolute mean_6.94Hz
+49_Wavelet absolute mean_62.5Hz
+49_Wavelet absolute mean_7.81Hz
+49_Wavelet absolute mean_8.93Hz
+49_Wavelet energy_10.42Hz
+49_Wavelet energy_12.5Hz
+49_Wavelet energy_15.62Hz
+49_Wavelet energy_20.83Hz
+49_Wavelet energy_31.25Hz
+49_Wavelet energy_6.94Hz
+49_Wavelet energy_62.5Hz
+49_Wavelet energy_7.81Hz
+49_Wavelet energy_8.93Hz
+49_Wavelet entropy
+49_Wavelet standard deviation_10.42Hz
+49_Wavelet standard deviation_12.5Hz
+49_Wavelet standard deviation_15.62Hz
+49_Wavelet standard deviation_20.83Hz
+49_Wavelet standard deviation_31.25Hz
+49_Wavelet standard deviation_6.94Hz
+49_Wavelet standard deviation_62.5Hz
+49_Wavelet standard deviation_7.81Hz
+49_Wavelet standard deviation_8.93Hz
+49_Wavelet variance_10.42Hz
+49_Wavelet variance_12.5Hz
+49_Wavelet variance_15.62Hz
+49_Wavelet variance_20.83Hz
+49_Wavelet variance_31.25Hz
+49_Wavelet variance_6.94Hz
+49_Wavelet variance_62.5Hz
+49_Wavelet variance_7.81Hz
+49_Wavelet variance_8.93Hz
+4_Fundamental frequency
+4_Human range energy
+4_LPCC_0
+4_LPCC_1
+4_LPCC_10
+4_LPCC_11
+4_LPCC_2
+4_LPCC_3
+4_LPCC_4
+4_LPCC_5
+4_LPCC_6
+4_LPCC_7
+4_LPCC_8
+4_LPCC_9
+4_MFCC_0
+4_MFCC_1
+4_MFCC_10
+4_MFCC_11
+4_MFCC_2
+4_MFCC_3
+4_MFCC_4
+4_MFCC_5
+4_MFCC_6
+4_MFCC_7
+4_MFCC_8
+4_MFCC_9
+4_Max power spectrum
+4_Maximum frequency
+4_Median frequency
+4_Power bandwidth
+4_Spectral centroid
+4_Spectral decrease
+4_Spectral distance
+4_Spectral entropy
+4_Spectral kurtosis
+4_Spectral positive turning points
+4_Spectral roll-off
+4_Spectral roll-on
+4_Spectral skewness
+4_Spectral slope
+4_Spectral spread
+4_Spectral variation
+4_Spectrogram mean coefficient_0.0Hz
+4_Spectrogram mean coefficient_100.81Hz
+4_Spectrogram mean coefficient_104.84Hz
+4_Spectrogram mean coefficient_108.87Hz
+4_Spectrogram mean coefficient_112.9Hz
+4_Spectrogram mean coefficient_116.94Hz
+4_Spectrogram mean coefficient_12.1Hz
+4_Spectrogram mean coefficient_120.97Hz
+4_Spectrogram mean coefficient_125.0Hz
+4_Spectrogram mean coefficient_16.13Hz
+4_Spectrogram mean coefficient_20.16Hz
+4_Spectrogram mean coefficient_24.19Hz
+4_Spectrogram mean coefficient_28.23Hz
+4_Spectrogram mean coefficient_32.26Hz
+4_Spectrogram mean coefficient_36.29Hz
+4_Spectrogram mean coefficient_4.03Hz
+4_Spectrogram mean coefficient_40.32Hz
+4_Spectrogram mean coefficient_44.35Hz
+4_Spectrogram mean coefficient_48.39Hz
+4_Spectrogram mean coefficient_52.42Hz
+4_Spectrogram mean coefficient_56.45Hz
+4_Spectrogram mean coefficient_60.48Hz
+4_Spectrogram mean coefficient_64.52Hz
+4_Spectrogram mean coefficient_68.55Hz
+4_Spectrogram mean coefficient_72.58Hz
+4_Spectrogram mean coefficient_76.61Hz
+4_Spectrogram mean coefficient_8.06Hz
+4_Spectrogram mean coefficient_80.65Hz
+4_Spectrogram mean coefficient_84.68Hz
+4_Spectrogram mean coefficient_88.71Hz
+4_Spectrogram mean coefficient_92.74Hz
+4_Spectrogram mean coefficient_96.77Hz
+4_Wavelet absolute mean_10.42Hz
+4_Wavelet absolute mean_12.5Hz
+4_Wavelet absolute mean_15.62Hz
+4_Wavelet absolute mean_20.83Hz
+4_Wavelet absolute mean_31.25Hz
+4_Wavelet absolute mean_6.94Hz
+4_Wavelet absolute mean_62.5Hz
+4_Wavelet absolute mean_7.81Hz
+4_Wavelet absolute mean_8.93Hz
+4_Wavelet energy_10.42Hz
+4_Wavelet energy_12.5Hz
+4_Wavelet energy_15.62Hz
+4_Wavelet energy_20.83Hz
+4_Wavelet energy_31.25Hz
+4_Wavelet energy_6.94Hz
+4_Wavelet energy_62.5Hz
+4_Wavelet energy_7.81Hz
+4_Wavelet energy_8.93Hz
+4_Wavelet entropy
+4_Wavelet standard deviation_10.42Hz
+4_Wavelet standard deviation_12.5Hz
+4_Wavelet standard deviation_15.62Hz
+4_Wavelet standard deviation_20.83Hz
+4_Wavelet standard deviation_31.25Hz
+4_Wavelet standard deviation_6.94Hz
+4_Wavelet standard deviation_62.5Hz
+4_Wavelet standard deviation_7.81Hz
+4_Wavelet standard deviation_8.93Hz
+4_Wavelet variance_10.42Hz
+4_Wavelet variance_12.5Hz
+4_Wavelet variance_15.62Hz
+4_Wavelet variance_20.83Hz
+4_Wavelet variance_31.25Hz
+4_Wavelet variance_6.94Hz
+4_Wavelet variance_62.5Hz
+4_Wavelet variance_7.81Hz
+4_Wavelet variance_8.93Hz
+50_Fundamental frequency
+50_Human range energy
+50_LPCC_0
+50_LPCC_1
+50_LPCC_10
+50_LPCC_11
+50_LPCC_2
+50_LPCC_3
+50_LPCC_4
+50_LPCC_5
+50_LPCC_6
+50_LPCC_7
+50_LPCC_8
+50_LPCC_9
+50_MFCC_0
+50_MFCC_1
+50_MFCC_10
+50_MFCC_11
+50_MFCC_2
+50_MFCC_3
+50_MFCC_4
+50_MFCC_5
+50_MFCC_6
+50_MFCC_7
+50_MFCC_8
+50_MFCC_9
+50_Max power spectrum
+50_Maximum frequency
+50_Median frequency
+50_Power bandwidth
+50_Spectral centroid
+50_Spectral decrease
+50_Spectral distance
+50_Spectral entropy
+50_Spectral kurtosis
+50_Spectral positive turning points
+50_Spectral roll-off
+50_Spectral roll-on
+50_Spectral skewness
+50_Spectral slope
+50_Spectral spread
+50_Spectral variation
+50_Spectrogram mean coefficient_0.0Hz
+50_Spectrogram mean coefficient_100.81Hz
+50_Spectrogram mean coefficient_104.84Hz
+50_Spectrogram mean coefficient_108.87Hz
+50_Spectrogram mean coefficient_112.9Hz
+50_Spectrogram mean coefficient_116.94Hz
+50_Spectrogram mean coefficient_12.1Hz
+50_Spectrogram mean coefficient_120.97Hz
+50_Spectrogram mean coefficient_125.0Hz
+50_Spectrogram mean coefficient_16.13Hz
+50_Spectrogram mean coefficient_20.16Hz
+50_Spectrogram mean coefficient_24.19Hz
+50_Spectrogram mean coefficient_28.23Hz
+50_Spectrogram mean coefficient_32.26Hz
+50_Spectrogram mean coefficient_36.29Hz
+50_Spectrogram mean coefficient_4.03Hz
+50_Spectrogram mean coefficient_40.32Hz
+50_Spectrogram mean coefficient_44.35Hz
+50_Spectrogram mean coefficient_48.39Hz
+50_Spectrogram mean coefficient_52.42Hz
+50_Spectrogram mean coefficient_56.45Hz
+50_Spectrogram mean coefficient_60.48Hz
+50_Spectrogram mean coefficient_64.52Hz
+50_Spectrogram mean coefficient_68.55Hz
+50_Spectrogram mean coefficient_72.58Hz
+50_Spectrogram mean coefficient_76.61Hz
+50_Spectrogram mean coefficient_8.06Hz
+50_Spectrogram mean coefficient_80.65Hz
+50_Spectrogram mean coefficient_84.68Hz
+50_Spectrogram mean coefficient_88.71Hz
+50_Spectrogram mean coefficient_92.74Hz
+50_Spectrogram mean coefficient_96.77Hz
+50_Wavelet absolute mean_10.42Hz
+50_Wavelet absolute mean_12.5Hz
+50_Wavelet absolute mean_15.62Hz
+50_Wavelet absolute mean_20.83Hz
+50_Wavelet absolute mean_31.25Hz
+50_Wavelet absolute mean_6.94Hz
+50_Wavelet absolute mean_62.5Hz
+50_Wavelet absolute mean_7.81Hz
+50_Wavelet absolute mean_8.93Hz
+50_Wavelet energy_10.42Hz
+50_Wavelet energy_12.5Hz
+50_Wavelet energy_15.62Hz
+50_Wavelet energy_20.83Hz
+50_Wavelet energy_31.25Hz
+50_Wavelet energy_6.94Hz
+50_Wavelet energy_62.5Hz
+50_Wavelet energy_7.81Hz
+50_Wavelet energy_8.93Hz
+50_Wavelet entropy
+50_Wavelet standard deviation_10.42Hz
+50_Wavelet standard deviation_12.5Hz
+50_Wavelet standard deviation_15.62Hz
+50_Wavelet standard deviation_20.83Hz
+50_Wavelet standard deviation_31.25Hz
+50_Wavelet standard deviation_6.94Hz
+50_Wavelet standard deviation_62.5Hz
+50_Wavelet standard deviation_7.81Hz
+50_Wavelet standard deviation_8.93Hz
+50_Wavelet variance_10.42Hz
+50_Wavelet variance_12.5Hz
+50_Wavelet variance_15.62Hz
+50_Wavelet variance_20.83Hz
+50_Wavelet variance_31.25Hz
+50_Wavelet variance_6.94Hz
+50_Wavelet variance_62.5Hz
+50_Wavelet variance_7.81Hz
+50_Wavelet variance_8.93Hz
+51_Fundamental frequency
+51_Human range energy
+51_LPCC_0
+51_LPCC_1
+51_LPCC_10
+51_LPCC_11
+51_LPCC_2
+51_LPCC_3
+51_LPCC_4
+51_LPCC_5
+51_LPCC_6
+51_LPCC_7
+51_LPCC_8
+51_LPCC_9
+51_MFCC_0
+51_MFCC_1
+51_MFCC_10
+51_MFCC_11
+51_MFCC_2
+51_MFCC_3
+51_MFCC_4
+51_MFCC_5
+51_MFCC_6
+51_MFCC_7
+51_MFCC_8
+51_MFCC_9
+51_Max power spectrum
+51_Maximum frequency
+51_Median frequency
+51_Power bandwidth
+51_Spectral centroid
+51_Spectral decrease
+51_Spectral distance
+51_Spectral entropy
+51_Spectral kurtosis
+51_Spectral positive turning points
+51_Spectral roll-off
+51_Spectral roll-on
+51_Spectral skewness
+51_Spectral slope
+51_Spectral spread
+51_Spectral variation
+51_Spectrogram mean coefficient_0.0Hz
+51_Spectrogram mean coefficient_100.81Hz
+51_Spectrogram mean coefficient_104.84Hz
+51_Spectrogram mean coefficient_108.87Hz
+51_Spectrogram mean coefficient_112.9Hz
+51_Spectrogram mean coefficient_116.94Hz
+51_Spectrogram mean coefficient_12.1Hz
+51_Spectrogram mean coefficient_120.97Hz
+51_Spectrogram mean coefficient_125.0Hz
+51_Spectrogram mean coefficient_16.13Hz
+51_Spectrogram mean coefficient_20.16Hz
+51_Spectrogram mean coefficient_24.19Hz
+51_Spectrogram mean coefficient_28.23Hz
+51_Spectrogram mean coefficient_32.26Hz
+51_Spectrogram mean coefficient_36.29Hz
+51_Spectrogram mean coefficient_4.03Hz
+51_Spectrogram mean coefficient_40.32Hz
+51_Spectrogram mean coefficient_44.35Hz
+51_Spectrogram mean coefficient_48.39Hz
+51_Spectrogram mean coefficient_52.42Hz
+51_Spectrogram mean coefficient_56.45Hz
+51_Spectrogram mean coefficient_60.48Hz
+51_Spectrogram mean coefficient_64.52Hz
+51_Spectrogram mean coefficient_68.55Hz
+51_Spectrogram mean coefficient_72.58Hz
+51_Spectrogram mean coefficient_76.61Hz
+51_Spectrogram mean coefficient_8.06Hz
+51_Spectrogram mean coefficient_80.65Hz
+51_Spectrogram mean coefficient_84.68Hz
+51_Spectrogram mean coefficient_88.71Hz
+51_Spectrogram mean coefficient_92.74Hz
+51_Spectrogram mean coefficient_96.77Hz
+51_Wavelet absolute mean_10.42Hz
+51_Wavelet absolute mean_12.5Hz
+51_Wavelet absolute mean_15.62Hz
+51_Wavelet absolute mean_20.83Hz
+51_Wavelet absolute mean_31.25Hz
+51_Wavelet absolute mean_6.94Hz
+51_Wavelet absolute mean_62.5Hz
+51_Wavelet absolute mean_7.81Hz
+51_Wavelet absolute mean_8.93Hz
+51_Wavelet energy_10.42Hz
+51_Wavelet energy_12.5Hz
+51_Wavelet energy_15.62Hz
+51_Wavelet energy_20.83Hz
+51_Wavelet energy_31.25Hz
+51_Wavelet energy_6.94Hz
+51_Wavelet energy_62.5Hz
+51_Wavelet energy_7.81Hz
+51_Wavelet energy_8.93Hz
+51_Wavelet entropy
+51_Wavelet standard deviation_10.42Hz
+51_Wavelet standard deviation_12.5Hz
+51_Wavelet standard deviation_15.62Hz
+51_Wavelet standard deviation_20.83Hz
+51_Wavelet standard deviation_31.25Hz
+51_Wavelet standard deviation_6.94Hz
+51_Wavelet standard deviation_62.5Hz
+51_Wavelet standard deviation_7.81Hz
+51_Wavelet standard deviation_8.93Hz
+51_Wavelet variance_10.42Hz
+51_Wavelet variance_12.5Hz
+51_Wavelet variance_15.62Hz
+51_Wavelet variance_20.83Hz
+51_Wavelet variance_31.25Hz
+51_Wavelet variance_6.94Hz
+51_Wavelet variance_62.5Hz
+51_Wavelet variance_7.81Hz
+51_Wavelet variance_8.93Hz
+52_Fundamental frequency
+52_Human range energy
+52_LPCC_0
+52_LPCC_1
+52_LPCC_10
+52_LPCC_11
+52_LPCC_2
+52_LPCC_3
+52_LPCC_4
+52_LPCC_5
+52_LPCC_6
+52_LPCC_7
+52_LPCC_8
+52_LPCC_9
+52_MFCC_0
+52_MFCC_1
+52_MFCC_10
+52_MFCC_11
+52_MFCC_2
+52_MFCC_3
+52_MFCC_4
+52_MFCC_5
+52_MFCC_6
+52_MFCC_7
+52_MFCC_8
+52_MFCC_9
+52_Max power spectrum
+52_Maximum frequency
+52_Median frequency
+52_Power bandwidth
+52_Spectral centroid
+52_Spectral decrease
+52_Spectral distance
+52_Spectral entropy
+52_Spectral kurtosis
+52_Spectral positive turning points
+52_Spectral roll-off
+52_Spectral roll-on
+52_Spectral skewness
+52_Spectral slope
+52_Spectral spread
+52_Spectral variation
+52_Spectrogram mean coefficient_0.0Hz
+52_Spectrogram mean coefficient_100.81Hz
+52_Spectrogram mean coefficient_104.84Hz
+52_Spectrogram mean coefficient_108.87Hz
+52_Spectrogram mean coefficient_112.9Hz
+52_Spectrogram mean coefficient_116.94Hz
+52_Spectrogram mean coefficient_12.1Hz
+52_Spectrogram mean coefficient_120.97Hz
+52_Spectrogram mean coefficient_125.0Hz
+52_Spectrogram mean coefficient_16.13Hz
+52_Spectrogram mean coefficient_20.16Hz
+52_Spectrogram mean coefficient_24.19Hz
+52_Spectrogram mean coefficient_28.23Hz
+52_Spectrogram mean coefficient_32.26Hz
+52_Spectrogram mean coefficient_36.29Hz
+52_Spectrogram mean coefficient_4.03Hz
+52_Spectrogram mean coefficient_40.32Hz
+52_Spectrogram mean coefficient_44.35Hz
+52_Spectrogram mean coefficient_48.39Hz
+52_Spectrogram mean coefficient_52.42Hz
+52_Spectrogram mean coefficient_56.45Hz
+52_Spectrogram mean coefficient_60.48Hz
+52_Spectrogram mean coefficient_64.52Hz
+52_Spectrogram mean coefficient_68.55Hz
+52_Spectrogram mean coefficient_72.58Hz
+52_Spectrogram mean coefficient_76.61Hz
+52_Spectrogram mean coefficient_8.06Hz
+52_Spectrogram mean coefficient_80.65Hz
+52_Spectrogram mean coefficient_84.68Hz
+52_Spectrogram mean coefficient_88.71Hz
+52_Spectrogram mean coefficient_92.74Hz
+52_Spectrogram mean coefficient_96.77Hz
+52_Wavelet absolute mean_10.42Hz
+52_Wavelet absolute mean_12.5Hz
+52_Wavelet absolute mean_15.62Hz
+52_Wavelet absolute mean_20.83Hz
+52_Wavelet absolute mean_31.25Hz
+52_Wavelet absolute mean_6.94Hz
+52_Wavelet absolute mean_62.5Hz
+52_Wavelet absolute mean_7.81Hz
+52_Wavelet absolute mean_8.93Hz
+52_Wavelet energy_10.42Hz
+52_Wavelet energy_12.5Hz
+52_Wavelet energy_15.62Hz
+52_Wavelet energy_20.83Hz
+52_Wavelet energy_31.25Hz
+52_Wavelet energy_6.94Hz
+52_Wavelet energy_62.5Hz
+52_Wavelet energy_7.81Hz
+52_Wavelet energy_8.93Hz
+52_Wavelet entropy
+52_Wavelet standard deviation_10.42Hz
+52_Wavelet standard deviation_12.5Hz
+52_Wavelet standard deviation_15.62Hz
+52_Wavelet standard deviation_20.83Hz
+52_Wavelet standard deviation_31.25Hz
+52_Wavelet standard deviation_6.94Hz
+52_Wavelet standard deviation_62.5Hz
+52_Wavelet standard deviation_7.81Hz
+52_Wavelet standard deviation_8.93Hz
+52_Wavelet variance_10.42Hz
+52_Wavelet variance_12.5Hz
+52_Wavelet variance_15.62Hz
+52_Wavelet variance_20.83Hz
+52_Wavelet variance_31.25Hz
+52_Wavelet variance_6.94Hz
+52_Wavelet variance_62.5Hz
+52_Wavelet variance_7.81Hz
+52_Wavelet variance_8.93Hz
+53_Fundamental frequency
+53_Human range energy
+53_LPCC_0
+53_LPCC_1
+53_LPCC_10
+53_LPCC_11
+53_LPCC_2
+53_LPCC_3
+53_LPCC_4
+53_LPCC_5
+53_LPCC_6
+53_LPCC_7
+53_LPCC_8
+53_LPCC_9
+53_MFCC_0
+53_MFCC_1
+53_MFCC_10
+53_MFCC_11
+53_MFCC_2
+53_MFCC_3
+53_MFCC_4
+53_MFCC_5
+53_MFCC_6
+53_MFCC_7
+53_MFCC_8
+53_MFCC_9
+53_Max power spectrum
+53_Maximum frequency
+53_Median frequency
+53_Power bandwidth
+53_Spectral centroid
+53_Spectral decrease
+53_Spectral distance
+53_Spectral entropy
+53_Spectral kurtosis
+53_Spectral positive turning points
+53_Spectral roll-off
+53_Spectral roll-on
+53_Spectral skewness
+53_Spectral slope
+53_Spectral spread
+53_Spectral variation
+53_Spectrogram mean coefficient_0.0Hz
+53_Spectrogram mean coefficient_100.81Hz
+53_Spectrogram mean coefficient_104.84Hz
+53_Spectrogram mean coefficient_108.87Hz
+53_Spectrogram mean coefficient_112.9Hz
+53_Spectrogram mean coefficient_116.94Hz
+53_Spectrogram mean coefficient_12.1Hz
+53_Spectrogram mean coefficient_120.97Hz
+53_Spectrogram mean coefficient_125.0Hz
+53_Spectrogram mean coefficient_16.13Hz
+53_Spectrogram mean coefficient_20.16Hz
+53_Spectrogram mean coefficient_24.19Hz
+53_Spectrogram mean coefficient_28.23Hz
+53_Spectrogram mean coefficient_32.26Hz
+53_Spectrogram mean coefficient_36.29Hz
+53_Spectrogram mean coefficient_4.03Hz
+53_Spectrogram mean coefficient_40.32Hz
+53_Spectrogram mean coefficient_44.35Hz
+53_Spectrogram mean coefficient_48.39Hz
+53_Spectrogram mean coefficient_52.42Hz
+53_Spectrogram mean coefficient_56.45Hz
+53_Spectrogram mean coefficient_60.48Hz
+53_Spectrogram mean coefficient_64.52Hz
+53_Spectrogram mean coefficient_68.55Hz
+53_Spectrogram mean coefficient_72.58Hz
+53_Spectrogram mean coefficient_76.61Hz
+53_Spectrogram mean coefficient_8.06Hz
+53_Spectrogram mean coefficient_80.65Hz
+53_Spectrogram mean coefficient_84.68Hz
+53_Spectrogram mean coefficient_88.71Hz
+53_Spectrogram mean coefficient_92.74Hz
+53_Spectrogram mean coefficient_96.77Hz
+53_Wavelet absolute mean_10.42Hz
+53_Wavelet absolute mean_12.5Hz
+53_Wavelet absolute mean_15.62Hz
+53_Wavelet absolute mean_20.83Hz
+53_Wavelet absolute mean_31.25Hz
+53_Wavelet absolute mean_6.94Hz
+53_Wavelet absolute mean_62.5Hz
+53_Wavelet absolute mean_7.81Hz
+53_Wavelet absolute mean_8.93Hz
+53_Wavelet energy_10.42Hz
+53_Wavelet energy_12.5Hz
+53_Wavelet energy_15.62Hz
+53_Wavelet energy_20.83Hz
+53_Wavelet energy_31.25Hz
+53_Wavelet energy_6.94Hz
+53_Wavelet energy_62.5Hz
+53_Wavelet energy_7.81Hz
+53_Wavelet energy_8.93Hz
+53_Wavelet entropy
+53_Wavelet standard deviation_10.42Hz
+53_Wavelet standard deviation_12.5Hz
+53_Wavelet standard deviation_15.62Hz
+53_Wavelet standard deviation_20.83Hz
+53_Wavelet standard deviation_31.25Hz
+53_Wavelet standard deviation_6.94Hz
+53_Wavelet standard deviation_62.5Hz
+53_Wavelet standard deviation_7.81Hz
+53_Wavelet standard deviation_8.93Hz
+53_Wavelet variance_10.42Hz
+53_Wavelet variance_12.5Hz
+53_Wavelet variance_15.62Hz
+53_Wavelet variance_20.83Hz
+53_Wavelet variance_31.25Hz
+53_Wavelet variance_6.94Hz
+53_Wavelet variance_62.5Hz
+53_Wavelet variance_7.81Hz
+53_Wavelet variance_8.93Hz
+54_Fundamental frequency
+54_Human range energy
+54_LPCC_0
+54_LPCC_1
+54_LPCC_10
+54_LPCC_11
+54_LPCC_2
+54_LPCC_3
+54_LPCC_4
+54_LPCC_5
+54_LPCC_6
+54_LPCC_7
+54_LPCC_8
+54_LPCC_9
+54_MFCC_0
+54_MFCC_1
+54_MFCC_10
+54_MFCC_11
+54_MFCC_2
+54_MFCC_3
+54_MFCC_4
+54_MFCC_5
+54_MFCC_6
+54_MFCC_7
+54_MFCC_8
+54_MFCC_9
+54_Max power spectrum
+54_Maximum frequency
+54_Median frequency
+54_Power bandwidth
+54_Spectral centroid
+54_Spectral decrease
+54_Spectral distance
+54_Spectral entropy
+54_Spectral kurtosis
+54_Spectral positive turning points
+54_Spectral roll-off
+54_Spectral roll-on
+54_Spectral skewness
+54_Spectral slope
+54_Spectral spread
+54_Spectral variation
+54_Spectrogram mean coefficient_0.0Hz
+54_Spectrogram mean coefficient_100.81Hz
+54_Spectrogram mean coefficient_104.84Hz
+54_Spectrogram mean coefficient_108.87Hz
+54_Spectrogram mean coefficient_112.9Hz
+54_Spectrogram mean coefficient_116.94Hz
+54_Spectrogram mean coefficient_12.1Hz
+54_Spectrogram mean coefficient_120.97Hz
+54_Spectrogram mean coefficient_125.0Hz
+54_Spectrogram mean coefficient_16.13Hz
+54_Spectrogram mean coefficient_20.16Hz
+54_Spectrogram mean coefficient_24.19Hz
+54_Spectrogram mean coefficient_28.23Hz
+54_Spectrogram mean coefficient_32.26Hz
+54_Spectrogram mean coefficient_36.29Hz
+54_Spectrogram mean coefficient_4.03Hz
+54_Spectrogram mean coefficient_40.32Hz
+54_Spectrogram mean coefficient_44.35Hz
+54_Spectrogram mean coefficient_48.39Hz
+54_Spectrogram mean coefficient_52.42Hz
+54_Spectrogram mean coefficient_56.45Hz
+54_Spectrogram mean coefficient_60.48Hz
+54_Spectrogram mean coefficient_64.52Hz
+54_Spectrogram mean coefficient_68.55Hz
+54_Spectrogram mean coefficient_72.58Hz
+54_Spectrogram mean coefficient_76.61Hz
+54_Spectrogram mean coefficient_8.06Hz
+54_Spectrogram mean coefficient_80.65Hz
+54_Spectrogram mean coefficient_84.68Hz
+54_Spectrogram mean coefficient_88.71Hz
+54_Spectrogram mean coefficient_92.74Hz
+54_Spectrogram mean coefficient_96.77Hz
+54_Wavelet absolute mean_10.42Hz
+54_Wavelet absolute mean_12.5Hz
+54_Wavelet absolute mean_15.62Hz
+54_Wavelet absolute mean_20.83Hz
+54_Wavelet absolute mean_31.25Hz
+54_Wavelet absolute mean_6.94Hz
+54_Wavelet absolute mean_62.5Hz
+54_Wavelet absolute mean_7.81Hz
+54_Wavelet absolute mean_8.93Hz
+54_Wavelet energy_10.42Hz
+54_Wavelet energy_12.5Hz
+54_Wavelet energy_15.62Hz
+54_Wavelet energy_20.83Hz
+54_Wavelet energy_31.25Hz
+54_Wavelet energy_6.94Hz
+54_Wavelet energy_62.5Hz
+54_Wavelet energy_7.81Hz
+54_Wavelet energy_8.93Hz
+54_Wavelet entropy
+54_Wavelet standard deviation_10.42Hz
+54_Wavelet standard deviation_12.5Hz
+54_Wavelet standard deviation_15.62Hz
+54_Wavelet standard deviation_20.83Hz
+54_Wavelet standard deviation_31.25Hz
+54_Wavelet standard deviation_6.94Hz
+54_Wavelet standard deviation_62.5Hz
+54_Wavelet standard deviation_7.81Hz
+54_Wavelet standard deviation_8.93Hz
+54_Wavelet variance_10.42Hz
+54_Wavelet variance_12.5Hz
+54_Wavelet variance_15.62Hz
+54_Wavelet variance_20.83Hz
+54_Wavelet variance_31.25Hz
+54_Wavelet variance_6.94Hz
+54_Wavelet variance_62.5Hz
+54_Wavelet variance_7.81Hz
+54_Wavelet variance_8.93Hz
+55_Fundamental frequency
+55_Human range energy
+55_LPCC_0
+55_LPCC_1
+55_LPCC_10
+55_LPCC_11
+55_LPCC_2
+55_LPCC_3
+55_LPCC_4
+55_LPCC_5
+55_LPCC_6
+55_LPCC_7
+55_LPCC_8
+55_LPCC_9
+55_MFCC_0
+55_MFCC_1
+55_MFCC_10
+55_MFCC_11
+55_MFCC_2
+55_MFCC_3
+55_MFCC_4
+55_MFCC_5
+55_MFCC_6
+55_MFCC_7
+55_MFCC_8
+55_MFCC_9
+55_Max power spectrum
+55_Maximum frequency
+55_Median frequency
+55_Power bandwidth
+55_Spectral centroid
+55_Spectral decrease
+55_Spectral distance
+55_Spectral entropy
+55_Spectral kurtosis
+55_Spectral positive turning points
+55_Spectral roll-off
+55_Spectral roll-on
+55_Spectral skewness
+55_Spectral slope
+55_Spectral spread
+55_Spectral variation
+55_Spectrogram mean coefficient_0.0Hz
+55_Spectrogram mean coefficient_100.81Hz
+55_Spectrogram mean coefficient_104.84Hz
+55_Spectrogram mean coefficient_108.87Hz
+55_Spectrogram mean coefficient_112.9Hz
+55_Spectrogram mean coefficient_116.94Hz
+55_Spectrogram mean coefficient_12.1Hz
+55_Spectrogram mean coefficient_120.97Hz
+55_Spectrogram mean coefficient_125.0Hz
+55_Spectrogram mean coefficient_16.13Hz
+55_Spectrogram mean coefficient_20.16Hz
+55_Spectrogram mean coefficient_24.19Hz
+55_Spectrogram mean coefficient_28.23Hz
+55_Spectrogram mean coefficient_32.26Hz
+55_Spectrogram mean coefficient_36.29Hz
+55_Spectrogram mean coefficient_4.03Hz
+55_Spectrogram mean coefficient_40.32Hz
+55_Spectrogram mean coefficient_44.35Hz
+55_Spectrogram mean coefficient_48.39Hz
+55_Spectrogram mean coefficient_52.42Hz
+55_Spectrogram mean coefficient_56.45Hz
+55_Spectrogram mean coefficient_60.48Hz
+55_Spectrogram mean coefficient_64.52Hz
+55_Spectrogram mean coefficient_68.55Hz
+55_Spectrogram mean coefficient_72.58Hz
+55_Spectrogram mean coefficient_76.61Hz
+55_Spectrogram mean coefficient_8.06Hz
+55_Spectrogram mean coefficient_80.65Hz
+55_Spectrogram mean coefficient_84.68Hz
+55_Spectrogram mean coefficient_88.71Hz
+55_Spectrogram mean coefficient_92.74Hz
+55_Spectrogram mean coefficient_96.77Hz
+55_Wavelet absolute mean_10.42Hz
+55_Wavelet absolute mean_12.5Hz
+55_Wavelet absolute mean_15.62Hz
+55_Wavelet absolute mean_20.83Hz
+55_Wavelet absolute mean_31.25Hz
+55_Wavelet absolute mean_6.94Hz
+55_Wavelet absolute mean_62.5Hz
+55_Wavelet absolute mean_7.81Hz
+55_Wavelet absolute mean_8.93Hz
+55_Wavelet energy_10.42Hz
+55_Wavelet energy_12.5Hz
+55_Wavelet energy_15.62Hz
+55_Wavelet energy_20.83Hz
+55_Wavelet energy_31.25Hz
+55_Wavelet energy_6.94Hz
+55_Wavelet energy_62.5Hz
+55_Wavelet energy_7.81Hz
+55_Wavelet energy_8.93Hz
+55_Wavelet entropy
+55_Wavelet standard deviation_10.42Hz
+55_Wavelet standard deviation_12.5Hz
+55_Wavelet standard deviation_15.62Hz
+55_Wavelet standard deviation_20.83Hz
+55_Wavelet standard deviation_31.25Hz
+55_Wavelet standard deviation_6.94Hz
+55_Wavelet standard deviation_62.5Hz
+55_Wavelet standard deviation_7.81Hz
+55_Wavelet standard deviation_8.93Hz
+55_Wavelet variance_10.42Hz
+55_Wavelet variance_12.5Hz
+55_Wavelet variance_15.62Hz
+55_Wavelet variance_20.83Hz
+55_Wavelet variance_31.25Hz
+55_Wavelet variance_6.94Hz
+55_Wavelet variance_62.5Hz
+55_Wavelet variance_7.81Hz
+55_Wavelet variance_8.93Hz
+56_Fundamental frequency
+56_Human range energy
+56_LPCC_0
+56_LPCC_1
+56_LPCC_10
+56_LPCC_11
+56_LPCC_2
+56_LPCC_3
+56_LPCC_4
+56_LPCC_5
+56_LPCC_6
+56_LPCC_7
+56_LPCC_8
+56_LPCC_9
+56_MFCC_0
+56_MFCC_1
+56_MFCC_10
+56_MFCC_11
+56_MFCC_2
+56_MFCC_3
+56_MFCC_4
+56_MFCC_5
+56_MFCC_6
+56_MFCC_7
+56_MFCC_8
+56_MFCC_9
+56_Max power spectrum
+56_Maximum frequency
+56_Median frequency
+56_Power bandwidth
+56_Spectral centroid
+56_Spectral decrease
+56_Spectral distance
+56_Spectral entropy
+56_Spectral kurtosis
+56_Spectral positive turning points
+56_Spectral roll-off
+56_Spectral roll-on
+56_Spectral skewness
+56_Spectral slope
+56_Spectral spread
+56_Spectral variation
+56_Spectrogram mean coefficient_0.0Hz
+56_Spectrogram mean coefficient_100.81Hz
+56_Spectrogram mean coefficient_104.84Hz
+56_Spectrogram mean coefficient_108.87Hz
+56_Spectrogram mean coefficient_112.9Hz
+56_Spectrogram mean coefficient_116.94Hz
+56_Spectrogram mean coefficient_12.1Hz
+56_Spectrogram mean coefficient_120.97Hz
+56_Spectrogram mean coefficient_125.0Hz
+56_Spectrogram mean coefficient_16.13Hz
+56_Spectrogram mean coefficient_20.16Hz
+56_Spectrogram mean coefficient_24.19Hz
+56_Spectrogram mean coefficient_28.23Hz
+56_Spectrogram mean coefficient_32.26Hz
+56_Spectrogram mean coefficient_36.29Hz
+56_Spectrogram mean coefficient_4.03Hz
+56_Spectrogram mean coefficient_40.32Hz
+56_Spectrogram mean coefficient_44.35Hz
+56_Spectrogram mean coefficient_48.39Hz
+56_Spectrogram mean coefficient_52.42Hz
+56_Spectrogram mean coefficient_56.45Hz
+56_Spectrogram mean coefficient_60.48Hz
+56_Spectrogram mean coefficient_64.52Hz
+56_Spectrogram mean coefficient_68.55Hz
+56_Spectrogram mean coefficient_72.58Hz
+56_Spectrogram mean coefficient_76.61Hz
+56_Spectrogram mean coefficient_8.06Hz
+56_Spectrogram mean coefficient_80.65Hz
+56_Spectrogram mean coefficient_84.68Hz
+56_Spectrogram mean coefficient_88.71Hz
+56_Spectrogram mean coefficient_92.74Hz
+56_Spectrogram mean coefficient_96.77Hz
+56_Wavelet absolute mean_10.42Hz
+56_Wavelet absolute mean_12.5Hz
+56_Wavelet absolute mean_15.62Hz
+56_Wavelet absolute mean_20.83Hz
+56_Wavelet absolute mean_31.25Hz
+56_Wavelet absolute mean_6.94Hz
+56_Wavelet absolute mean_62.5Hz
+56_Wavelet absolute mean_7.81Hz
+56_Wavelet absolute mean_8.93Hz
+56_Wavelet energy_10.42Hz
+56_Wavelet energy_12.5Hz
+56_Wavelet energy_15.62Hz
+56_Wavelet energy_20.83Hz
+56_Wavelet energy_31.25Hz
+56_Wavelet energy_6.94Hz
+56_Wavelet energy_62.5Hz
+56_Wavelet energy_7.81Hz
+56_Wavelet energy_8.93Hz
+56_Wavelet entropy
+56_Wavelet standard deviation_10.42Hz
+56_Wavelet standard deviation_12.5Hz
+56_Wavelet standard deviation_15.62Hz
+56_Wavelet standard deviation_20.83Hz
+56_Wavelet standard deviation_31.25Hz
+56_Wavelet standard deviation_6.94Hz
+56_Wavelet standard deviation_62.5Hz
+56_Wavelet standard deviation_7.81Hz
+56_Wavelet standard deviation_8.93Hz
+56_Wavelet variance_10.42Hz
+56_Wavelet variance_12.5Hz
+56_Wavelet variance_15.62Hz
+56_Wavelet variance_20.83Hz
+56_Wavelet variance_31.25Hz
+56_Wavelet variance_6.94Hz
+56_Wavelet variance_62.5Hz
+56_Wavelet variance_7.81Hz
+56_Wavelet variance_8.93Hz
+57_Fundamental frequency
+57_Human range energy
+57_LPCC_0
+57_LPCC_1
+57_LPCC_10
+57_LPCC_11
+57_LPCC_2
+57_LPCC_3
+57_LPCC_4
+57_LPCC_5
+57_LPCC_6
+57_LPCC_7
+57_LPCC_8
+57_LPCC_9
+57_MFCC_0
+57_MFCC_1
+57_MFCC_10
+57_MFCC_11
+57_MFCC_2
+57_MFCC_3
+57_MFCC_4
+57_MFCC_5
+57_MFCC_6
+57_MFCC_7
+57_MFCC_8
+57_MFCC_9
+57_Max power spectrum
+57_Maximum frequency
+57_Median frequency
+57_Power bandwidth
+57_Spectral centroid
+57_Spectral decrease
+57_Spectral distance
+57_Spectral entropy
+57_Spectral kurtosis
+57_Spectral positive turning points
+57_Spectral roll-off
+57_Spectral roll-on
+57_Spectral skewness
+57_Spectral slope
+57_Spectral spread
+57_Spectral variation
+57_Spectrogram mean coefficient_0.0Hz
+57_Spectrogram mean coefficient_100.81Hz
+57_Spectrogram mean coefficient_104.84Hz
+57_Spectrogram mean coefficient_108.87Hz
+57_Spectrogram mean coefficient_112.9Hz
+57_Spectrogram mean coefficient_116.94Hz
+57_Spectrogram mean coefficient_12.1Hz
+57_Spectrogram mean coefficient_120.97Hz
+57_Spectrogram mean coefficient_125.0Hz
+57_Spectrogram mean coefficient_16.13Hz
+57_Spectrogram mean coefficient_20.16Hz
+57_Spectrogram mean coefficient_24.19Hz
+57_Spectrogram mean coefficient_28.23Hz
+57_Spectrogram mean coefficient_32.26Hz
+57_Spectrogram mean coefficient_36.29Hz
+57_Spectrogram mean coefficient_4.03Hz
+57_Spectrogram mean coefficient_40.32Hz
+57_Spectrogram mean coefficient_44.35Hz
+57_Spectrogram mean coefficient_48.39Hz
+57_Spectrogram mean coefficient_52.42Hz
+57_Spectrogram mean coefficient_56.45Hz
+57_Spectrogram mean coefficient_60.48Hz
+57_Spectrogram mean coefficient_64.52Hz
+57_Spectrogram mean coefficient_68.55Hz
+57_Spectrogram mean coefficient_72.58Hz
+57_Spectrogram mean coefficient_76.61Hz
+57_Spectrogram mean coefficient_8.06Hz
+57_Spectrogram mean coefficient_80.65Hz
+57_Spectrogram mean coefficient_84.68Hz
+57_Spectrogram mean coefficient_88.71Hz
+57_Spectrogram mean coefficient_92.74Hz
+57_Spectrogram mean coefficient_96.77Hz
+57_Wavelet absolute mean_10.42Hz
+57_Wavelet absolute mean_12.5Hz
+57_Wavelet absolute mean_15.62Hz
+57_Wavelet absolute mean_20.83Hz
+57_Wavelet absolute mean_31.25Hz
+57_Wavelet absolute mean_6.94Hz
+57_Wavelet absolute mean_62.5Hz
+57_Wavelet absolute mean_7.81Hz
+57_Wavelet absolute mean_8.93Hz
+57_Wavelet energy_10.42Hz
+57_Wavelet energy_12.5Hz
+57_Wavelet energy_15.62Hz
+57_Wavelet energy_20.83Hz
+57_Wavelet energy_31.25Hz
+57_Wavelet energy_6.94Hz
+57_Wavelet energy_62.5Hz
+57_Wavelet energy_7.81Hz
+57_Wavelet energy_8.93Hz
+57_Wavelet entropy
+57_Wavelet standard deviation_10.42Hz
+57_Wavelet standard deviation_12.5Hz
+57_Wavelet standard deviation_15.62Hz
+57_Wavelet standard deviation_20.83Hz
+57_Wavelet standard deviation_31.25Hz
+57_Wavelet standard deviation_6.94Hz
+57_Wavelet standard deviation_62.5Hz
+57_Wavelet standard deviation_7.81Hz
+57_Wavelet standard deviation_8.93Hz
+57_Wavelet variance_10.42Hz
+57_Wavelet variance_12.5Hz
+57_Wavelet variance_15.62Hz
+57_Wavelet variance_20.83Hz
+57_Wavelet variance_31.25Hz
+57_Wavelet variance_6.94Hz
+57_Wavelet variance_62.5Hz
+57_Wavelet variance_7.81Hz
+57_Wavelet variance_8.93Hz
+58_Fundamental frequency
+58_Human range energy
+58_LPCC_0
+58_LPCC_1
+58_LPCC_10
+58_LPCC_11
+58_LPCC_2
+58_LPCC_3
+58_LPCC_4
+58_LPCC_5
+58_LPCC_6
+58_LPCC_7
+58_LPCC_8
+58_LPCC_9
+58_MFCC_0
+58_MFCC_1
+58_MFCC_10
+58_MFCC_11
+58_MFCC_2
+58_MFCC_3
+58_MFCC_4
+58_MFCC_5
+58_MFCC_6
+58_MFCC_7
+58_MFCC_8
+58_MFCC_9
+58_Max power spectrum
+58_Maximum frequency
+58_Median frequency
+58_Power bandwidth
+58_Spectral centroid
+58_Spectral decrease
+58_Spectral distance
+58_Spectral entropy
+58_Spectral kurtosis
+58_Spectral positive turning points
+58_Spectral roll-off
+58_Spectral roll-on
+58_Spectral skewness
+58_Spectral slope
+58_Spectral spread
+58_Spectral variation
+58_Spectrogram mean coefficient_0.0Hz
+58_Spectrogram mean coefficient_100.81Hz
+58_Spectrogram mean coefficient_104.84Hz
+58_Spectrogram mean coefficient_108.87Hz
+58_Spectrogram mean coefficient_112.9Hz
+58_Spectrogram mean coefficient_116.94Hz
+58_Spectrogram mean coefficient_12.1Hz
+58_Spectrogram mean coefficient_120.97Hz
+58_Spectrogram mean coefficient_125.0Hz
+58_Spectrogram mean coefficient_16.13Hz
+58_Spectrogram mean coefficient_20.16Hz
+58_Spectrogram mean coefficient_24.19Hz
+58_Spectrogram mean coefficient_28.23Hz
+58_Spectrogram mean coefficient_32.26Hz
+58_Spectrogram mean coefficient_36.29Hz
+58_Spectrogram mean coefficient_4.03Hz
+58_Spectrogram mean coefficient_40.32Hz
+58_Spectrogram mean coefficient_44.35Hz
+58_Spectrogram mean coefficient_48.39Hz
+58_Spectrogram mean coefficient_52.42Hz
+58_Spectrogram mean coefficient_56.45Hz
+58_Spectrogram mean coefficient_60.48Hz
+58_Spectrogram mean coefficient_64.52Hz
+58_Spectrogram mean coefficient_68.55Hz
+58_Spectrogram mean coefficient_72.58Hz
+58_Spectrogram mean coefficient_76.61Hz
+58_Spectrogram mean coefficient_8.06Hz
+58_Spectrogram mean coefficient_80.65Hz
+58_Spectrogram mean coefficient_84.68Hz
+58_Spectrogram mean coefficient_88.71Hz
+58_Spectrogram mean coefficient_92.74Hz
+58_Spectrogram mean coefficient_96.77Hz
+58_Wavelet absolute mean_10.42Hz
+58_Wavelet absolute mean_12.5Hz
+58_Wavelet absolute mean_15.62Hz
+58_Wavelet absolute mean_20.83Hz
+58_Wavelet absolute mean_31.25Hz
+58_Wavelet absolute mean_6.94Hz
+58_Wavelet absolute mean_62.5Hz
+58_Wavelet absolute mean_7.81Hz
+58_Wavelet absolute mean_8.93Hz
+58_Wavelet energy_10.42Hz
+58_Wavelet energy_12.5Hz
+58_Wavelet energy_15.62Hz
+58_Wavelet energy_20.83Hz
+58_Wavelet energy_31.25Hz
+58_Wavelet energy_6.94Hz
+58_Wavelet energy_62.5Hz
+58_Wavelet energy_7.81Hz
+58_Wavelet energy_8.93Hz
+58_Wavelet entropy
+58_Wavelet standard deviation_10.42Hz
+58_Wavelet standard deviation_12.5Hz
+58_Wavelet standard deviation_15.62Hz
+58_Wavelet standard deviation_20.83Hz
+58_Wavelet standard deviation_31.25Hz
+58_Wavelet standard deviation_6.94Hz
+58_Wavelet standard deviation_62.5Hz
+58_Wavelet standard deviation_7.81Hz
+58_Wavelet standard deviation_8.93Hz
+58_Wavelet variance_10.42Hz
+58_Wavelet variance_12.5Hz
+58_Wavelet variance_15.62Hz
+58_Wavelet variance_20.83Hz
+58_Wavelet variance_31.25Hz
+58_Wavelet variance_6.94Hz
+58_Wavelet variance_62.5Hz
+58_Wavelet variance_7.81Hz
+58_Wavelet variance_8.93Hz
+59_Fundamental frequency
+59_Human range energy
+59_LPCC_0
+59_LPCC_1
+59_LPCC_10
+59_LPCC_11
+59_LPCC_2
+59_LPCC_3
+59_LPCC_4
+59_LPCC_5
+59_LPCC_6
+59_LPCC_7
+59_LPCC_8
+59_LPCC_9
+59_MFCC_0
+59_MFCC_1
+59_MFCC_10
+59_MFCC_11
+59_MFCC_2
+59_MFCC_3
+59_MFCC_4
+59_MFCC_5
+59_MFCC_6
+59_MFCC_7
+59_MFCC_8
+59_MFCC_9
+59_Max power spectrum
+59_Maximum frequency
+59_Median frequency
+59_Power bandwidth
+59_Spectral centroid
+59_Spectral decrease
+59_Spectral distance
+59_Spectral entropy
+59_Spectral kurtosis
+59_Spectral positive turning points
+59_Spectral roll-off
+59_Spectral roll-on
+59_Spectral skewness
+59_Spectral slope
+59_Spectral spread
+59_Spectral variation
+59_Spectrogram mean coefficient_0.0Hz
+59_Spectrogram mean coefficient_100.81Hz
+59_Spectrogram mean coefficient_104.84Hz
+59_Spectrogram mean coefficient_108.87Hz
+59_Spectrogram mean coefficient_112.9Hz
+59_Spectrogram mean coefficient_116.94Hz
+59_Spectrogram mean coefficient_12.1Hz
+59_Spectrogram mean coefficient_120.97Hz
+59_Spectrogram mean coefficient_125.0Hz
+59_Spectrogram mean coefficient_16.13Hz
+59_Spectrogram mean coefficient_20.16Hz
+59_Spectrogram mean coefficient_24.19Hz
+59_Spectrogram mean coefficient_28.23Hz
+59_Spectrogram mean coefficient_32.26Hz
+59_Spectrogram mean coefficient_36.29Hz
+59_Spectrogram mean coefficient_4.03Hz
+59_Spectrogram mean coefficient_40.32Hz
+59_Spectrogram mean coefficient_44.35Hz
+59_Spectrogram mean coefficient_48.39Hz
+59_Spectrogram mean coefficient_52.42Hz
+59_Spectrogram mean coefficient_56.45Hz
+59_Spectrogram mean coefficient_60.48Hz
+59_Spectrogram mean coefficient_64.52Hz
+59_Spectrogram mean coefficient_68.55Hz
+59_Spectrogram mean coefficient_72.58Hz
+59_Spectrogram mean coefficient_76.61Hz
+59_Spectrogram mean coefficient_8.06Hz
+59_Spectrogram mean coefficient_80.65Hz
+59_Spectrogram mean coefficient_84.68Hz
+59_Spectrogram mean coefficient_88.71Hz
+59_Spectrogram mean coefficient_92.74Hz
+59_Spectrogram mean coefficient_96.77Hz
+59_Wavelet absolute mean_10.42Hz
+59_Wavelet absolute mean_12.5Hz
+59_Wavelet absolute mean_15.62Hz
+59_Wavelet absolute mean_20.83Hz
+59_Wavelet absolute mean_31.25Hz
+59_Wavelet absolute mean_6.94Hz
+59_Wavelet absolute mean_62.5Hz
+59_Wavelet absolute mean_7.81Hz
+59_Wavelet absolute mean_8.93Hz
+59_Wavelet energy_10.42Hz
+59_Wavelet energy_12.5Hz
+59_Wavelet energy_15.62Hz
+59_Wavelet energy_20.83Hz
+59_Wavelet energy_31.25Hz
+59_Wavelet energy_6.94Hz
+59_Wavelet energy_62.5Hz
+59_Wavelet energy_7.81Hz
+59_Wavelet energy_8.93Hz
+59_Wavelet entropy
+59_Wavelet standard deviation_10.42Hz
+59_Wavelet standard deviation_12.5Hz
+59_Wavelet standard deviation_15.62Hz
+59_Wavelet standard deviation_20.83Hz
+59_Wavelet standard deviation_31.25Hz
+59_Wavelet standard deviation_6.94Hz
+59_Wavelet standard deviation_62.5Hz
+59_Wavelet standard deviation_7.81Hz
+59_Wavelet standard deviation_8.93Hz
+59_Wavelet variance_10.42Hz
+59_Wavelet variance_12.5Hz
+59_Wavelet variance_15.62Hz
+59_Wavelet variance_20.83Hz
+59_Wavelet variance_31.25Hz
+59_Wavelet variance_6.94Hz
+59_Wavelet variance_62.5Hz
+59_Wavelet variance_7.81Hz
+59_Wavelet variance_8.93Hz
+5_Fundamental frequency
+5_Human range energy
+5_LPCC_0
+5_LPCC_1
+5_LPCC_10
+5_LPCC_11
+5_LPCC_2
+5_LPCC_3
+5_LPCC_4
+5_LPCC_5
+5_LPCC_6
+5_LPCC_7
+5_LPCC_8
+5_LPCC_9
+5_MFCC_0
+5_MFCC_1
+5_MFCC_10
+5_MFCC_11
+5_MFCC_2
+5_MFCC_3
+5_MFCC_4
+5_MFCC_5
+5_MFCC_6
+5_MFCC_7
+5_MFCC_8
+5_MFCC_9
+5_Max power spectrum
+5_Maximum frequency
+5_Median frequency
+5_Power bandwidth
+5_Spectral centroid
+5_Spectral decrease
+5_Spectral distance
+5_Spectral entropy
+5_Spectral kurtosis
+5_Spectral positive turning points
+5_Spectral roll-off
+5_Spectral roll-on
+5_Spectral skewness
+5_Spectral slope
+5_Spectral spread
+5_Spectral variation
+5_Spectrogram mean coefficient_0.0Hz
+5_Spectrogram mean coefficient_100.81Hz
+5_Spectrogram mean coefficient_104.84Hz
+5_Spectrogram mean coefficient_108.87Hz
+5_Spectrogram mean coefficient_112.9Hz
+5_Spectrogram mean coefficient_116.94Hz
+5_Spectrogram mean coefficient_12.1Hz
+5_Spectrogram mean coefficient_120.97Hz
+5_Spectrogram mean coefficient_125.0Hz
+5_Spectrogram mean coefficient_16.13Hz
+5_Spectrogram mean coefficient_20.16Hz
+5_Spectrogram mean coefficient_24.19Hz
+5_Spectrogram mean coefficient_28.23Hz
+5_Spectrogram mean coefficient_32.26Hz
+5_Spectrogram mean coefficient_36.29Hz
+5_Spectrogram mean coefficient_4.03Hz
+5_Spectrogram mean coefficient_40.32Hz
+5_Spectrogram mean coefficient_44.35Hz
+5_Spectrogram mean coefficient_48.39Hz
+5_Spectrogram mean coefficient_52.42Hz
+5_Spectrogram mean coefficient_56.45Hz
+5_Spectrogram mean coefficient_60.48Hz
+5_Spectrogram mean coefficient_64.52Hz
+5_Spectrogram mean coefficient_68.55Hz
+5_Spectrogram mean coefficient_72.58Hz
+5_Spectrogram mean coefficient_76.61Hz
+5_Spectrogram mean coefficient_8.06Hz
+5_Spectrogram mean coefficient_80.65Hz
+5_Spectrogram mean coefficient_84.68Hz
+5_Spectrogram mean coefficient_88.71Hz
+5_Spectrogram mean coefficient_92.74Hz
+5_Spectrogram mean coefficient_96.77Hz
+5_Wavelet absolute mean_10.42Hz
+5_Wavelet absolute mean_12.5Hz
+5_Wavelet absolute mean_15.62Hz
+5_Wavelet absolute mean_20.83Hz
+5_Wavelet absolute mean_31.25Hz
+5_Wavelet absolute mean_6.94Hz
+5_Wavelet absolute mean_62.5Hz
+5_Wavelet absolute mean_7.81Hz
+5_Wavelet absolute mean_8.93Hz
+5_Wavelet energy_10.42Hz
+5_Wavelet energy_12.5Hz
+5_Wavelet energy_15.62Hz
+5_Wavelet energy_20.83Hz
+5_Wavelet energy_31.25Hz
+5_Wavelet energy_6.94Hz
+5_Wavelet energy_62.5Hz
+5_Wavelet energy_7.81Hz
+5_Wavelet energy_8.93Hz
+5_Wavelet entropy
+5_Wavelet standard deviation_10.42Hz
+5_Wavelet standard deviation_12.5Hz
+5_Wavelet standard deviation_15.62Hz
+5_Wavelet standard deviation_20.83Hz
+5_Wavelet standard deviation_31.25Hz
+5_Wavelet standard deviation_6.94Hz
+5_Wavelet standard deviation_62.5Hz
+5_Wavelet standard deviation_7.81Hz
+5_Wavelet standard deviation_8.93Hz
+5_Wavelet variance_10.42Hz
+5_Wavelet variance_12.5Hz
+5_Wavelet variance_15.62Hz
+5_Wavelet variance_20.83Hz
+5_Wavelet variance_31.25Hz
+5_Wavelet variance_6.94Hz
+5_Wavelet variance_62.5Hz
+5_Wavelet variance_7.81Hz
+5_Wavelet variance_8.93Hz
+60_Fundamental frequency
+60_Human range energy
+60_LPCC_0
+60_LPCC_1
+60_LPCC_10
+60_LPCC_11
+60_LPCC_2
+60_LPCC_3
+60_LPCC_4
+60_LPCC_5
+60_LPCC_6
+60_LPCC_7
+60_LPCC_8
+60_LPCC_9
+60_MFCC_0
+60_MFCC_1
+60_MFCC_10
+60_MFCC_11
+60_MFCC_2
+60_MFCC_3
+60_MFCC_4
+60_MFCC_5
+60_MFCC_6
+60_MFCC_7
+60_MFCC_8
+60_MFCC_9
+60_Max power spectrum
+60_Maximum frequency
+60_Median frequency
+60_Power bandwidth
+60_Spectral centroid
+60_Spectral decrease
+60_Spectral distance
+60_Spectral entropy
+60_Spectral kurtosis
+60_Spectral positive turning points
+60_Spectral roll-off
+60_Spectral roll-on
+60_Spectral skewness
+60_Spectral slope
+60_Spectral spread
+60_Spectral variation
+60_Spectrogram mean coefficient_0.0Hz
+60_Spectrogram mean coefficient_100.81Hz
+60_Spectrogram mean coefficient_104.84Hz
+60_Spectrogram mean coefficient_108.87Hz
+60_Spectrogram mean coefficient_112.9Hz
+60_Spectrogram mean coefficient_116.94Hz
+60_Spectrogram mean coefficient_12.1Hz
+60_Spectrogram mean coefficient_120.97Hz
+60_Spectrogram mean coefficient_125.0Hz
+60_Spectrogram mean coefficient_16.13Hz
+60_Spectrogram mean coefficient_20.16Hz
+60_Spectrogram mean coefficient_24.19Hz
+60_Spectrogram mean coefficient_28.23Hz
+60_Spectrogram mean coefficient_32.26Hz
+60_Spectrogram mean coefficient_36.29Hz
+60_Spectrogram mean coefficient_4.03Hz
+60_Spectrogram mean coefficient_40.32Hz
+60_Spectrogram mean coefficient_44.35Hz
+60_Spectrogram mean coefficient_48.39Hz
+60_Spectrogram mean coefficient_52.42Hz
+60_Spectrogram mean coefficient_56.45Hz
+60_Spectrogram mean coefficient_60.48Hz
+60_Spectrogram mean coefficient_64.52Hz
+60_Spectrogram mean coefficient_68.55Hz
+60_Spectrogram mean coefficient_72.58Hz
+60_Spectrogram mean coefficient_76.61Hz
+60_Spectrogram mean coefficient_8.06Hz
+60_Spectrogram mean coefficient_80.65Hz
+60_Spectrogram mean coefficient_84.68Hz
+60_Spectrogram mean coefficient_88.71Hz
+60_Spectrogram mean coefficient_92.74Hz
+60_Spectrogram mean coefficient_96.77Hz
+60_Wavelet absolute mean_10.42Hz
+60_Wavelet absolute mean_12.5Hz
+60_Wavelet absolute mean_15.62Hz
+60_Wavelet absolute mean_20.83Hz
+60_Wavelet absolute mean_31.25Hz
+60_Wavelet absolute mean_6.94Hz
+60_Wavelet absolute mean_62.5Hz
+60_Wavelet absolute mean_7.81Hz
+60_Wavelet absolute mean_8.93Hz
+60_Wavelet energy_10.42Hz
+60_Wavelet energy_12.5Hz
+60_Wavelet energy_15.62Hz
+60_Wavelet energy_20.83Hz
+60_Wavelet energy_31.25Hz
+60_Wavelet energy_6.94Hz
+60_Wavelet energy_62.5Hz
+60_Wavelet energy_7.81Hz
+60_Wavelet energy_8.93Hz
+60_Wavelet entropy
+60_Wavelet standard deviation_10.42Hz
+60_Wavelet standard deviation_12.5Hz
+60_Wavelet standard deviation_15.62Hz
+60_Wavelet standard deviation_20.83Hz
+60_Wavelet standard deviation_31.25Hz
+60_Wavelet standard deviation_6.94Hz
+60_Wavelet standard deviation_62.5Hz
+60_Wavelet standard deviation_7.81Hz
+60_Wavelet standard deviation_8.93Hz
+60_Wavelet variance_10.42Hz
+60_Wavelet variance_12.5Hz
+60_Wavelet variance_15.62Hz
+60_Wavelet variance_20.83Hz
+60_Wavelet variance_31.25Hz
+60_Wavelet variance_6.94Hz
+60_Wavelet variance_62.5Hz
+60_Wavelet variance_7.81Hz
+60_Wavelet variance_8.93Hz
+61_Fundamental frequency
+61_Human range energy
+61_LPCC_0
+61_LPCC_1
+61_LPCC_10
+61_LPCC_11
+61_LPCC_2
+61_LPCC_3
+61_LPCC_4
+61_LPCC_5
+61_LPCC_6
+61_LPCC_7
+61_LPCC_8
+61_LPCC_9
+61_MFCC_0
+61_MFCC_1
+61_MFCC_10
+61_MFCC_11
+61_MFCC_2
+61_MFCC_3
+61_MFCC_4
+61_MFCC_5
+61_MFCC_6
+61_MFCC_7
+61_MFCC_8
+61_MFCC_9
+61_Max power spectrum
+61_Maximum frequency
+61_Median frequency
+61_Power bandwidth
+61_Spectral centroid
+61_Spectral decrease
+61_Spectral distance
+61_Spectral entropy
+61_Spectral kurtosis
+61_Spectral positive turning points
+61_Spectral roll-off
+61_Spectral roll-on
+61_Spectral skewness
+61_Spectral slope
+61_Spectral spread
+61_Spectral variation
+61_Spectrogram mean coefficient_0.0Hz
+61_Spectrogram mean coefficient_100.81Hz
+61_Spectrogram mean coefficient_104.84Hz
+61_Spectrogram mean coefficient_108.87Hz
+61_Spectrogram mean coefficient_112.9Hz
+61_Spectrogram mean coefficient_116.94Hz
+61_Spectrogram mean coefficient_12.1Hz
+61_Spectrogram mean coefficient_120.97Hz
+61_Spectrogram mean coefficient_125.0Hz
+61_Spectrogram mean coefficient_16.13Hz
+61_Spectrogram mean coefficient_20.16Hz
+61_Spectrogram mean coefficient_24.19Hz
+61_Spectrogram mean coefficient_28.23Hz
+61_Spectrogram mean coefficient_32.26Hz
+61_Spectrogram mean coefficient_36.29Hz
+61_Spectrogram mean coefficient_4.03Hz
+61_Spectrogram mean coefficient_40.32Hz
+61_Spectrogram mean coefficient_44.35Hz
+61_Spectrogram mean coefficient_48.39Hz
+61_Spectrogram mean coefficient_52.42Hz
+61_Spectrogram mean coefficient_56.45Hz
+61_Spectrogram mean coefficient_60.48Hz
+61_Spectrogram mean coefficient_64.52Hz
+61_Spectrogram mean coefficient_68.55Hz
+61_Spectrogram mean coefficient_72.58Hz
+61_Spectrogram mean coefficient_76.61Hz
+61_Spectrogram mean coefficient_8.06Hz
+61_Spectrogram mean coefficient_80.65Hz
+61_Spectrogram mean coefficient_84.68Hz
+61_Spectrogram mean coefficient_88.71Hz
+61_Spectrogram mean coefficient_92.74Hz
+61_Spectrogram mean coefficient_96.77Hz
+61_Wavelet absolute mean_10.42Hz
+61_Wavelet absolute mean_12.5Hz
+61_Wavelet absolute mean_15.62Hz
+61_Wavelet absolute mean_20.83Hz
+61_Wavelet absolute mean_31.25Hz
+61_Wavelet absolute mean_6.94Hz
+61_Wavelet absolute mean_62.5Hz
+61_Wavelet absolute mean_7.81Hz
+61_Wavelet absolute mean_8.93Hz
+61_Wavelet energy_10.42Hz
+61_Wavelet energy_12.5Hz
+61_Wavelet energy_15.62Hz
+61_Wavelet energy_20.83Hz
+61_Wavelet energy_31.25Hz
+61_Wavelet energy_6.94Hz
+61_Wavelet energy_62.5Hz
+61_Wavelet energy_7.81Hz
+61_Wavelet energy_8.93Hz
+61_Wavelet entropy
+61_Wavelet standard deviation_10.42Hz
+61_Wavelet standard deviation_12.5Hz
+61_Wavelet standard deviation_15.62Hz
+61_Wavelet standard deviation_20.83Hz
+61_Wavelet standard deviation_31.25Hz
+61_Wavelet standard deviation_6.94Hz
+61_Wavelet standard deviation_62.5Hz
+61_Wavelet standard deviation_7.81Hz
+61_Wavelet standard deviation_8.93Hz
+61_Wavelet variance_10.42Hz
+61_Wavelet variance_12.5Hz
+61_Wavelet variance_15.62Hz
+61_Wavelet variance_20.83Hz
+61_Wavelet variance_31.25Hz
+61_Wavelet variance_6.94Hz
+61_Wavelet variance_62.5Hz
+61_Wavelet variance_7.81Hz
+61_Wavelet variance_8.93Hz
+6_Fundamental frequency
+6_Human range energy
+6_LPCC_0
+6_LPCC_1
+6_LPCC_10
+6_LPCC_11
+6_LPCC_2
+6_LPCC_3
+6_LPCC_4
+6_LPCC_5
+6_LPCC_6
+6_LPCC_7
+6_LPCC_8
+6_LPCC_9
+6_MFCC_0
+6_MFCC_1
+6_MFCC_10
+6_MFCC_11
+6_MFCC_2
+6_MFCC_3
+6_MFCC_4
+6_MFCC_5
+6_MFCC_6
+6_MFCC_7
+6_MFCC_8
+6_MFCC_9
+6_Max power spectrum
+6_Maximum frequency
+6_Median frequency
+6_Power bandwidth
+6_Spectral centroid
+6_Spectral decrease
+6_Spectral distance
+6_Spectral entropy
+6_Spectral kurtosis
+6_Spectral positive turning points
+6_Spectral roll-off
+6_Spectral roll-on
+6_Spectral skewness
+6_Spectral slope
+6_Spectral spread
+6_Spectral variation
+6_Spectrogram mean coefficient_0.0Hz
+6_Spectrogram mean coefficient_100.81Hz
+6_Spectrogram mean coefficient_104.84Hz
+6_Spectrogram mean coefficient_108.87Hz
+6_Spectrogram mean coefficient_112.9Hz
+6_Spectrogram mean coefficient_116.94Hz
+6_Spectrogram mean coefficient_12.1Hz
+6_Spectrogram mean coefficient_120.97Hz
+6_Spectrogram mean coefficient_125.0Hz
+6_Spectrogram mean coefficient_16.13Hz
+6_Spectrogram mean coefficient_20.16Hz
+6_Spectrogram mean coefficient_24.19Hz
+6_Spectrogram mean coefficient_28.23Hz
+6_Spectrogram mean coefficient_32.26Hz
+6_Spectrogram mean coefficient_36.29Hz
+6_Spectrogram mean coefficient_4.03Hz
+6_Spectrogram mean coefficient_40.32Hz
+6_Spectrogram mean coefficient_44.35Hz
+6_Spectrogram mean coefficient_48.39Hz
+6_Spectrogram mean coefficient_52.42Hz
+6_Spectrogram mean coefficient_56.45Hz
+6_Spectrogram mean coefficient_60.48Hz
+6_Spectrogram mean coefficient_64.52Hz
+6_Spectrogram mean coefficient_68.55Hz
+6_Spectrogram mean coefficient_72.58Hz
+6_Spectrogram mean coefficient_76.61Hz
+6_Spectrogram mean coefficient_8.06Hz
+6_Spectrogram mean coefficient_80.65Hz
+6_Spectrogram mean coefficient_84.68Hz
+6_Spectrogram mean coefficient_88.71Hz
+6_Spectrogram mean coefficient_92.74Hz
+6_Spectrogram mean coefficient_96.77Hz
+6_Wavelet absolute mean_10.42Hz
+6_Wavelet absolute mean_12.5Hz
+6_Wavelet absolute mean_15.62Hz
+6_Wavelet absolute mean_20.83Hz
+6_Wavelet absolute mean_31.25Hz
+6_Wavelet absolute mean_6.94Hz
+6_Wavelet absolute mean_62.5Hz
+6_Wavelet absolute mean_7.81Hz
+6_Wavelet absolute mean_8.93Hz
+6_Wavelet energy_10.42Hz
+6_Wavelet energy_12.5Hz
+6_Wavelet energy_15.62Hz
+6_Wavelet energy_20.83Hz
+6_Wavelet energy_31.25Hz
+6_Wavelet energy_6.94Hz
+6_Wavelet energy_62.5Hz
+6_Wavelet energy_7.81Hz
+6_Wavelet energy_8.93Hz
+6_Wavelet entropy
+6_Wavelet standard deviation_10.42Hz
+6_Wavelet standard deviation_12.5Hz
+6_Wavelet standard deviation_15.62Hz
+6_Wavelet standard deviation_20.83Hz
+6_Wavelet standard deviation_31.25Hz
+6_Wavelet standard deviation_6.94Hz
+6_Wavelet standard deviation_62.5Hz
+6_Wavelet standard deviation_7.81Hz
+6_Wavelet standard deviation_8.93Hz
+6_Wavelet variance_10.42Hz
+6_Wavelet variance_12.5Hz
+6_Wavelet variance_15.62Hz
+6_Wavelet variance_20.83Hz
+6_Wavelet variance_31.25Hz
+6_Wavelet variance_6.94Hz
+6_Wavelet variance_62.5Hz
+6_Wavelet variance_7.81Hz
+6_Wavelet variance_8.93Hz
+7_Fundamental frequency
+7_Human range energy
+7_LPCC_0
+7_LPCC_1
+7_LPCC_10
+7_LPCC_11
+7_LPCC_2
+7_LPCC_3
+7_LPCC_4
+7_LPCC_5
+7_LPCC_6
+7_LPCC_7
+7_LPCC_8
+7_LPCC_9
+7_MFCC_0
+7_MFCC_1
+7_MFCC_10
+7_MFCC_11
+7_MFCC_2
+7_MFCC_3
+7_MFCC_4
+7_MFCC_5
+7_MFCC_6
+7_MFCC_7
+7_MFCC_8
+7_MFCC_9
+7_Max power spectrum
+7_Maximum frequency
+7_Median frequency
+7_Power bandwidth
+7_Spectral centroid
+7_Spectral decrease
+7_Spectral distance
+7_Spectral entropy
+7_Spectral kurtosis
+7_Spectral positive turning points
+7_Spectral roll-off
+7_Spectral roll-on
+7_Spectral skewness
+7_Spectral slope
+7_Spectral spread
+7_Spectral variation
+7_Spectrogram mean coefficient_0.0Hz
+7_Spectrogram mean coefficient_100.81Hz
+7_Spectrogram mean coefficient_104.84Hz
+7_Spectrogram mean coefficient_108.87Hz
+7_Spectrogram mean coefficient_112.9Hz
+7_Spectrogram mean coefficient_116.94Hz
+7_Spectrogram mean coefficient_12.1Hz
+7_Spectrogram mean coefficient_120.97Hz
+7_Spectrogram mean coefficient_125.0Hz
+7_Spectrogram mean coefficient_16.13Hz
+7_Spectrogram mean coefficient_20.16Hz
+7_Spectrogram mean coefficient_24.19Hz
+7_Spectrogram mean coefficient_28.23Hz
+7_Spectrogram mean coefficient_32.26Hz
+7_Spectrogram mean coefficient_36.29Hz
+7_Spectrogram mean coefficient_4.03Hz
+7_Spectrogram mean coefficient_40.32Hz
+7_Spectrogram mean coefficient_44.35Hz
+7_Spectrogram mean coefficient_48.39Hz
+7_Spectrogram mean coefficient_52.42Hz
+7_Spectrogram mean coefficient_56.45Hz
+7_Spectrogram mean coefficient_60.48Hz
+7_Spectrogram mean coefficient_64.52Hz
+7_Spectrogram mean coefficient_68.55Hz
+7_Spectrogram mean coefficient_72.58Hz
+7_Spectrogram mean coefficient_76.61Hz
+7_Spectrogram mean coefficient_8.06Hz
+7_Spectrogram mean coefficient_80.65Hz
+7_Spectrogram mean coefficient_84.68Hz
+7_Spectrogram mean coefficient_88.71Hz
+7_Spectrogram mean coefficient_92.74Hz
+7_Spectrogram mean coefficient_96.77Hz
+7_Wavelet absolute mean_10.42Hz
+7_Wavelet absolute mean_12.5Hz
+7_Wavelet absolute mean_15.62Hz
+7_Wavelet absolute mean_20.83Hz
+7_Wavelet absolute mean_31.25Hz
+7_Wavelet absolute mean_6.94Hz
+7_Wavelet absolute mean_62.5Hz
+7_Wavelet absolute mean_7.81Hz
+7_Wavelet absolute mean_8.93Hz
+7_Wavelet energy_10.42Hz
+7_Wavelet energy_12.5Hz
+7_Wavelet energy_15.62Hz
+7_Wavelet energy_20.83Hz
+7_Wavelet energy_31.25Hz
+7_Wavelet energy_6.94Hz
+7_Wavelet energy_62.5Hz
+7_Wavelet energy_7.81Hz
+7_Wavelet energy_8.93Hz
+7_Wavelet entropy
+7_Wavelet standard deviation_10.42Hz
+7_Wavelet standard deviation_12.5Hz
+7_Wavelet standard deviation_15.62Hz
+7_Wavelet standard deviation_20.83Hz
+7_Wavelet standard deviation_31.25Hz
+7_Wavelet standard deviation_6.94Hz
+7_Wavelet standard deviation_62.5Hz
+7_Wavelet standard deviation_7.81Hz
+7_Wavelet standard deviation_8.93Hz
+7_Wavelet variance_10.42Hz
+7_Wavelet variance_12.5Hz
+7_Wavelet variance_15.62Hz
+7_Wavelet variance_20.83Hz
+7_Wavelet variance_31.25Hz
+7_Wavelet variance_6.94Hz
+7_Wavelet variance_62.5Hz
+7_Wavelet variance_7.81Hz
+7_Wavelet variance_8.93Hz
+8_Fundamental frequency
+8_Human range energy
+8_LPCC_0
+8_LPCC_1
+8_LPCC_10
+8_LPCC_11
+8_LPCC_2
+8_LPCC_3
+8_LPCC_4
+8_LPCC_5
+8_LPCC_6
+8_LPCC_7
+8_LPCC_8
+8_LPCC_9
+8_MFCC_0
+8_MFCC_1
+8_MFCC_10
+8_MFCC_11
+8_MFCC_2
+8_MFCC_3
+8_MFCC_4
+8_MFCC_5
+8_MFCC_6
+8_MFCC_7
+8_MFCC_8
+8_MFCC_9
+8_Max power spectrum
+8_Maximum frequency
+8_Median frequency
+8_Power bandwidth
+8_Spectral centroid
+8_Spectral decrease
+8_Spectral distance
+8_Spectral entropy
+8_Spectral kurtosis
+8_Spectral positive turning points
+8_Spectral roll-off
+8_Spectral roll-on
+8_Spectral skewness
+8_Spectral slope
+8_Spectral spread
+8_Spectral variation
+8_Spectrogram mean coefficient_0.0Hz
+8_Spectrogram mean coefficient_100.81Hz
+8_Spectrogram mean coefficient_104.84Hz
+8_Spectrogram mean coefficient_108.87Hz
+8_Spectrogram mean coefficient_112.9Hz
+8_Spectrogram mean coefficient_116.94Hz
+8_Spectrogram mean coefficient_12.1Hz
+8_Spectrogram mean coefficient_120.97Hz
+8_Spectrogram mean coefficient_125.0Hz
+8_Spectrogram mean coefficient_16.13Hz
+8_Spectrogram mean coefficient_20.16Hz
+8_Spectrogram mean coefficient_24.19Hz
+8_Spectrogram mean coefficient_28.23Hz
+8_Spectrogram mean coefficient_32.26Hz
+8_Spectrogram mean coefficient_36.29Hz
+8_Spectrogram mean coefficient_4.03Hz
+8_Spectrogram mean coefficient_40.32Hz
+8_Spectrogram mean coefficient_44.35Hz
+8_Spectrogram mean coefficient_48.39Hz
+8_Spectrogram mean coefficient_52.42Hz
+8_Spectrogram mean coefficient_56.45Hz
+8_Spectrogram mean coefficient_60.48Hz
+8_Spectrogram mean coefficient_64.52Hz
+8_Spectrogram mean coefficient_68.55Hz
+8_Spectrogram mean coefficient_72.58Hz
+8_Spectrogram mean coefficient_76.61Hz
+8_Spectrogram mean coefficient_8.06Hz
+8_Spectrogram mean coefficient_80.65Hz
+8_Spectrogram mean coefficient_84.68Hz
+8_Spectrogram mean coefficient_88.71Hz
+8_Spectrogram mean coefficient_92.74Hz
+8_Spectrogram mean coefficient_96.77Hz
+8_Wavelet absolute mean_10.42Hz
+8_Wavelet absolute mean_12.5Hz
+8_Wavelet absolute mean_15.62Hz
+8_Wavelet absolute mean_20.83Hz
+8_Wavelet absolute mean_31.25Hz
+8_Wavelet absolute mean_6.94Hz
+8_Wavelet absolute mean_62.5Hz
+8_Wavelet absolute mean_7.81Hz
+8_Wavelet absolute mean_8.93Hz
+8_Wavelet energy_10.42Hz
+8_Wavelet energy_12.5Hz
+8_Wavelet energy_15.62Hz
+8_Wavelet energy_20.83Hz
+8_Wavelet energy_31.25Hz
+8_Wavelet energy_6.94Hz
+8_Wavelet energy_62.5Hz
+8_Wavelet energy_7.81Hz
+8_Wavelet energy_8.93Hz
+8_Wavelet entropy
+8_Wavelet standard deviation_10.42Hz
+8_Wavelet standard deviation_12.5Hz
+8_Wavelet standard deviation_15.62Hz
+8_Wavelet standard deviation_20.83Hz
+8_Wavelet standard deviation_31.25Hz
+8_Wavelet standard deviation_6.94Hz
+8_Wavelet standard deviation_62.5Hz
+8_Wavelet standard deviation_7.81Hz
+8_Wavelet standard deviation_8.93Hz
+8_Wavelet variance_10.42Hz
+8_Wavelet variance_12.5Hz
+8_Wavelet variance_15.62Hz
+8_Wavelet variance_20.83Hz
+8_Wavelet variance_31.25Hz
+8_Wavelet variance_6.94Hz
+8_Wavelet variance_62.5Hz
+8_Wavelet variance_7.81Hz
+8_Wavelet variance_8.93Hz
+9_Fundamental frequency
+9_Human range energy
+9_LPCC_0
+9_LPCC_1
+9_LPCC_10
+9_LPCC_11
+9_LPCC_2
+9_LPCC_3
+9_LPCC_4
+9_LPCC_5
+9_LPCC_6
+9_LPCC_7
+9_LPCC_8
+9_LPCC_9
+9_MFCC_0
+9_MFCC_1
+9_MFCC_10
+9_MFCC_11
+9_MFCC_2
+9_MFCC_3
+9_MFCC_4
+9_MFCC_5
+9_MFCC_6
+9_MFCC_7
+9_MFCC_8
+9_MFCC_9
+9_Max power spectrum
+9_Maximum frequency
+9_Median frequency
+9_Power bandwidth
+9_Spectral centroid
+9_Spectral decrease
+9_Spectral distance
+9_Spectral entropy
+9_Spectral kurtosis
+9_Spectral positive turning points
+9_Spectral roll-off
+9_Spectral roll-on
+9_Spectral skewness
+9_Spectral slope
+9_Spectral spread
+9_Spectral variation
+9_Spectrogram mean coefficient_0.0Hz
+9_Spectrogram mean coefficient_100.81Hz
+9_Spectrogram mean coefficient_104.84Hz
+9_Spectrogram mean coefficient_108.87Hz
+9_Spectrogram mean coefficient_112.9Hz
+9_Spectrogram mean coefficient_116.94Hz
+9_Spectrogram mean coefficient_12.1Hz
+9_Spectrogram mean coefficient_120.97Hz
+9_Spectrogram mean coefficient_125.0Hz
+9_Spectrogram mean coefficient_16.13Hz
+9_Spectrogram mean coefficient_20.16Hz
+9_Spectrogram mean coefficient_24.19Hz
+9_Spectrogram mean coefficient_28.23Hz
+9_Spectrogram mean coefficient_32.26Hz
+9_Spectrogram mean coefficient_36.29Hz
+9_Spectrogram mean coefficient_4.03Hz
+9_Spectrogram mean coefficient_40.32Hz
+9_Spectrogram mean coefficient_44.35Hz
+9_Spectrogram mean coefficient_48.39Hz
+9_Spectrogram mean coefficient_52.42Hz
+9_Spectrogram mean coefficient_56.45Hz
+9_Spectrogram mean coefficient_60.48Hz
+9_Spectrogram mean coefficient_64.52Hz
+9_Spectrogram mean coefficient_68.55Hz
+9_Spectrogram mean coefficient_72.58Hz
+9_Spectrogram mean coefficient_76.61Hz
+9_Spectrogram mean coefficient_8.06Hz
+9_Spectrogram mean coefficient_80.65Hz
+9_Spectrogram mean coefficient_84.68Hz
+9_Spectrogram mean coefficient_88.71Hz
+9_Spectrogram mean coefficient_92.74Hz
+9_Spectrogram mean coefficient_96.77Hz
+9_Wavelet absolute mean_10.42Hz
+9_Wavelet absolute mean_12.5Hz
+9_Wavelet absolute mean_15.62Hz
+9_Wavelet absolute mean_20.83Hz
+9_Wavelet absolute mean_31.25Hz
+9_Wavelet absolute mean_6.94Hz
+9_Wavelet absolute mean_62.5Hz
+9_Wavelet absolute mean_7.81Hz
+9_Wavelet absolute mean_8.93Hz
+9_Wavelet energy_10.42Hz
+9_Wavelet energy_12.5Hz
+9_Wavelet energy_15.62Hz
+9_Wavelet energy_20.83Hz
+9_Wavelet energy_31.25Hz
+9_Wavelet energy_6.94Hz
+9_Wavelet energy_62.5Hz
+9_Wavelet energy_7.81Hz
+9_Wavelet energy_8.93Hz
+9_Wavelet entropy
+9_Wavelet standard deviation_10.42Hz
+9_Wavelet standard deviation_12.5Hz
+9_Wavelet standard deviation_15.62Hz
+9_Wavelet standard deviation_20.83Hz
+9_Wavelet standard deviation_31.25Hz
+9_Wavelet standard deviation_6.94Hz
+9_Wavelet standard deviation_62.5Hz
+9_Wavelet standard deviation_7.81Hz
+9_Wavelet standard deviation_8.93Hz
+9_Wavelet variance_10.42Hz
+9_Wavelet variance_12.5Hz
+9_Wavelet variance_15.62Hz
+9_Wavelet variance_20.83Hz
+9_Wavelet variance_31.25Hz
+9_Wavelet variance_6.94Hz
+9_Wavelet variance_62.5Hz
+9_Wavelet variance_7.81Hz
+9_Wavelet variance_8.93Hz
