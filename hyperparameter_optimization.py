@@ -11,7 +11,7 @@ optuna.logging.set_verbosity(optuna.logging.WARNING)
 TRUE_LABELS_PATH = '/Users/tanmoysil/Downloads/true_labels'
 N_FINGERS  = 5
 CV_FOLDS   = 5
-N_TRIALS   = 50
+N_TRIALS   = 10
 SUBJECTS   = ['sub1', 'sub2', 'sub3']
 
 
@@ -46,7 +46,7 @@ def make_objective(X_train, y_train):
             'reg_alpha':         trial.suggest_float('reg_alpha', 1e-4, 10.0, log=True),
             'reg_lambda':        trial.suggest_float('reg_lambda', 1e-4, 10.0, log=True),
             'tree_method': 'hist',
-            'n_jobs': -1,
+            'n_jobs': 2,
             'random_state': 42,
         }
         scores = []
@@ -79,7 +79,7 @@ for subj in SUBJECTS:
     print(f'  X_train {X_train.shape}  X_test {X_test.shape}')
 
     study = optuna.create_study(direction='maximize')
-    study.optimize(make_objective(X_train, y_train), n_trials=N_TRIALS, show_progress_bar=True)
+    study.optimize(make_objective(X_train, y_train), n_trials=N_TRIALS, n_jobs=4, show_progress_bar=True)
 
     best = study.best_params
     print(f'  Best CV r : {study.best_value:.4f}')
@@ -92,7 +92,7 @@ for subj in SUBJECTS:
         model.fit(X_train, y_train[:, finger])
         y_pred[:, finger] = model.predict(X_test)
 
-    test_r = mean_pearson_r(y_test, y_pred) if y_test is not None else None
+    test_r = mean_pearson_r(y_test[-len(y_pred):], y_pred) if y_test is not None else None
     if test_r is not None:
         print(f'  Test r (true labels): {test_r:.4f}')
     results[subj] = {'cv_r': study.best_value, 'test_r': test_r, 'params': best}
