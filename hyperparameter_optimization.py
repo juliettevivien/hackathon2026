@@ -4,23 +4,25 @@ import optuna
 from scipy.stats import pearsonr
 from sklearn.model_selection import KFold
 from xgboost import XGBRegressor
+from preprocessing import make_lagged_features, DECIMATE_Q, EPOCH_SAMPLES
 
 optuna.logging.set_verbosity(optuna.logging.WARNING)
 
 TRUE_LABELS_PATH = '/Users/tanmoysil/Downloads/true_labels'
 N_FINGERS  = 5
 CV_FOLDS   = 5
-N_TRIALS   = 5
+N_TRIALS   = 50
 SUBJECTS   = ['sub1', 'sub2', 'sub3']
-DECIMATE_Q = 4
-EPOCH_SAMPLES = 250  # 1s at 250 Hz
 
 
-def load_true_labels(subj: str) -> np.ndarray:
+def load_true_labels(subj: str) -> np.ndarray | None:
     import scipy.io
-    mat = scipy.io.loadmat(f'{TRUE_LABELS_PATH}/{subj}_testlabels.mat')
+    from pathlib import Path
+    path = Path(f'{TRUE_LABELS_PATH}/{subj}_testlabels.mat')
+    if not path.exists():
+        return None
+    mat = scipy.io.loadmat(path)
     dg = mat['test_dg'].astype(np.float64)
-    # stride downsample then window — same as training labels
     dg = dg[::DECIMATE_Q]
     n_epochs = len(dg) // EPOCH_SAMPLES
     return dg[: n_epochs * EPOCH_SAMPLES : EPOCH_SAMPLES]
@@ -66,12 +68,15 @@ results = {}
 
 for subj in SUBJECTS:
     print(f'\n── {subj} ──────────────────────────────────────')
-    X_train = pd.read_parquet(f'X_train_{subj}_selected.parquet').values
-    X_test  = pd.read_parquet(f'X_test_{subj}_selected.parquet').values
-    y_train = np.load(f'y_train_{subj}.npy')
-    y_test  = load_true_labels(subj)
+    X_train_raw = pd.read_parquet(f'X_train_{subj}_selected.parquet').values
+    X_test_raw  = pd.read_parquet(f'X_test_{subj}_selected.parquet').values
+    y_train_raw = np.load(f'y_train_{subj}.npy')
+    y_test      = load_true_labels(subj)
 
-    print(f'  X_train {X_train.shape}  X_test {X_test.shape}  y_test {y_test.shape}')
+    X_train, y_train = make_lagged_features(X_train_raw, y_train_raw)
+    X_test           = make_lagged_features(X_test_raw)
+
+    print(f'  X_train {X_train.shape}  X_test {X_test.shape}')
 
     study = optuna.create_study(direction='maximize')
     study.optimize(make_objective(X_train, y_train), n_trials=N_TRIALS, show_progress_bar=True)
@@ -87,8 +92,9 @@ for subj in SUBJECTS:
         model.fit(X_train, y_train[:, finger])
         y_pred[:, finger] = model.predict(X_test)
 
-    test_r = mean_pearson_r(y_test, y_pred)
-    print(f'  Test r (true labels): {test_r:.4f}')
+    test_r = mean_pearson_r(y_test, y_pred) if y_test is not None else None
+    if test_r is not None:
+        print(f'  Test r (true labels): {test_r:.4f}')
     results[subj] = {'cv_r': study.best_value, 'test_r': test_r, 'params': best}
 
     np.save(f'y_pred_{subj}.npy', y_pred)
@@ -98,5 +104,7 @@ for subj in SUBJECTS:
 
 print('\n══ Summary ══')
 for subj, res in results.items():
-    print(f'  {subj}  CV r={res["cv_r"]:.4f}  Test r={res["test_r"]:.4f}')
-print(f'  Overall test r: {np.mean([r["test_r"] for r in results.values()]):.4f}')
+    test_str = f'  Test r={res["test_r"]:.4f}' if res['test_r'] is not None else ''
+    print(f'  {subj}  CV r={res["cv_r"]:.4f}{test_str}')
+if all(r['test_r'] is not None for r in results.values()):
+    print(f'  Overall test r: {np.mean([r["test_r"] for r in results.values()]):.4f}')
