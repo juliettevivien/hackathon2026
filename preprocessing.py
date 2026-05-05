@@ -11,15 +11,18 @@ from pathlib import Path
 # ── Constants ──────────────────────────────────────────────────────────────
 DATA_PATH = Path('/Users/tanmoysil/Downloads/BCICIV_4_mat')
 FS_RAW = 1000
-FS = 250                          # target sampling rate after decimation
-DECIMATE_Q = FS_RAW // FS         # integer decimation factor (4)
+FS = 300                          # target sampling rate after decimation
+DECIMATE_Q = FS_RAW // FS         # integer decimation factor (3)
 EPOCH_SEC = 1.0
-EPOCH_SAMPLES = int(FS * EPOCH_SEC)  # 250 samples at 250 Hz → 1 s windows
+EPOCH_SAMPLES = int(FS * EPOCH_SEC)  # 300 samples at 300 Hz → 1 s windows
+
+STEP_MS = 50                              # feature stride
+STEP_SAMPLES = int(FS * STEP_MS / 1000)  # 15 samples at 300 Hz
+
+LAG_MS = (100, 150, 200)
+LAG_STEPS = tuple(ms // STEP_MS for ms in LAG_MS)  # (2, 3, 4)
 
 BANDS = {
-    'delta': (0.5, 4),
-    'theta': (4, 8),
-    'alpha': (8, 13),
     'beta':  (13, 30),
     'gamma': (30, 100),
 }
@@ -42,9 +45,10 @@ def bandpass_filter(data: np.ndarray, low: float, high: float, fs: int = FS) -> 
 
 
 # ── Label alignment ─────────────────────────────────────────────────────────
-def window_labels(dg: np.ndarray, epoch_samples: int = EPOCH_SAMPLES) -> np.ndarray:
-    n_epochs = len(dg) // epoch_samples
-    return dg[: n_epochs * epoch_samples : epoch_samples]
+def window_labels(dg: np.ndarray, epoch_samples: int = EPOCH_SAMPLES, step_samples: int = STEP_SAMPLES) -> np.ndarray:
+    n_windows = (len(dg) - epoch_samples) // step_samples + 1
+    indices = (epoch_samples - 1) + np.arange(n_windows) * step_samples
+    return dg[indices]
 
 
 # ── Worker (module-level so it is picklable) ────────────────────────────────
@@ -62,8 +66,9 @@ def _band_worker(args: tuple) -> tuple[str, pd.DataFrame]:
             cfg["spectral"][feat_name]["use"] = "no"
     n_ch = signal.shape[1]
     signal_df = pd.DataFrame(signal, columns=[f'ch{i}' for i in range(n_ch)])
+    overlap = 1.0 - STEP_SAMPLES / EPOCH_SAMPLES  # 0.95 → 50 ms step
     feat = tsfel.time_series_features_extractor(
-        cfg, signal_df, fs=fs, window_size=EPOCH_SAMPLES, overlap=0, verbose=0,
+        cfg, signal_df, fs=fs, window_size=EPOCH_SAMPLES, overlap=overlap, verbose=0,
     )
     feat.columns = [f'{band_name}__{c}' for c in feat.columns]
     return band_name, feat
@@ -120,7 +125,7 @@ def process_subject(mat_file: str) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarr
 def make_lagged_features(
     X: np.ndarray,
     y: np.ndarray | None = None,
-    lags: tuple[int, ...] = (0, 1, 2, 3, 4, 5, 10, 15),
+    lags: tuple[int, ...] = (0,) + LAG_STEPS,  # 0, 100, 150, 200 ms in step units
 ) -> np.ndarray | tuple[np.ndarray, np.ndarray]:
     max_lag = max(lags)
 
